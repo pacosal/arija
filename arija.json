@@ -11,5 +11,18 @@
     "created_1": "07:18",
     "view_node": "/noticia/noticia_feria_san_marcos_2026",
     "id": "2"
-  }
+  },
+  {
+    "type": "Article",
+    "title": "Te presento un libro",
+    "body": "El próximo sábado 2 de mayo en el salón de plenos del ayuntamiento a las 19:00. TEJER VUESTRAS PALABRAS.",
+    "field_image": "",
+    "field_tags": "",
+    "field_imagen": "https://pacosal.github.io/arija/images/presento_libro.jpeg",
+    "field_archivo": "https://pacosal.github.io/arija/images/presento_libro.jpeg",
+    "created": "1 de Mayo de 2026",
+    "created_1": "07:18",
+    "view_node": "/noticia/noticia_presento_libro",
+    "id": "3"
+  }  
 ]
