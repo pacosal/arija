@@ -1,0 +1,1087 @@
+#EXTM3U url-tvg="http://d38c98a9735.gookiki.me/xmltv.php?username=12wn26112213&password=3951462917" x-tvg-url="http://d38c98a9735.gookiki.me/xmltv.php?username=12wn26112213&password=3951462917"
+#EXTINF:-1 tvg-id="237" tvg-name="Movistar La Liga HD" tvg-logo="https://buyone.xyz/pic/Movistar_La_Liga.webp" group-title="[ES] Fútbol",Movistar La Liga HD
+http://d38c98a9735.gookiki.me/live/237.ts?channel_id=237&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=5aa24959f243e1a57f35b30cb66f5066597517a9710dd1330f3e2133f5874e3b
+#EXTINF:-1 tvg-id="922" tvg-name="Movistar La Liga HD 2" tvg-logo="https://buyone.xyz/pic/Movistar_La_Liga.webp" group-title="[ES] Fútbol",Movistar La Liga HD 2
+http://d38c98a9735.gookiki.me/live/922.ts?channel_id=922&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=ce24d864cd0d5fcc412306bc7ba89ab01ea2dd6586f145fa36b07e1fd7780f1c
+#EXTINF:-1 tvg-id="934" tvg-name="Movistar La Liga HD 3" tvg-logo="https://buyone.xyz/pic/Movistar_La_Liga.webp" group-title="[ES] Fútbol",Movistar La Liga HD 3
+http://d38c98a9735.gookiki.me/live/934.ts?channel_id=934&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=3c9b111ef227daf81d86be562472045dded131ecbf9cefb64a4f6eee1256b96b
+#EXTINF:-1 tvg-id="947" tvg-name="Movistar La Liga HD 4" tvg-logo="https://buyone.xyz/pic/Movistar_La_Liga.webp" group-title="[ES] Fútbol",Movistar La Liga HD 4
+http://d38c98a9735.gookiki.me/live/947.ts?channel_id=947&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=96f0fe453a116c687ffb9a788ca0b047297bc6912f884128c3a068076512c691
+#EXTINF:-1 tvg-id="1035" tvg-name="Movistar La Liga HD 5" tvg-logo="https://buyone.xyz/pic/Movistar_La_Liga.webp" group-title="[ES] Fútbol",Movistar La Liga HD 5
+http://d38c98a9735.gookiki.me/live/1035.ts?channel_id=1035&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=27ddda72e5c899915d3f46ff3bc200abb7e55bed12c0e94eca741b5b05e4fc2c
+#EXTINF:-1 tvg-id="1338" tvg-name="Movistar La Liga HD 6" tvg-logo="https://buyone.xyz/pic/Movistar_La_Liga.webp" group-title="[ES] Fútbol",Movistar La Liga HD 6
+http://d38c98a9735.gookiki.me/live/1338.ts?channel_id=1338&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=73fa247b5b17208eccbfe496b0e4a2b2c5c011ef9692f813cf2752da4dcf6161
+#EXTINF:-1 tvg-id="302" tvg-name="Movistar La Liga FHD" tvg-logo="https://buyone.xyz/pic/Movistar_La_Liga.webp" group-title="[ES] Fútbol",Movistar La Liga FHD
+http://d38c98a9735.gookiki.me/live/302.ts?channel_id=302&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=e565f01a10db4e868fdd4ab8d2f5388354c79ac8fa11bd0e96aebb4a2a9ae6d1
+#EXTINF:-1 tvg-id="923" tvg-name="Movistar La Liga FHD 2" tvg-logo="https://buyone.xyz/pic/Movistar_La_Liga.webp" group-title="[ES] Fútbol",Movistar La Liga FHD 2
+http://d38c98a9735.gookiki.me/live/923.ts?channel_id=923&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=e375cece8f2023dd31629b18c788ead5285322cc1c141c0e65d4bbf36f56d411
+#EXTINF:-1 tvg-id="935" tvg-name="Movistar La Liga FHD 3" tvg-logo="https://buyone.xyz/pic/Movistar_La_Liga.webp" group-title="[ES] Fútbol",Movistar La Liga FHD 3
+http://d38c98a9735.gookiki.me/live/935.ts?channel_id=935&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=0d9c1ca090792f1f02807e6e284e647c16ae54c884bdb02f3208fbb63ceceba5
+#EXTINF:-1 tvg-id="948" tvg-name="Movistar La Liga FHD 4" tvg-logo="https://buyone.xyz/pic/Movistar_La_Liga.webp" group-title="[ES] Fútbol",Movistar La Liga FHD 4
+http://d38c98a9735.gookiki.me/live/948.ts?channel_id=948&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=a2514d162e5ffc93821b2d87f398c1b9fdd6352b8483da91d3f4ea30e53dcccb
+#EXTINF:-1 tvg-id="1339" tvg-name="Movistar La Liga FHD 5" tvg-logo="https://buyone.xyz/pic/Movistar_La_Liga.webp" group-title="[ES] Fútbol",Movistar La Liga FHD 5
+http://d38c98a9735.gookiki.me/live/1339.ts?channel_id=1339&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=807babea02269401909f0606ff5cd18b2a5a420a04efdf494538ad047b028459
+#EXTINF:-1 tvg-id="262" tvg-name="Movistar La Liga 2 HD" tvg-logo="https://buyone.xyz/pic/Movistar_La_Liga_2.webp" group-title="[ES] Fútbol",Movistar La Liga 2 HD
+http://d38c98a9735.gookiki.me/live/262.ts?channel_id=262&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=ce64762dbfa4ab9a89de5d2482e555beb6b41dd343e07c2c3a1efaac88ad7de2
+#EXTINF:-1 tvg-id="1256" tvg-name="Movistar La Liga 2 HD 2" tvg-logo="https://buyone.xyz/pic/Movistar_La_Liga_2.webp" group-title="[ES] Fútbol",Movistar La Liga 2 HD 2
+http://d38c98a9735.gookiki.me/live/1256.ts?channel_id=1256&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=93e696e4f14e110e63670a12fc5ed4dae1813fbf59e5dfed9e05776ba52ceac9
+#EXTINF:-1 tvg-id="1346" tvg-name="Movistar La Liga 2 HD 3" tvg-logo="https://buyone.xyz/pic/Movistar_La_Liga_2.webp" group-title="[ES] Fútbol",Movistar La Liga 2 HD 3
+http://d38c98a9735.gookiki.me/live/1346.ts?channel_id=1346&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=ce26604c133235469db40f8a0915e590cca1aa62061bea179286237a5b9e8f77
+#EXTINF:-1 tvg-id="1360" tvg-name="Movistar La Liga 2 HD 4" tvg-logo="https://buyone.xyz/pic/Movistar_La_Liga_2.webp" group-title="[ES] Fútbol",Movistar La Liga 2 HD 4
+http://d38c98a9735.gookiki.me/live/1360.ts?channel_id=1360&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=dc5da56972b81a4ff826be1ab8a116246e17288ec5d0e3c27da7a3556b0a7250
+#EXTINF:-1 tvg-id="978" tvg-name="Movistar La Liga 2 FHD 2" tvg-logo="https://buyone.xyz/pic/Movistar_La_Liga_2.webp" group-title="[ES] Fútbol",Movistar La Liga 2 FHD 2
+http://d38c98a9735.gookiki.me/live/978.ts?channel_id=978&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=fd9d8ddd5d89038236cbc0edd61e320ca0264cdf1bf2b1aaf831f1c39c73ab00
+#EXTINF:-1 tvg-id="1347" tvg-name="Movistar La Liga 2 FHD 3" tvg-logo="https://buyone.xyz/pic/Movistar_La_Liga_2.webp" group-title="[ES] Fútbol",Movistar La Liga 2 FHD 3
+http://d38c98a9735.gookiki.me/live/1347.ts?channel_id=1347&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=d22d4d129c12003b6932ce1c71a27a32e7ba68e6f556de2f6df3ddb7c5873ef8
+#EXTINF:-1 tvg-id="261" tvg-name="Movistar La Liga 3 HD" tvg-logo="https://buyone.xyz/pic/Movistar_La_Liga_3.webp" group-title="[ES] Fútbol",Movistar La Liga 3 HD
+http://d38c98a9735.gookiki.me/live/261.ts?channel_id=261&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=3a1a7ba9c8d86a5f4d28174b08d005fe58277d46c42c0776740d2ee985f5dde8
+#EXTINF:-1 tvg-id="1348" tvg-name="Movistar La Liga 3 HD 2" tvg-logo="https://buyone.xyz/pic/Movistar_La_Liga_3.webp" group-title="[ES] Fútbol",Movistar La Liga 3 HD 2
+http://d38c98a9735.gookiki.me/live/1348.ts?channel_id=1348&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=91d462c25d971ed751d5bb62ee34f0e993707473854a9535e01db44887163084
+#EXTINF:-1 tvg-id="1359" tvg-name="Movistar La Liga 3 HD 3" tvg-logo="https://buyone.xyz/pic/Movistar_La_Liga_3.webp" group-title="[ES] Fútbol",Movistar La Liga 3 HD 3
+http://d38c98a9735.gookiki.me/live/1359.ts?channel_id=1359&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=38d9d4cac4d8ed17632782a2593a4dd9d1c4dbaa0584c0ffae595864f251de25
+#EXTINF:-1 tvg-id="326" tvg-name="Movistar La Liga 3 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_La_Liga_3.webp" group-title="[ES] Fútbol",Movistar La Liga 3 FHD
+http://d38c98a9735.gookiki.me/live/326.ts?channel_id=326&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=3212c9feae05a103b5c787098ffe3f30666cbd0a35a36ba42639a5333a2d3c28
+#EXTINF:-1 tvg-id="1349" tvg-name="Movistar La Liga 3 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_La_Liga_3.webp" group-title="[ES] Fútbol",Movistar La Liga 3 FHD
+http://d38c98a9735.gookiki.me/live/1349.ts?channel_id=1349&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=21158c706b8ff25a5faf9f7f2124f73368eb56fe2e980ae040127cb7d06cb53c
+#EXTINF:-1 tvg-id="238" tvg-name="Dazn La Liga HD" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga.webp" group-title="[ES] Fútbol",Dazn La Liga HD
+http://d38c98a9735.gookiki.me/live/238.ts?channel_id=238&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=a5dd626f975e99267ea132cb069559584964aec549dd796bd02851481e95dadb
+#EXTINF:-1 tvg-id="924" tvg-name="Dazn La Liga backup 2 HD" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga.webp" group-title="[ES] Fútbol",Dazn La Liga backup 2 HD
+http://d38c98a9735.gookiki.me/live/924.ts?channel_id=924&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=c5e71fabc04bf51cee416c444ab03f4a8b3a0326664ae9621d79d30ab4b6a817
+#EXTINF:-1 tvg-id="936" tvg-name="Dazn La Liga backup 3 HD" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga.webp" group-title="[ES] Fútbol",Dazn La Liga backup 3 HD
+http://d38c98a9735.gookiki.me/live/936.ts?channel_id=936&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=4a58e67b11de14e1bfb6f484d6eb47b26057ed488d2d97bd817db49ad3745aa9
+#EXTINF:-1 tvg-id="951" tvg-name="Dazn La Liga backup 4 HD" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga.webp" group-title="[ES] Fútbol",Dazn La Liga backup 4 HD
+http://d38c98a9735.gookiki.me/live/951.ts?channel_id=951&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=3fbbdef1f24445bc995a466b665139a44a415a2ea7f6170acd75a8664b757f19
+#EXTINF:-1 tvg-id="1036" tvg-name="Dazn La Liga backup 6 HD" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga.webp" group-title="[ES] Fútbol",Dazn La Liga backup 6 HD
+http://d38c98a9735.gookiki.me/live/1036.ts?channel_id=1036&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=e7e7c207e8897c6c6fbdf90a742b52192d946e0a4d42dfb41df929c64857a5f4
+#EXTINF:-1 tvg-id="1340" tvg-name="Dazn La Liga HD 7" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga.webp" group-title="[ES] Fútbol",Dazn La Liga HD 7
+http://d38c98a9735.gookiki.me/live/1340.ts?channel_id=1340&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=25c1e2b6a3fc275564d2c089d5b4ac190ccf4ca9f8df0e1ff2363cfeebcb10b4
+#EXTINF:-1 tvg-id="303" tvg-name="Dazn La Liga FHD" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga.webp" group-title="[ES] Fútbol",Dazn La Liga FHD
+http://d38c98a9735.gookiki.me/live/303.ts?channel_id=303&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=326aebcd1ccd770ca574cd0d6bd4c9e244ac06a43555423252312cdd57a7bf73
+#EXTINF:-1 tvg-id="925" tvg-name="Dazn La Liga backup 2 FHD" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga.webp" group-title="[ES] Fútbol",Dazn La Liga backup 2 FHD
+http://d38c98a9735.gookiki.me/live/925.ts?channel_id=925&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=05d31fad019d20fa766012eb6e84533aba8a2ef1fbbd30d13d2d71d0e9ff1351
+#EXTINF:-1 tvg-id="937" tvg-name="Dazn La Liga backup 3 FHD" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga.webp" group-title="[ES] Fútbol",Dazn La Liga backup 3 FHD
+http://d38c98a9735.gookiki.me/live/937.ts?channel_id=937&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=e9d3446ef938395cc254e39af0d14433237cd6da20c8f8d10d92167bf45cf398
+#EXTINF:-1 tvg-id="952" tvg-name="Dazn La Liga backup 4 FHD" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga.webp" group-title="[ES] Fútbol",Dazn La Liga backup 4 FHD
+http://d38c98a9735.gookiki.me/live/952.ts?channel_id=952&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=b75bb6fca1f2ad62d90a8e3e7c25aaf0f762ae2585761747c52a1651ad57dadf
+#EXTINF:-1 tvg-id="1341" tvg-name="Dazn La Liga FHD 6" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga.webp" group-title="[ES] Fútbol",Dazn La Liga FHD 6
+http://d38c98a9735.gookiki.me/live/1341.ts?channel_id=1341&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=7e851938100491ccf321d3cb7c8e13958a21f5c76880a1e9f6098d5e799e080d
+#EXTINF:-1 tvg-id="268" tvg-name="Dazn La Liga 2 HD" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga_2.webp" group-title="[ES] Fútbol",Dazn La Liga 2 HD
+http://d38c98a9735.gookiki.me/live/268.ts?channel_id=268&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=09a176a519a578627d84227a6cfa983156b04816e95091419e4158e1a83d28d8
+#EXTINF:-1 tvg-id="1037" tvg-name="Dazn La Liga 2 backup 6" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga_2.webp" group-title="[ES] Fútbol",Dazn La Liga 2 backup 6
+http://d38c98a9735.gookiki.me/live/1037.ts?channel_id=1037&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=72503ef52049549798d230b48552307caa946ae68aa27a552278f574fd119b02
+#EXTINF:-1 tvg-id="1350" tvg-name="Dazn La Liga 2 HD 3" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga_2.webp" group-title="[ES] Fútbol",Dazn La Liga 2 HD 3
+http://d38c98a9735.gookiki.me/live/1350.ts?channel_id=1350&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=d08f7273cd50818b51f937069000406486dec5505ed2c3582b3d21d8d016c8e1
+#EXTINF:-1 tvg-id="1362" tvg-name="Dazn La Liga 2 HD 4" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga_2.webp" group-title="[ES] Fútbol",Dazn La Liga 2 HD 4
+http://d38c98a9735.gookiki.me/live/1362.ts?channel_id=1362&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=4c6f3333b1c6ecb746717611ed96bb556189b94189c421a600a3910b075acdcd
+#EXTINF:-1 tvg-id="333" tvg-name="Dazn La Liga 2 FHD" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga_2.webp" group-title="[ES] Fútbol",Dazn La Liga 2 FHD
+http://d38c98a9735.gookiki.me/live/333.ts?channel_id=333&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=37a4c625d67df4dd254197d01aa27ea53ef3d1ebe4456ddd0d16dc5c5b4d5550
+#EXTINF:-1 tvg-id="1351" tvg-name="Dazn La Liga 2 FHD 2" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga_2.webp" group-title="[ES] Fútbol",Dazn La Liga 2 FHD 2
+http://d38c98a9735.gookiki.me/live/1351.ts?channel_id=1351&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=8d27e59f41c217beec5558dc6b3122adf06ba0b69b24238c4a8766434d7bcc72
+#EXTINF:-1 tvg-id="267" tvg-name="Dazn La Liga 3 HD" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga_3.webp" group-title="[ES] Fútbol",Dazn La Liga 3 HD
+http://d38c98a9735.gookiki.me/live/267.ts?channel_id=267&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=917362986f6c4d145d894db77aca5e92bf152fb880749e5058300b7bbb4b765c
+#EXTINF:-1 tvg-id="1259" tvg-name="Dazn La Liga 3 HD 2" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga_3.webp" group-title="[ES] Fútbol",Dazn La Liga 3 HD 2
+http://d38c98a9735.gookiki.me/live/1259.ts?channel_id=1259&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=3abca038a6f5936cef42a92d866ad49e978f70adc90d6b6f211d8d6da04911af
+#EXTINF:-1 tvg-id="1352" tvg-name="Dazn La Liga 3 HD 3" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga_3.webp" group-title="[ES] Fútbol",Dazn La Liga 3 HD 3
+http://d38c98a9735.gookiki.me/live/1352.ts?channel_id=1352&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=31ee094fedd3e4a53c3720df6f47e192e02199542b502b5f2d65382075bd1e08
+#EXTINF:-1 tvg-id="1361" tvg-name="Dazn La Liga 3 HD 4" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga_3.webp" group-title="[ES] Fútbol",Dazn La Liga 3 HD 4
+http://d38c98a9735.gookiki.me/live/1361.ts?channel_id=1361&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=201d67015d84192a78fe581d12def6a995c5d08dad61dd50a11ee3f11cf8ea59
+#EXTINF:-1 tvg-id="332" tvg-name="Dazn La Liga 3 FHD" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga_3.webp" group-title="[ES] Fútbol",Dazn La Liga 3 FHD
+http://d38c98a9735.gookiki.me/live/332.ts?channel_id=332&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=eab89e47d2dec13931b274a4f2da010fbb061cb8d329f9c7192ab688e541f003
+#EXTINF:-1 tvg-id="1261" tvg-name="Dazn La Liga 3 backup 2 FHD" tvg-logo="https://buyone.xyz/pic/Dazn_La_Liga_3.webp" group-title="[ES] Fútbol",Dazn La Liga 3 backup 2 FHD
+http://d38c98a9735.gookiki.me/live/1261.ts?channel_id=1261&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=72d6a8fbc7aecb2d4e2d64c7f4a1f6f7f7f699e1aa305d8a7a1652550ec42c65
+#EXTINF:-1 tvg-id="239" tvg-name="La Liga TV HYPERMOTION HD" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION HD
+http://d38c98a9735.gookiki.me/live/239.ts?channel_id=239&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=f9b5fad2d104a946ac25bfc68fbc266f26438c8be48fb253434ebbc675f0d224
+#EXTINF:-1 tvg-id="926" tvg-name="La Liga TV HYPERMOTION backup 2 HD" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION backup 2 HD
+http://d38c98a9735.gookiki.me/live/926.ts?channel_id=926&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=add25972abe65115a62087a004c2be46dc260c8a81635a48dd8b92715f5bad95
+#EXTINF:-1 tvg-id="938" tvg-name="La Liga TV HYPERMOTION backup 3 HD" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION backup 3 HD
+http://d38c98a9735.gookiki.me/live/938.ts?channel_id=938&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=4fc5df69545d35472e2cf72c2e4f3ddab19ab1e34c910508216b062b910f5221
+#EXTINF:-1 tvg-id="1344" tvg-name="La Liga TV HYPERMOTION HD 5" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION HD 5
+http://d38c98a9735.gookiki.me/live/1344.ts?channel_id=1344&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=4177566e397b282644eeb2a9273d78d0da305925a19abe3dabc0b6156d31dfa2
+#EXTINF:-1 tvg-id="1358" tvg-name="La Liga TV HYPERMOTION HD 6" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION HD 6
+http://d38c98a9735.gookiki.me/live/1358.ts?channel_id=1358&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=b8fc7a2741fe436b62eb04eb8e69e5273d0a210c3ed7fa30a816b70e356c2169
+#EXTINF:-1 tvg-id="304" tvg-name="La Liga TV HYPERMOTION FHD" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION FHD
+http://d38c98a9735.gookiki.me/live/304.ts?channel_id=304&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=cb30d3ac3ee9a4ebc646a1d7e4ed7b0d1884adc7f0da6d1a26a8c84eac5515e9
+#EXTINF:-1 tvg-id="927" tvg-name="La Liga TV HYPERMOTION backup 2 FHD" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION backup 2 FHD
+http://d38c98a9735.gookiki.me/live/927.ts?channel_id=927&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=51f0f70946cf965d5ad6d87e57368bdd7a649829c09dcb9313dad182eb89fdd2
+#EXTINF:-1 tvg-id="939" tvg-name="La Liga TV HYPERMOTION backup 3 FHD" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION backup 3 FHD
+http://d38c98a9735.gookiki.me/live/939.ts?channel_id=939&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=35f6644dc98c1c74c30d9c3822322dba37dd6d88439c08381b94fbda9fc645c1
+#EXTINF:-1 tvg-id="957" tvg-name="La Liga TV HYPERMOTION backup 4 FHD" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION backup 4 FHD
+http://d38c98a9735.gookiki.me/live/957.ts?channel_id=957&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=cb94bde5d820b1667890d59f0d44fb33e8cfea7d4fd9ced51d9d668545babecb
+#EXTINF:-1 tvg-id="1345" tvg-name="La Liga TV HYPERMOTION FHD 5" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION FHD 5
+http://d38c98a9735.gookiki.me/live/1345.ts?channel_id=1345&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=fcfe6182ec167a72bf5020129d01ef311f56012b721467fd7e69ba8b0eca77ec
+#EXTINF:-1 tvg-id="279" tvg-name="La Liga TV HYPERMOTION 2 HD" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV_M2.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION 2 HD
+http://d38c98a9735.gookiki.me/live/279.ts?channel_id=279&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=13aea9dd98d88e8ab01e889183e0956f2e904823d79dc0e585f08e09f5ac3ea4
+#EXTINF:-1 tvg-id="1319" tvg-name="La Liga TV HYPERMOTION 2 HD 2" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV_M2.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION 2 HD 2
+http://d38c98a9735.gookiki.me/live/1319.ts?channel_id=1319&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=db490a4cdc0480ca0c22e7a46eb71a6f2e7dc0a1faa150c2a1a6e0df39b3b444
+#EXTINF:-1 tvg-id="1321" tvg-name="La Liga TV HYPERMOTION 2 HD 3" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV_M2.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION 2 HD 3
+http://d38c98a9735.gookiki.me/live/1321.ts?channel_id=1321&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=a2788d9f2c57e9cbd0fb360705ea66d2ddde6b4cd707e0c867d427a0b1c33f80
+#EXTINF:-1 tvg-id="1364" tvg-name="La Liga TV HYPERMOTION 2 HD 4" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV_M2.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION 2 HD 4
+http://d38c98a9735.gookiki.me/live/1364.ts?channel_id=1364&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=569ff3248f60ba1dd7c0a522bf278c4f427ec1744a20a9527d314d49041dc35d
+#EXTINF:-1 tvg-id="344" tvg-name="La Liga TV HYPERMOTION 2 FHD" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV_M2.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION 2 FHD
+http://d38c98a9735.gookiki.me/live/344.ts?channel_id=344&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=5a79fe3c3798b1ef3e7774e4ad3adcb72286b1bb96e6f4be242817b347efb310
+#EXTINF:-1 tvg-id="1320" tvg-name="La Liga TV HYPERMOTION 2 backup 2 FHD" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV_M2.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION 2 backup 2 FHD
+http://d38c98a9735.gookiki.me/live/1320.ts?channel_id=1320&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=10a505fa851cdc55180132088e782e6b3b89b02174c485a4d8c9669ee96d0c8c
+#EXTINF:-1 tvg-id="1322" tvg-name="La Liga TV HYPERMOTION 2 backup 3 FHD" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV_M2.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION 2 backup 3 FHD
+http://d38c98a9735.gookiki.me/live/1322.ts?channel_id=1322&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=cf6b74e7a92ba92df37bdc8be35443ab554bf012c3345bf7287db02abf3aaf0e
+#EXTINF:-1 tvg-id="278" tvg-name="La Liga TV HYPERMOTION 3 HD" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV_M3.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION 3 HD
+http://d38c98a9735.gookiki.me/live/278.ts?channel_id=278&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=9e91f72480f25774e6bd6fddb19373af37b92c8af48ada16d2149cf9a7e7bbeb
+#EXTINF:-1 tvg-id="1315" tvg-name="La Liga TV HYPERMOTION 3 backup 2 HD" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV_M3.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION 3 backup 2 HD
+http://d38c98a9735.gookiki.me/live/1315.ts?channel_id=1315&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=ce2d4c432a69441c35f4df5923b83981e948b2325061a54b1abb66e778fca38a
+#EXTINF:-1 tvg-id="1317" tvg-name="La Liga TV HYPERMOTION 3 backup 3 HD" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV_M3.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION 3 backup 3 HD
+http://d38c98a9735.gookiki.me/live/1317.ts?channel_id=1317&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=3abebf8f5de6bdc7e02ebdb91e1c859aa526220729b25a6759dd9b208249ae3d
+#EXTINF:-1 tvg-id="1363" tvg-name="La Liga TV HYPERMOTION 3 HD 4" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV_M3.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION 3 HD 4
+http://d38c98a9735.gookiki.me/live/1363.ts?channel_id=1363&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=2976e2f0340a1db69e33e749dfb84a7530e8124e7d6b11752af94840f4366611
+#EXTINF:-1 tvg-id="343" tvg-name="La Liga TV HYPERMOTION 3 FHD" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV_M3.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION 3 FHD
+http://d38c98a9735.gookiki.me/live/343.ts?channel_id=343&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=4e6b224c58657c401874b948d7f07640493dfba0c0099b1ac67b23ecdb2884d4
+#EXTINF:-1 tvg-id="1316" tvg-name="La Liga TV HYPERMOTION 3 backup 2 FHD" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV_M3.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION 3 backup 2 FHD
+http://d38c98a9735.gookiki.me/live/1316.ts?channel_id=1316&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=440a3454d5d7addd132fcd4e77c925ac64935d91104ef9856bbf8144819bdcb5
+#EXTINF:-1 tvg-id="1318" tvg-name="La Liga TV HYPERMOTION 3 backup 3 FHD" tvg-logo="https://buyone.xyz/pic/La_Liga_Smartbank_TV_M3.webp" group-title="[ES] Fútbol",La Liga TV HYPERMOTION 3 backup 3 FHD
+http://d38c98a9735.gookiki.me/live/1318.ts?channel_id=1318&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=3dd0e3371472d2daba7aaea1ce89b577044b9fbeff9661cf5e0c377c4e46906f
+#EXTINF:-1 tvg-id="241" tvg-name="Movistar Liga de Campeones HD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones HD
+http://d38c98a9735.gookiki.me/live/241.ts?channel_id=241&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=153ae9788911b2b4319a872cc0dae23b05e18c23d6f58f779585d8addef0497e
+#EXTINF:-1 tvg-id="928" tvg-name="Movistar Liga de Campeones backup 2 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones backup 2 HD
+http://d38c98a9735.gookiki.me/live/928.ts?channel_id=928&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=bb753ff76ad925fea8209260d8a1a8495c537b0c419b10dd76c2639f84e9ef87
+#EXTINF:-1 tvg-id="941" tvg-name="Movistar Liga de Campeones backup 3 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones backup 3 HD
+http://d38c98a9735.gookiki.me/live/941.ts?channel_id=941&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=6527b51f3a03bc0cf703631ecddad444e8e3c76b4cc746010af183af80138962
+#EXTINF:-1 tvg-id="960" tvg-name="Movistar Liga de Campeones backup 4 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones backup 4 HD
+http://d38c98a9735.gookiki.me/live/960.ts?channel_id=960&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=16462482319f407bfcd8ea64621e202b2453a0e41e30051e8bce539d0ec9a4d5
+#EXTINF:-1 tvg-id="1038" tvg-name="Movistar Liga de Campeones backup 6" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones backup 6
+http://d38c98a9735.gookiki.me/live/1038.ts?channel_id=1038&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=d75cfbd2005a808e6bf1482bfcb8956d6ce448a206db81bb8eb27aeba3081441
+#EXTINF:-1 tvg-id="1342" tvg-name="Movistar Liga de Campeones HD 6" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones HD 6
+http://d38c98a9735.gookiki.me/live/1342.ts?channel_id=1342&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=0a2fc0b826407d4b890b31a67f49def575793e5c5977ec79864bde68cdfdab0c
+#EXTINF:-1 tvg-id="306" tvg-name="Movistar Liga de Campeones FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones FHD
+http://d38c98a9735.gookiki.me/live/306.ts?channel_id=306&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=8a369dea0ee54a7dc043c4d6b263954b13eeb052bd497b43b725481386089d07
+#EXTINF:-1 tvg-id="929" tvg-name="Movistar Liga de Campeones backup 2 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones backup 2 FHD
+http://d38c98a9735.gookiki.me/live/929.ts?channel_id=929&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=41524d97a4882adde60985276c0f0aca51aba30d7e97d141e93135430755673f
+#EXTINF:-1 tvg-id="942" tvg-name="Movistar Liga de Campeones backup 3 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones backup 3 FHD
+http://d38c98a9735.gookiki.me/live/942.ts?channel_id=942&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=aa87874050052c2242bafb2025a0a1f53a37ad92b6d528c5b90b2d7aa5f7f4ce
+#EXTINF:-1 tvg-id="1343" tvg-name="Movistar Liga de Campeones FHD 6" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones FHD 6
+http://d38c98a9735.gookiki.me/live/1343.ts?channel_id=1343&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=815b85e40deab2dc7282958045dd14aa654d7011047ae6bd2f2a488be17aef85
+#EXTINF:-1 tvg-id="298" tvg-name="Movistar Liga de Campeones 2 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_2.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 2 HD
+http://d38c98a9735.gookiki.me/live/298.ts?channel_id=298&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=a6c6d7cc904609c529800cb4939d88356bf780f77fd324dc72c47be6d3f9df04
+#EXTINF:-1 tvg-id="1002" tvg-name="Movistar Liga de Campeones 2 HD 3" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_2.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 2 HD 3
+http://d38c98a9735.gookiki.me/live/1002.ts?channel_id=1002&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=98eb46643ccfbbbe2e62483636c8730dcb737a9ebc0086bc410d77d5bc6f6698
+#EXTINF:-1 tvg-id="1373" tvg-name="Movistar Liga de Campeones 2 HD 4" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_2.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 2 HD 4
+http://d38c98a9735.gookiki.me/live/1373.ts?channel_id=1373&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=9a2eff14f810ccc647890771372acead2a8c2ad6eccbd3bfa56e48ba42ffe213
+#EXTINF:-1 tvg-id="363" tvg-name="Movistar Liga de Campeones 2 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_2.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 2 FHD
+http://d38c98a9735.gookiki.me/live/363.ts?channel_id=363&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=187d3ed863dfff095459c81c8d25caf5e20b86761ae64169c9754e82a32c9ac3
+#EXTINF:-1 tvg-id="1010" tvg-name="Movistar Liga de Campeones 2 backup 3 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_2.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 2 backup 3 FHD
+http://d38c98a9735.gookiki.me/live/1010.ts?channel_id=1010&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=f59c06f3f529bc61c62c8b97d7f1bc569d9fe2747b1cd23bd2e587e580e49fe4
+#EXTINF:-1 tvg-id="297" tvg-name="Movistar Liga de Campeones 3 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_3.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 3 HD
+http://d38c98a9735.gookiki.me/live/297.ts?channel_id=297&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=8c9af81a3888f5dff963487d34bd20fc6fdc1cc705813618a4d4372504cf898e
+#EXTINF:-1 tvg-id="1003" tvg-name="Movistar Liga de Campeones 3 HD 2" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_3.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 3 HD 2
+http://d38c98a9735.gookiki.me/live/1003.ts?channel_id=1003&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=e02a6b41e8a966e782b55d01db16c4ef7687e65ac0b13da97e3139513612c375
+#EXTINF:-1 tvg-id="1355" tvg-name="Movistar Liga de Campeones 3 HD 3" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_3.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 3 HD 3
+http://d38c98a9735.gookiki.me/live/1355.ts?channel_id=1355&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=9563eb7abeac833d44c5aab6f6e1acd183877dfe81fd9531cafe69c24e6be786
+#EXTINF:-1 tvg-id="1372" tvg-name="Movistar Liga de Campeones 3 HD 4" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_3.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 3 HD 4
+http://d38c98a9735.gookiki.me/live/1372.ts?channel_id=1372&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=7f5537b0db3a4e8bbe59f2477228abd319d5841f2c57b23648bcbe6aefbd8f7a
+#EXTINF:-1 tvg-id="362" tvg-name="Movistar Liga de Campeones 3 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_3.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 3 FHD
+http://d38c98a9735.gookiki.me/live/362.ts?channel_id=362&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=761f22698c082a6991315dea6ea9a3d828ce0adc626851f419d75fff1a642962
+#EXTINF:-1 tvg-id="1011" tvg-name="Movistar Liga de Campeones 3 backup 3 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_3.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 3 backup 3 FHD
+http://d38c98a9735.gookiki.me/live/1011.ts?channel_id=1011&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=8120812cf1624adde2e767758da2631d6f648840bc7c54edb98560cc21cabca9
+#EXTINF:-1 tvg-id="1356" tvg-name="Movistar Liga de Campeones 3 FHD 4" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_3.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 3 FHD 4
+http://d38c98a9735.gookiki.me/live/1356.ts?channel_id=1356&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=aff88fa7cb66dab3d0dbc17e04694d7ffd150766801b42bacc567335a7a6ec4a
+#EXTINF:-1 tvg-id="296" tvg-name="Movistar Liga de Campeones 4 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_4.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 4 HD
+http://d38c98a9735.gookiki.me/live/296.ts?channel_id=296&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=4c97c54d455edace40cfb7541083727e2ca33206cc7716ab01c4a03e570c9e4a
+#EXTINF:-1 tvg-id="1371" tvg-name="Movistar Liga de Campeones 4 HD 2" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_4.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 4 HD 2
+http://d38c98a9735.gookiki.me/live/1371.ts?channel_id=1371&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=f64a718341466109b9ab726bbc4fcde8af5cbce7e38c4c7d017ddde07da7f6c8
+#EXTINF:-1 tvg-id="361" tvg-name="Movistar Liga de Campeones 4 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_4.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 4 FHD
+http://d38c98a9735.gookiki.me/live/361.ts?channel_id=361&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=7020b001a637f9ca10634994b0239433590cd2d013bb22c109d172a6c86abcf4
+#EXTINF:-1 tvg-id="295" tvg-name="Movistar Liga de Campeones 5 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_5.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 5 HD
+http://d38c98a9735.gookiki.me/live/295.ts?channel_id=295&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=2df6c343dfaccaf49df16425183c350fb7f3f56b6bececfa29b88af0a78ff37f
+#EXTINF:-1 tvg-id="1370" tvg-name="Movistar Liga de Campeones 5 HD 2" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_5.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 5 HD 2
+http://d38c98a9735.gookiki.me/live/1370.ts?channel_id=1370&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=81a535ec797938da95eb96195834cf0a74dbda1b1acb073dcf7ce88f090924c5
+#EXTINF:-1 tvg-id="360" tvg-name="Movistar Liga de Campeones 5 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_5.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 5 FHD
+http://d38c98a9735.gookiki.me/live/360.ts?channel_id=360&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=c89ea9116ea9dffe8d9ee31e0f416c42bb1ddff49f0c8d0f0ad5aafbc026b14d
+#EXTINF:-1 tvg-id="294" tvg-name="Movistar Liga de Campeones 6 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_6.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 6 HD
+http://d38c98a9735.gookiki.me/live/294.ts?channel_id=294&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=a79769428222289d17d73d7f01a44f388921667112121945222de98a5e75b148
+#EXTINF:-1 tvg-id="1369" tvg-name="Movistar Liga de Campeones 6 HD 2" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_6.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 6 HD 2
+http://d38c98a9735.gookiki.me/live/1369.ts?channel_id=1369&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=5d6ebcf877b153f69c49aa80d7b86651d7576ab963bdd7b7808e5dd157bd4a2e
+#EXTINF:-1 tvg-id="359" tvg-name="Movistar Liga de Campeones 6 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_6.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 6 FHD
+http://d38c98a9735.gookiki.me/live/359.ts?channel_id=359&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=9196079290fa1a366f6ba510ec19f4f7b7242929592f8cc520e85cd0fea7f971
+#EXTINF:-1 tvg-id="293" tvg-name="Movistar Liga de Campeones 7 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_7.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 7 HD
+http://d38c98a9735.gookiki.me/live/293.ts?channel_id=293&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=21fd0a7fd62c4a5483dfb875bd836f02955b05304d083d9071beb0085ee24ccb
+#EXTINF:-1 tvg-id="1368" tvg-name="Movistar Liga de Campeones 7 HD 1" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_7.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 7 HD 1
+http://d38c98a9735.gookiki.me/live/1368.ts?channel_id=1368&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=ee372e43ace983e920785308ebabae7bed619f06a0306f7853560f3b8e02d77c
+#EXTINF:-1 tvg-id="358" tvg-name="Movistar Liga de Campeones 7 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_7.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 7 FHD
+http://d38c98a9735.gookiki.me/live/358.ts?channel_id=358&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=4961a017d7e6cee651057391786777679539b1064c9b1ec0a5cbb30c5bd8d3c1
+#EXTINF:-1 tvg-id="292" tvg-name="Movistar Liga de Campeones 8 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_8.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 8 HD
+http://d38c98a9735.gookiki.me/live/292.ts?channel_id=292&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=3399e1f51ca90405485a09189ca8ac0926135f063a427780e578b70ca6d01699
+#EXTINF:-1 tvg-id="1367" tvg-name="Movistar Liga de Campeones 8 HD 2" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_8.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 8 HD 2
+http://d38c98a9735.gookiki.me/live/1367.ts?channel_id=1367&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=feb5ecc20fac834ac522aaeed6c3ee4a90616dfad9e04b59b6e8aa55722d052f
+#EXTINF:-1 tvg-id="357" tvg-name="Movistar Liga de Campeones 8 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_8.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 8 FHD
+http://d38c98a9735.gookiki.me/live/357.ts?channel_id=357&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=028af0afdb3d4351553a0692df4398e8c872d1a9eddce7f3298edc716befacb0
+#EXTINF:-1 tvg-id="291" tvg-name="Movistar Liga de Campeones 9 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_9.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 9 HD
+http://d38c98a9735.gookiki.me/live/291.ts?channel_id=291&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=ebe56d5279e5be24324ae579f22403fcf94acc7d5d5819e8a82db50453f30886
+#EXTINF:-1 tvg-id="1366" tvg-name="Movistar Liga de Campeones 9 HD 2" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_9.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 9 HD 2
+http://d38c98a9735.gookiki.me/live/1366.ts?channel_id=1366&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=24d8395ceb59dbe29c98f74a73544bd425a37cd54e796ec57edba74605fb4a33
+#EXTINF:-1 tvg-id="356" tvg-name="Movistar Liga de Campeones 9 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_9.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 9 FHD
+http://d38c98a9735.gookiki.me/live/356.ts?channel_id=356&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=06a7327bacc7546b1f8cf53d53332f9a610442ece0af2611e9b8e2dabe696edb
+#EXTINF:-1 tvg-id="290" tvg-name="Movistar Liga de Campeones 10 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_10.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 10 HD
+http://d38c98a9735.gookiki.me/live/290.ts?channel_id=290&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=acdb4535002edc782f337c7615404a590b9819a94dc04d43f979f505d731a102
+#EXTINF:-1 tvg-id="1365" tvg-name="Movistar Liga de Campeones 10 HD 2" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_10.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 10 HD 2
+http://d38c98a9735.gookiki.me/live/1365.ts?channel_id=1365&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=aa5b9fa124af7d91249f1f0f83345ea57e298eec807d0c8e18c9b51dad2afd50
+#EXTINF:-1 tvg-id="355" tvg-name="Movistar Liga de Campeones 10 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Liga_de_Campeones_10.webp" group-title="[ES] Fútbol",Movistar Liga de Campeones 10 FHD
+http://d38c98a9735.gookiki.me/live/355.ts?channel_id=355&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=7d68c1b6d8d39954023e9e29662256b01fe35c2453f2737301f7f7bb958df086
+#EXTINF:-1 tvg-id="366" tvg-name="Movistar Primera Federacion FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Primera_Federacion.webp" group-title="[ES] Fútbol",Movistar Primera Federacion FHD
+http://d38c98a9735.gookiki.me/live/366.ts?channel_id=366&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=a7a04c1dea5082b14f246066bad11ae708c99e5a18d54e3687c7f077652fc48c
+#EXTINF:-1 tvg-id="1331" tvg-name="Betis TV HD" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/betis-tv-es.png" group-title="[ES] Fútbol",Betis TV HD
+http://d38c98a9735.gookiki.me/live/1331.ts?channel_id=1331&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=a74c44c03b5b493f61353f225916218f92aee563bc97f022e9b23d221979d31b
+#EXTINF:-1 tvg-id="1332" tvg-name="Betis TV backup 2 HD" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/betis-tv-es.png" group-title="[ES] Fútbol",Betis TV backup 2 HD
+http://d38c98a9735.gookiki.me/live/1332.ts?channel_id=1332&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=d6d61eb09a83ff6b9cb5ce553fd0dd68dabeda1dc0cdceab103eed7638850d12
+#EXTINF:-1 tvg-id="1333" tvg-name="Betis TV FHD" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/betis-tv-es.png" group-title="[ES] Fútbol",Betis TV FHD
+http://d38c98a9735.gookiki.me/live/1333.ts?channel_id=1333&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=19367f2782a7b1c9d06930f4330d1a01982600925640c04d0740c417570d5a60
+#EXTINF:-1 tvg-id="1334" tvg-name="Betis TV backup 2 FHD" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/betis-tv-es.png" group-title="[ES] Fútbol",Betis TV backup 2 FHD
+http://d38c98a9735.gookiki.me/live/1334.ts?channel_id=1334&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=3a8dee104e1c4ea8e98bc2092c12e9b64374be548c220fd8248c572066d1b272
+#EXTINF:-1 tvg-id="1323" tvg-name="Movistar La Liga" tvg-logo="stream-logo/movistar_la_liga.png" group-title="[ES] Solo eventos",Movistar La Liga
+http://165.154.239.186:3001/live/1323.ts?channel_id=1323&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=5c6d68321775932c6525a19e08deb9e480a2458d9fb8c518ed4a68bae0483f03
+#EXTINF:-1 tvg-id="1337" tvg-name="Movistar La Liga" tvg-logo="stream-logo/movistar_la_liga.png" group-title="[ES] Solo eventos",Movistar La Liga
+http://165.154.239.186:3001/live/1337.ts?channel_id=1337&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=67b6da2170038e7643fbacb14066f996b1ae14ddf30e5b63308e4cc4428ab504
+#EXTINF:-1 tvg-id="1327" tvg-name="Movistar La Liga" tvg-logo="stream-logo/movistar_la_liga.png" group-title="[ES] Solo eventos",Movistar La Liga
+http://165.154.239.186:3001/live/1327.ts?channel_id=1327&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=9e1cca5cb14385abd4743b5920eaa175e1d65cbeabb2b82b0336b43d9a446b59
+#EXTINF:-1 tvg-id="1324" tvg-name="Dazn La Liga" tvg-logo="stream-logo/dazn_la_liga.png" group-title="[ES] Solo eventos",Dazn La Liga
+http://165.154.239.186:3001/live/1324.ts?channel_id=1324&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=9f7fb70d84a56be4ff3eeb49d5f5f0347b51958c36f0c7b0a6673b418063edf1
+#EXTINF:-1 tvg-id="1374" tvg-name="Dazn La Liga" tvg-logo="stream-logo/dazn_la_liga.png" group-title="[ES] Solo eventos",Dazn La Liga
+http://165.154.239.186:3001/live/1374.ts?channel_id=1374&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=edecd46ce524c62ca2c680f7d2f9c440de86fa3084b8689be231c5b08f782156
+#EXTINF:-1 tvg-id="1328" tvg-name="Dazn La Liga" tvg-logo="stream-logo/dazn_la_liga.png" group-title="[ES] Solo eventos",Dazn La Liga
+http://165.154.239.186:3001/live/1328.ts?channel_id=1328&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=0367290992ba3602deaf4eb22678ea5c67b983becaee2380d7eb0bb98f56ab53
+#EXTINF:-1 tvg-id="1325" tvg-name="Movistar+" tvg-logo="" group-title="[ES] Solo eventos",Movistar+
+http://165.154.239.186:3001/live/1325.ts?channel_id=1325&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=c9ba2228233f6793b9a2f6ee4d40355e8ac949f46b286738b1b35d36925f7741
+#EXTINF:-1 tvg-id="1375" tvg-name="Movistar+" tvg-logo="" group-title="[ES] Solo eventos",Movistar+
+http://165.154.239.186:3001/live/1375.ts?channel_id=1375&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=efc68a7f21956356bba3f24f72b39374219e0bcc7f0a156981d94b886edd6f06
+#EXTINF:-1 tvg-id="1329" tvg-name="Movistar+" tvg-logo="" group-title="[ES] Solo eventos",Movistar+
+http://165.154.239.186:3001/live/1329.ts?channel_id=1329&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=ac8894536e8abd1203fb0f8ae190b0f8638463dc398cd4cd7344c101393c3f6a
+#EXTINF:-1 tvg-id="1326" tvg-name="Movistar Liga de Campeones" tvg-logo="stream-logo/movistar_liga_de_campeones.png" group-title="[ES] Solo eventos",Movistar Liga de Campeones
+http://165.154.239.186:3001/live/1326.ts?channel_id=1326&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=4d763307da5ff5dc3b835fc84a641488e20cab20faf064d8352e64fc1b637865
+#EXTINF:-1 tvg-id="1376" tvg-name="Movistar Liga de Campeones" tvg-logo="stream-logo/movistar_liga_de_campeones.png" group-title="[ES] Solo eventos",Movistar Liga de Campeones
+http://165.154.239.186:3001/live/1376.ts?channel_id=1376&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=de6626db46c890568871d94a9ed3458cf616869378f02fdb26abf18102a1ec55
+#EXTINF:-1 tvg-id="1330" tvg-name="Movistar Liga de Campeones" tvg-logo="stream-logo/movistar_liga_de_campeones.png" group-title="[ES] Solo eventos",Movistar Liga de Campeones
+http://165.154.239.186:3001/live/1330.ts?channel_id=1330&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=04b46239874955473529b31a1fced53aa3386360a865c7b7350a7b5015879a26
+#EXTINF:-1 tvg-id="1390" tvg-name="Movistar Liga de Campeones 2" tvg-logo="stream-logo/MOVISTAR_LIGA_DE_CAMPEONES_2.png" group-title="[ES] Solo eventos",Movistar Liga de Campeones 2
+http://165.154.239.186:3001/live/1390.ts?channel_id=1390&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=628ed8e15e621dadf3e1fbc6a0b43dc3e9cdd4dac036669cf6e6483d8721638c
+#EXTINF:-1 tvg-id="1393" tvg-name="Movistar Liga de Campeones 2" tvg-logo="stream-logo/MOVISTAR_LIGA_DE_CAMPEONES_2.png" group-title="[ES] Solo eventos",Movistar Liga de Campeones 2
+http://165.154.239.186:3001/live/1393.ts?channel_id=1393&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=88d4b6cd21d210ac48efe74b2927daaf1679294c78a7492873f74996e32e9283
+#EXTINF:-1 tvg-id="1397" tvg-name="Movistar Liga de Campeones 3" tvg-logo="stream-logo/MOVISTAR_LIGA_DE_CAMPEONES_3.png" group-title="[ES] Solo eventos",Movistar Liga de Campeones 3
+http://165.154.239.186:3001/live/1397.ts?channel_id=1397&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=ea56a6941a0735c5d7b6c19a1f68349e1bba8d9c4a14672ac3b4d9fc68a5372a
+#EXTINF:-1 tvg-id="1403" tvg-name="Movistar Liga de Campeones 3" tvg-logo="stream-logo/MOVISTAR_LIGA_DE_CAMPEONES_3.png" group-title="[ES] Solo eventos",Movistar Liga de Campeones 3
+http://165.154.239.186:3001/live/1403.ts?channel_id=1403&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=635b30f15a792c080c3f537982b35fd669e86e4f0973e58625f3ab15cdd21c87
+#EXTINF:-1 tvg-id="1391" tvg-name="Movistar Liga de Campeones 4" tvg-logo="stream-logo/MOVISTAR_LIGA_DE_CAMPEONES_4.png" group-title="[ES] Solo eventos",Movistar Liga de Campeones 4
+http://165.154.239.186:3001/live/1391.ts?channel_id=1391&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=0a7d9dad0564a9eff65ae30a757d0e86e2223578f19a20b3aaea79ed8f735e5c
+#EXTINF:-1 tvg-id="1394" tvg-name="Movistar Liga de Campeones 4" tvg-logo="stream-logo/MOVISTAR_LIGA_DE_CAMPEONES_4.png" group-title="[ES] Solo eventos",Movistar Liga de Campeones 4
+http://165.154.239.186:3001/live/1394.ts?channel_id=1394&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=b446f6cec6f96693af46c738052a307ac80aa1419fe76eee618f7fc3072489d7
+#EXTINF:-1 tvg-id="1392" tvg-name="Movistar Liga de Campeones 5" tvg-logo="stream-logo/MOVISTAR_LIGA_DE_CAMPEONES_5.png" group-title="[ES] Solo eventos",Movistar Liga de Campeones 5
+http://165.154.239.186:3001/live/1392.ts?channel_id=1392&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=8e1fdfcbd4831c98deb21b32ab2f5d1f3e41be0c146843b6e731b8fd7bb7efe8
+#EXTINF:-1 tvg-id="1395" tvg-name="Movistar Liga de Campeones 5" tvg-logo="stream-logo/MOVISTAR_LIGA_DE_CAMPEONES_5.png" group-title="[ES] Solo eventos",Movistar Liga de Campeones 5
+http://165.154.239.186:3001/live/1395.ts?channel_id=1395&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=148bfbab849a2e045767f091f0da76b725f9dfc54a824e2fcd8ea1f39c975b11
+#EXTINF:-1 tvg-id="1402" tvg-name="Movistar Liga de Campeones 6" tvg-logo="stream-logo/MOVISTAR_LIGA_DE_CAMPEONES_6.png" group-title="[ES] Solo eventos",Movistar Liga de Campeones 6
+http://165.154.239.186:3001/live/1402.ts?channel_id=1402&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=c51e702bfd43f023d6c89b8a72edacc961d97dd725d3975f965a3f4756d0bd1d
+#EXTINF:-1 tvg-id="1408" tvg-name="Movistar Liga de Campeones 6" tvg-logo="stream-logo/MOVISTAR_LIGA_DE_CAMPEONES_6.png" group-title="[ES] Solo eventos",Movistar Liga de Campeones 6
+http://165.154.239.186:3001/live/1408.ts?channel_id=1408&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=1aa289fff84340505350e8aac92c197861ad0fdd44526e33e8c538988f2ecba6
+#EXTINF:-1 tvg-id="1401" tvg-name="Movistar Liga de Campeones 7" tvg-logo="stream-logo/MOVISTAR_LIGA_DE_CAMPEONES_7.png" group-title="[ES] Solo eventos",Movistar Liga de Campeones 7
+http://165.154.239.186:3001/live/1401.ts?channel_id=1401&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=560362bfac2d8e69db0db47458ae42ecb7a7b234a20734ff87652fd30d2753a2
+#EXTINF:-1 tvg-id="1407" tvg-name="Movistar Liga de Campeones 7" tvg-logo="stream-logo/MOVISTAR_LIGA_DE_CAMPEONES_7.png" group-title="[ES] Solo eventos",Movistar Liga de Campeones 7
+http://165.154.239.186:3001/live/1407.ts?channel_id=1407&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=ab9b9e0d6c84956efd4d1c18b311747c5a26c32573266bd802d70766545d57e8
+#EXTINF:-1 tvg-id="1400" tvg-name="Movistar Liga de Campeones 8" tvg-logo="stream-logo/MOVISTAR_LIGA_DE_CAMPEONES_8.png" group-title="[ES] Solo eventos",Movistar Liga de Campeones 8
+http://165.154.239.186:3001/live/1400.ts?channel_id=1400&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=c260a4bf461c68c8d16c52cd0233d89d287f5c96175dfa6a814fce9b84341ae8
+#EXTINF:-1 tvg-id="1406" tvg-name="Movistar Liga de Campeones 8" tvg-logo="stream-logo/MOVISTAR_LIGA_DE_CAMPEONES_8.png" group-title="[ES] Solo eventos",Movistar Liga de Campeones 8
+http://165.154.239.186:3001/live/1406.ts?channel_id=1406&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=bb8548d7768c5a41eab9c7d1bf6b21c8bf2df9fd5e53d0bb790960c44e70ae33
+#EXTINF:-1 tvg-id="1399" tvg-name="Movistar Liga de Campeones 9" tvg-logo="stream-logo/MOVISTAR_LIGA_DE_CAMPEONES_9.png" group-title="[ES] Solo eventos",Movistar Liga de Campeones 9
+http://165.154.239.186:3001/live/1399.ts?channel_id=1399&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=90e7a0e487f5f76ba9c3019c950272c6929bd0a20c2a98932542d0c768827e46
+#EXTINF:-1 tvg-id="1405" tvg-name="Movistar Liga de Campeones 9" tvg-logo="stream-logo/MOVISTAR_LIGA_DE_CAMPEONES_9.png" group-title="[ES] Solo eventos",Movistar Liga de Campeones 9
+http://165.154.239.186:3001/live/1405.ts?channel_id=1405&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=ee7c699b65f692b2b91d7a6dafa9ce65ed1724b6f564f04f7fe763aa07756e44
+#EXTINF:-1 tvg-id="1398" tvg-name="Movistar Liga de Campeones 10" tvg-logo="stream-logo/MOVISTAR_LIGA_DE_CAMPEONES_10.png" group-title="[ES] Solo eventos",Movistar Liga de Campeones 10
+http://165.154.239.186:3001/live/1398.ts?channel_id=1398&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=3f0e3b76d9cca07a4d98162b2285732811f6e48623bd3eeb4337a21468642fee
+#EXTINF:-1 tvg-id="1404" tvg-name="Movistar Liga de Campeones 10" tvg-logo="stream-logo/MOVISTAR_LIGA_DE_CAMPEONES_10.png" group-title="[ES] Solo eventos",Movistar Liga de Campeones 10
+http://165.154.239.186:3001/live/1404.ts?channel_id=1404&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=53cc02a04816878406fa6839a7359059db8e769d7ad8d04fc3662c50b01462e0
+#EXTINF:-1 tvg-id="312" tvg-name="Dazn 1 Bar FHD" tvg-logo="https://buyone.xyz/pic/Dazn_1_Bar.webp" group-title="[ES] Dazn evento",Dazn 1 Bar FHD
+http://d38c98a9735.gookiki.me/live/312.ts?channel_id=312&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=9b71f9b3e9489fd83c3122871e3120f21f9529db80db3ff11c3d1ecf3112aaa1
+#EXTINF:-1 tvg-id="794" tvg-name="CANAL INFO DAZN" tvg-logo="https://buyone.xyz/pic/CANAL_INFO_DAZN.webp" group-title="[ES] Dazn evento",CANAL INFO DAZN
+http://d38c98a9735.gookiki.me/live/794.ts?channel_id=794&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=14ff293a78d2c42e0699f50c6c631e2ed651067a49603c88a20fb7f595a94c29
+#EXTINF:-1 tvg-id="795" tvg-name="DAZN LIGA F (EVENTO 1)" tvg-logo="https://buyone.xyz/pic/DAZN_LIGA_F_EVENTO.webp" group-title="[ES] Dazn evento",DAZN LIGA F (EVENTO 1)
+http://d38c98a9735.gookiki.me/live/795.ts?channel_id=795&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=85dae1bb283de7aa2dd7f09aed1ba183de2db46476e5ce2ddfb5f114a683c87d
+#EXTINF:-1 tvg-id="796" tvg-name="DAZN LIGA F (EVENTO 2)" tvg-logo="https://buyone.xyz/pic/DAZN_LIGA_F_EVENTO.webp" group-title="[ES] Dazn evento",DAZN LIGA F (EVENTO 2)
+http://d38c98a9735.gookiki.me/live/796.ts?channel_id=796&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=15c508026ca1ce5da097ea9a03fe13ff463b749ffa8472e098f286cd5c009029
+#EXTINF:-1 tvg-id="797" tvg-name="DAZN LIGA F (EVENTO 3)" tvg-logo="https://buyone.xyz/pic/DAZN_LIGA_F_EVENTO.webp" group-title="[ES] Dazn evento",DAZN LIGA F (EVENTO 3)
+http://d38c98a9735.gookiki.me/live/797.ts?channel_id=797&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=c53e98ae2d645807f9a74dca8b8ae79ea0e4a95279d7943bcdf23126efe60c93
+#EXTINF:-1 tvg-id="799" tvg-name="DAZN LIGA F (EVENTO 5)" tvg-logo="https://buyone.xyz/pic/DAZN_LIGA_F_EVENTO.webp" group-title="[ES] Dazn evento",DAZN LIGA F (EVENTO 5)
+http://d38c98a9735.gookiki.me/live/799.ts?channel_id=799&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=55a49b1bd5fed2b730dfb65821d0e3d90b99a5309d6cceed94ffe306a4761ab4
+#EXTINF:-1 tvg-id="801" tvg-name="DAZN GENERAL 1" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 1
+http://d38c98a9735.gookiki.me/live/801.ts?channel_id=801&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=4ac433076f27d92c6baa8d3901d1444919d78f5d3ecf8eec204090cf9af367cf
+#EXTINF:-1 tvg-id="802" tvg-name="DAZN GENERAL 2" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 2
+http://d38c98a9735.gookiki.me/live/802.ts?channel_id=802&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=9eb964f60010df153a48662ab2bfc60683b36801f6078c8446a8fae98ae5c020
+#EXTINF:-1 tvg-id="803" tvg-name="DAZN GENERAL 3" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 3
+http://d38c98a9735.gookiki.me/live/803.ts?channel_id=803&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=2cc4dab2ee3c01a7a43fb952e147f02dac504aae336a6a350219718639a29bb4
+#EXTINF:-1 tvg-id="804" tvg-name="DAZN GENERAL 4" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 4
+http://d38c98a9735.gookiki.me/live/804.ts?channel_id=804&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=c9c88c9e909966ea7855d2187278a799df71dffb9c78aceb47c3d9a4e02236ff
+#EXTINF:-1 tvg-id="805" tvg-name="DAZN GENERAL 5" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 5
+http://d38c98a9735.gookiki.me/live/805.ts?channel_id=805&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=1da79c769021ce06e5a89dc9797f7cae826309a7d69e4fc4d7328dfc315b993f
+#EXTINF:-1 tvg-id="806" tvg-name="DAZN GENERAL 6" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 6
+http://d38c98a9735.gookiki.me/live/806.ts?channel_id=806&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=8c9d02706c7910ea0c87cd5bddfb72860135d271504721d2a906d3d5ccec0d1b
+#EXTINF:-1 tvg-id="807" tvg-name="DAZN GENERAL 7" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 7
+http://d38c98a9735.gookiki.me/live/807.ts?channel_id=807&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=d118658ea584d289670e0948fc1b64f16c5676c4d708d19f5a2456240cb80d38
+#EXTINF:-1 tvg-id="808" tvg-name="DAZN GENERAL 8" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 8
+http://d38c98a9735.gookiki.me/live/808.ts?channel_id=808&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=78b5a9b897efcb6b0534b5772f9446bc98b499a705102c2c286a65955b7bc730
+#EXTINF:-1 tvg-id="809" tvg-name="DAZN GENERAL 9" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 9
+http://d38c98a9735.gookiki.me/live/809.ts?channel_id=809&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=5d93146619e70955dc3a8966b443b971394f2017e5101dd9973a60a65cd31d3b
+#EXTINF:-1 tvg-id="810" tvg-name="DAZN GENERAL 10" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 10
+http://d38c98a9735.gookiki.me/live/810.ts?channel_id=810&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=1c468755373c8a5b94a70806796e5e13205eb7ec3383b4535a8f98f34b339fae
+#EXTINF:-1 tvg-id="811" tvg-name="DAZN GENERAL 11" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 11
+http://d38c98a9735.gookiki.me/live/811.ts?channel_id=811&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=8b8857f942cae53ee7bee8d8d3cb3c017578aae8980c6690940a6486ba9bc8cd
+#EXTINF:-1 tvg-id="812" tvg-name="DAZN GENERAL 12" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 12
+http://d38c98a9735.gookiki.me/live/812.ts?channel_id=812&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=cc1cb3dd17457f4ecb858a8fffdcf45b01d5c7d09c9136c09084b7931f541946
+#EXTINF:-1 tvg-id="813" tvg-name="DAZN GENERAL 13" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 13
+http://d38c98a9735.gookiki.me/live/813.ts?channel_id=813&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=cf5e057920936707af8ed7a5f090c10161be5b816003b6e3d39923794712b967
+#EXTINF:-1 tvg-id="814" tvg-name="DAZN GENERAL 14" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 14
+http://d38c98a9735.gookiki.me/live/814.ts?channel_id=814&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=1412dba60c6717905b6237ed233ab2a31f032e4e439af36763398648fbc0d274
+#EXTINF:-1 tvg-id="815" tvg-name="DAZN GENERAL 15" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 15
+http://d38c98a9735.gookiki.me/live/815.ts?channel_id=815&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=c83d996d20da27848d6ac17deea7cd1e9c9adb0eff6281028cdf76034a925e9f
+#EXTINF:-1 tvg-id="816" tvg-name="DAZN GENERAL 16" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 16
+http://d38c98a9735.gookiki.me/live/816.ts?channel_id=816&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=e3689ab48022160266572a9e7effaa5244bbfbf32827c95b41bd47cdef9e7723
+#EXTINF:-1 tvg-id="817" tvg-name="DAZN GENERAL 17" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 17
+http://d38c98a9735.gookiki.me/live/817.ts?channel_id=817&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=5fd5d1f30fcffc56acbef5fcee40d5031a26fc456d17c2e1a08e79e407eb45c4
+#EXTINF:-1 tvg-id="818" tvg-name="DAZN GENERAL 18" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 18
+http://d38c98a9735.gookiki.me/live/818.ts?channel_id=818&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=0dd40d355d572a373bc9498774798768f9311bf21a05de743c46f550be0ad3a1
+#EXTINF:-1 tvg-id="821" tvg-name="DAZN GENERAL 21" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 21
+http://d38c98a9735.gookiki.me/live/821.ts?channel_id=821&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=39988e276018f37d3518c121ab35b534f6cefb6866703978a2547ef8a6526c74
+#EXTINF:-1 tvg-id="822" tvg-name="DAZN GENERAL 22" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 22
+http://d38c98a9735.gookiki.me/live/822.ts?channel_id=822&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=513892a4cff38d4f1b8e9cce763fab1c6491ad2d56da146d8b9dc926fc4aed56
+#EXTINF:-1 tvg-id="824" tvg-name="DAZN GENERAL 24" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 24
+http://d38c98a9735.gookiki.me/live/824.ts?channel_id=824&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=dbca96e4ac6a838a329e5cebae94ff8854d9d8187be48fcd1421dfc086fc8f86
+#EXTINF:-1 tvg-id="825" tvg-name="DAZN GENERAL 25" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 25
+http://d38c98a9735.gookiki.me/live/825.ts?channel_id=825&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=518c6409d5771d70533874787a2876a85d4e213ed0d48c61552082a6101bbfc4
+#EXTINF:-1 tvg-id="827" tvg-name="DAZN GENERAL 27" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 27
+http://d38c98a9735.gookiki.me/live/827.ts?channel_id=827&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=c350cdd41907d326a31aa7e9f36055a84f18bb1978dcff83bc0c419611518f12
+#EXTINF:-1 tvg-id="828" tvg-name="DAZN GENERAL 28" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 28
+http://d38c98a9735.gookiki.me/live/828.ts?channel_id=828&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=06d3a14bbfb867acda34625b46e480835c3b570262efbe237f1a51691b3bd5b5
+#EXTINF:-1 tvg-id="829" tvg-name="DAZN GENERAL 29" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 29
+http://d38c98a9735.gookiki.me/live/829.ts?channel_id=829&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=0c8f0a74df4ff55382474b53d2e52db9f56f3c8e07d24fbf77a89dc1d4b9efaf
+#EXTINF:-1 tvg-id="832" tvg-name="DAZN GENERAL 32" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 32
+http://d38c98a9735.gookiki.me/live/832.ts?channel_id=832&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=2fa0e7386cc425eb14cd842a3fd7750548621f53f502785873c219a582ce5746
+#EXTINF:-1 tvg-id="833" tvg-name="DAZN GENERAL 33" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 33
+http://d38c98a9735.gookiki.me/live/833.ts?channel_id=833&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=0aa7c06ac953edf25c4422abaf6cc4ba1a606a3d73eeddf11763279c4862d307
+#EXTINF:-1 tvg-id="839" tvg-name="DAZN GENERAL 39" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 39
+http://d38c98a9735.gookiki.me/live/839.ts?channel_id=839&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=e8595858ed13445ffe7e9de0018fe9d0f1aa591fcb2fee902eaad9f5d8ea1a20
+#EXTINF:-1 tvg-id="843" tvg-name="DAZN GENERAL 43" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 43
+http://d38c98a9735.gookiki.me/live/843.ts?channel_id=843&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=1260bc2b48978d449ed9b708164b679fc8b1ee92e1f54adf55e14e30700f73a7
+#EXTINF:-1 tvg-id="846" tvg-name="DAZN GENERAL 46" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 46
+http://d38c98a9735.gookiki.me/live/846.ts?channel_id=846&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=b939ffb59d90417a576854dd5f07325a72f250ed5249ff76b8734256893f9ded
+#EXTINF:-1 tvg-id="850" tvg-name="DAZN GENERAL 50" tvg-logo="https://buyone.xyz/pic/DAZN_GENERAL.webp" group-title="[ES] Dazn evento",DAZN GENERAL 50
+http://d38c98a9735.gookiki.me/live/850.ts?channel_id=850&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=6d22330406a47030b9984b1227f04a686ee2f40e3dcea997c9be53bf068db45f
+#EXTINF:-1 tvg-id="851" tvg-name="DAZN NFL 1" tvg-logo="https://buyone.xyz/pic/DAZN_NFL.webp" group-title="[ES] Dazn evento",DAZN NFL 1
+http://d38c98a9735.gookiki.me/live/851.ts?channel_id=851&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=e34c8f3f56d9f6017ca4051934b276cbf0f636603bbec80c8b35e12d2b86b8f6
+#EXTINF:-1 tvg-id="867" tvg-name="DAZN NFL 17" tvg-logo="https://buyone.xyz/pic/DAZN_NFL.webp" group-title="[ES] Dazn evento",DAZN NFL 17
+http://d38c98a9735.gookiki.me/live/867.ts?channel_id=867&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=11fba25c63482b7ce17779194abdac300eb0c22842df429f1c98a08c389bf4a3
+#EXTINF:-1 tvg-id="876" tvg-name="DAZN NFL 26" tvg-logo="https://buyone.xyz/pic/DAZN_NFL.webp" group-title="[ES] Dazn evento",DAZN NFL 26
+http://d38c98a9735.gookiki.me/live/876.ts?channel_id=876&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=f98b0c2c6af1e23ec89267d216658d718d13f8c5bee7b858aa540bb4689b6317
+#EXTINF:-1 tvg-id="242" tvg-name="Movistar Deportes HD" tvg-logo="https://buyone.xyz/pic/Movistar_Deportes.webp" group-title="[ES] Deportes",Movistar Deportes HD
+http://d38c98a9735.gookiki.me/live/242.ts?channel_id=242&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=a184d7b88d14c7e567259ac296876e6bf2a0f9c724e2b4a4718647cfe9259a15
+#EXTINF:-1 tvg-id="930" tvg-name="Movistar Deportes backup 2 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Deportes.webp" group-title="[ES] Deportes",Movistar Deportes backup 2 HD
+http://d38c98a9735.gookiki.me/live/930.ts?channel_id=930&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=e55b5d3c1bb0103e759d39f06a32bf3d5fc7372b93603e98fd95537627c16472
+#EXTINF:-1 tvg-id="943" tvg-name="Movistar Deportes backup 3 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Deportes.webp" group-title="[ES] Deportes",Movistar Deportes backup 3 HD
+http://d38c98a9735.gookiki.me/live/943.ts?channel_id=943&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=9fdc80932263b6685943a707671f6e9a805be00e4077708e6993853febda6136
+#EXTINF:-1 tvg-id="307" tvg-name="Movistar Deportes FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Deportes.webp" group-title="[ES] Deportes",Movistar Deportes FHD
+http://d38c98a9735.gookiki.me/live/307.ts?channel_id=307&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=e59a3171aac9dd05e72ad68896519863171a884a62519d3d4409e71b104b4564
+#EXTINF:-1 tvg-id="931" tvg-name="Movistar Deportes backup 2 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Deportes.webp" group-title="[ES] Deportes",Movistar Deportes backup 2 FHD
+http://d38c98a9735.gookiki.me/live/931.ts?channel_id=931&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=e85e38e5798d8c8a73652e0bd893d32b53d8588260ade91d8ac9716be74ad326
+#EXTINF:-1 tvg-id="256" tvg-name="Movistar Deportes 2 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Deportes_2.webp" group-title="[ES] Deportes",Movistar Deportes 2 HD
+http://d38c98a9735.gookiki.me/live/256.ts?channel_id=256&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=810241098470b8fce474249f751269840efc0465fc4b7948284b530a1db15478
+#EXTINF:-1 tvg-id="321" tvg-name="Movistar Deportes 2 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Deportes_2.webp" group-title="[ES] Deportes",Movistar Deportes 2 FHD
+http://d38c98a9735.gookiki.me/live/321.ts?channel_id=321&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=0eb6a44f5b778f9784ac31e55c3786161a7f6c1ab7d0b26c6791a4ffd66f3b15
+#EXTINF:-1 tvg-id="255" tvg-name="Movistar Deportes 3 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Deportes_3.webp" group-title="[ES] Deportes",Movistar Deportes 3 HD
+http://d38c98a9735.gookiki.me/live/255.ts?channel_id=255&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=337a1a00ad43fbdddb950187fd34008f428921c0549a0da8e89c55c4c8012b28
+#EXTINF:-1 tvg-id="320" tvg-name="Movistar Deportes 3 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Deportes_3.webp" group-title="[ES] Deportes",Movistar Deportes 3 FHD
+http://d38c98a9735.gookiki.me/live/320.ts?channel_id=320&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=18258e1ed0244a75b1ecd1c5e064827601b707dd2c875c2be3ee76a718902899
+#EXTINF:-1 tvg-id="254" tvg-name="Movistar Deportes 4 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Deportes_4.webp" group-title="[ES] Deportes",Movistar Deportes 4 HD
+http://d38c98a9735.gookiki.me/live/254.ts?channel_id=254&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=ef0d8eeed88d3da1dc02bafac2bffd73f6c3d422895235f914c6c8ddaa69fd2d
+#EXTINF:-1 tvg-id="319" tvg-name="Movistar Deportes 4 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Deportes_4.webp" group-title="[ES] Deportes",Movistar Deportes 4 FHD
+http://d38c98a9735.gookiki.me/live/319.ts?channel_id=319&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=2b1f270769b00480458209a47d5ff1434f1a2e463c38a8044b34f65f3d9df3a2
+#EXTINF:-1 tvg-id="253" tvg-name="Movistar Deportes 5 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Deportes_5.webp" group-title="[ES] Deportes",Movistar Deportes 5 HD
+http://d38c98a9735.gookiki.me/live/253.ts?channel_id=253&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=2a1843240049a277d0d720496c9c01cd36ac42f686e921b8399bcc596f8594a9
+#EXTINF:-1 tvg-id="318" tvg-name="Movistar Deportes 5 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Deportes_5.webp" group-title="[ES] Deportes",Movistar Deportes 5 FHD
+http://d38c98a9735.gookiki.me/live/318.ts?channel_id=318&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=1a3aebf77c8376231a78f9cc385b2eb9ae4fee549f760f27e4575b0056541f04
+#EXTINF:-1 tvg-id="252" tvg-name="Movistar Deportes 6 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Deportes_6.webp" group-title="[ES] Deportes",Movistar Deportes 6 HD
+http://d38c98a9735.gookiki.me/live/252.ts?channel_id=252&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=8d87c488a563c211e4d58857bc4587f860f730aecfd8c133c5d22554ca5ca806
+#EXTINF:-1 tvg-id="251" tvg-name="Movistar Deportes 7 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Deportes_7.webp" group-title="[ES] Deportes",Movistar Deportes 7 HD
+http://d38c98a9735.gookiki.me/live/251.ts?channel_id=251&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=8e9012e7826c55bae279994dc5f1fb51ec20e867befab5102700b91fa302e0ba
+#EXTINF:-1 tvg-id="411" tvg-name="MOVISTAR GOLF HD" tvg-logo="https://buyone.xyz/pic/MOVISTAR_GOLF.webp" group-title="[ES] Deportes",MOVISTAR GOLF HD
+http://d38c98a9735.gookiki.me/live/411.ts?channel_id=411&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=0f23a72e5eb16930960d457bb9bf3317bd81a28229427e3510ca2ebe24bbb01f
+#EXTINF:-1 tvg-id="413" tvg-name="MOVISTAR GOLF 2 HD" tvg-logo="https://buyone.xyz/pic/MOVISTAR_GOLF_2.webp" group-title="[ES] Deportes",MOVISTAR GOLF 2 HD
+http://d38c98a9735.gookiki.me/live/413.ts?channel_id=413&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=5b859b257d9095102de0efb924ac8451d81f095c00e60e40d48bd7593237a736
+#EXTINF:-1 tvg-id="243" tvg-name="Dazn F1 HD" tvg-logo="https://buyone.xyz/pic/Dazn_F1.webp" group-title="[ES] Deportes",Dazn F1 HD
+http://d38c98a9735.gookiki.me/live/243.ts?channel_id=243&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=2744d183a5eb7a0d86f56a897d36ac0bf20765e5a701ed189c5ec551c0ec6463
+#EXTINF:-1 tvg-id="932" tvg-name="Dazn F1 backup 2 HD" tvg-logo="https://buyone.xyz/pic/Dazn_F1.webp" group-title="[ES] Deportes",Dazn F1 backup 2 HD
+http://d38c98a9735.gookiki.me/live/932.ts?channel_id=932&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=9b5d669a9fb52c87fbbceb65bffc8c19a3616967dc1ef0d6838e0b4c62bb7ecc
+#EXTINF:-1 tvg-id="945" tvg-name="Dazn F1 backup 3 HD" tvg-logo="https://buyone.xyz/pic/Dazn_F1.webp" group-title="[ES] Deportes",Dazn F1 backup 3 HD
+http://d38c98a9735.gookiki.me/live/945.ts?channel_id=945&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=ba3942113a467267229e3d295b244585160471b9c9982c6053bd47beaacf140c
+#EXTINF:-1 tvg-id="969" tvg-name="Dazn F1 backup 4 HD" tvg-logo="https://buyone.xyz/pic/Dazn_F1.webp" group-title="[ES] Deportes",Dazn F1 backup 4 HD
+http://d38c98a9735.gookiki.me/live/969.ts?channel_id=969&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=88e39ee5ea7bbf9992d4bbbf4406e5b2676383922c932c0f95d3e87ca72cc6e0
+#EXTINF:-1 tvg-id="308" tvg-name="Dazn F1 FHD" tvg-logo="https://buyone.xyz/pic/Dazn_F1.webp" group-title="[ES] Deportes",Dazn F1 FHD
+http://d38c98a9735.gookiki.me/live/308.ts?channel_id=308&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=6d26ede9e9a2a0fed77af85c9ae7fb7702b9cd066093c91a7edec071dc7e1eb4
+#EXTINF:-1 tvg-id="933" tvg-name="Dazn F1 backup 2 FHD" tvg-logo="https://buyone.xyz/pic/Dazn_F1.webp" group-title="[ES] Deportes",Dazn F1 backup 2 FHD
+http://d38c98a9735.gookiki.me/live/933.ts?channel_id=933&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=33bbc3fd139a467b350e2b7cb386b87e9c9cea629208e5dcc48b38ca165032b9
+#EXTINF:-1 tvg-id="946" tvg-name="Dazn F1 backup 3 FHD" tvg-logo="https://buyone.xyz/pic/Dazn_F1.webp" group-title="[ES] Deportes",Dazn F1 backup 3 FHD
+http://d38c98a9735.gookiki.me/live/946.ts?channel_id=946&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=cbaf08ca534c7cc9749d7ba11cfb12ac0ccffe3a338395b442202c1a5a7883fe
+#EXTINF:-1 tvg-id="244" tvg-name="Dazn 1 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Dazn_1.webp" group-title="[ES] Deportes",Dazn 1 HD
+http://d38c98a9735.gookiki.me/live/244.ts?channel_id=244&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=f173ed477f3978f93e8ed85d21e52ec49c65461a840df08e25dc51ef7c547d0b
+#EXTINF:-1 tvg-id="309" tvg-name="Dazn 1 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Dazn_1.webp" group-title="[ES] Deportes",Dazn 1 FHD
+http://d38c98a9735.gookiki.me/live/309.ts?channel_id=309&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=d206d29850af0a731931b7875f708f93c24fdbd8e0a45b5f23c676fad6f76296
+#EXTINF:-1 tvg-id="245" tvg-name="Dazn 2 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Dazn_2.webp" group-title="[ES] Deportes",Dazn 2 HD
+http://d38c98a9735.gookiki.me/live/245.ts?channel_id=245&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=84525882568970a8e0a3e0bd599cc432ac0e0f95894ec7af92d9644e70e0f4c9
+#EXTINF:-1 tvg-id="310" tvg-name="Dazn 2 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Dazn_2.webp" group-title="[ES] Deportes",Dazn 2 FHD
+http://d38c98a9735.gookiki.me/live/310.ts?channel_id=310&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=658d1adce1c65bbec9f6a91df5c6e58b8818bd2fa644846353f1d322ad7dda55
+#EXTINF:-1 tvg-id="1387" tvg-name="Dazn 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="[ES] Deportes",Dazn 3 HD
+http://d38c98a9735.gookiki.me/live/1387.ts?channel_id=1387&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=04fa35f56ce97fe37d01d33b1f0068f2316ebf949b29ab90ccf6ded851ccd97b
+#EXTINF:-1 tvg-id="1388" tvg-name="Dazn 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="[ES] Deportes",Dazn 3 FHD
+http://d38c98a9735.gookiki.me/live/1388.ts?channel_id=1388&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=2f488c4fee12ae12f3c2ceb7bc9ac62d8c82ebd5ce7a2670919001d01cdd47c2
+#EXTINF:-1 tvg-id="246" tvg-name="Dazn 4 HD" tvg-logo="https://buyone.xyz/pic/Movistar_Dazn_4.webp" group-title="[ES] Deportes",Dazn 4 HD
+http://d38c98a9735.gookiki.me/live/246.ts?channel_id=246&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=d5cfdb88a38947e47e4c7ffd491311abc4c43b71f118f831190849bc0afc1b3c
+#EXTINF:-1 tvg-id="311" tvg-name="Dazn 4 FHD" tvg-logo="https://buyone.xyz/pic/Movistar_Dazn_4.webp" group-title="[ES] Deportes",Dazn 4 FHD
+http://d38c98a9735.gookiki.me/live/311.ts?channel_id=311&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=b81dbbc50d7a97328433616a8c249496da5269a1281014aaa1f9235b79d30b8b
+#EXTINF:-1 tvg-id="415" tvg-name="Vamos HD" tvg-logo="https://buyone.xyz/pic/Vamos.webp" group-title="[ES] Deportes",Vamos HD
+http://d38c98a9735.gookiki.me/live/415.ts?channel_id=415&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=e02c33724c9f046afccb35ffd3a0dbb9367c7655b426b2a8f6b12a6c482b751a
+#EXTINF:-1 tvg-id="416" tvg-name="Vamos FHD" tvg-logo="https://buyone.xyz/pic/Vamos.webp" group-title="[ES] Deportes",Vamos FHD
+http://d38c98a9735.gookiki.me/live/416.ts?channel_id=416&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=076d999f566728411c7dfc4d5b7cabd9b04f6fd1b31a573a4d62392816b7b908
+#EXTINF:-1 tvg-id="1500" tvg-name="VAMOS 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAM2SD.png" group-title="[ES] Deportes",VAMOS 2
+http://d38c98a9735.gookiki.me/live/1500.ts?channel_id=1500&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=491fbec5434b70355865fbecfcb3432bfcc5ab43fb3c8419588119727dc8a081
+#EXTINF:-1 tvg-id="1510" tvg-name="VAMOS 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAM2SD.png" group-title="[ES] Deportes",VAMOS 2
+http://d38c98a9735.gookiki.me/live/1510.ts?channel_id=1510&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=8e4cba4e5c315d2944c07e9826eb16391044d91fb4683215ac27fe542fcbaf0a
+#EXTINF:-1 tvg-id="1501" tvg-name="VAMOS 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="[ES] Deportes",VAMOS 3
+http://d38c98a9735.gookiki.me/live/1501.ts?channel_id=1501&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=35e64003b30a14972b148da8ea938e018bc25f5bbd24e182f2d3dd5dc5c8b78c
+#EXTINF:-1 tvg-id="1511" tvg-name="VAMOS 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="[ES] Deportes",VAMOS 3
+http://d38c98a9735.gookiki.me/live/1511.ts?channel_id=1511&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=33d45d2c9981939a2868b48a0c27a70ac030dd7ee9227bf237f6a561d34e3c32
+#EXTINF:-1 tvg-id="249" tvg-name="Eurosport 1 HD" tvg-logo="https://buyone.xyz/pic/Eurosport_1.webp" group-title="[ES] Deportes",Eurosport 1 HD
+http://d38c98a9735.gookiki.me/live/249.ts?channel_id=249&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=58b81ed03d9b8cbed46e272e57fbe33806cb09cd7ce403808b2bfd2ff6f93ad9
+#EXTINF:-1 tvg-id="985" tvg-name="Eurosport 1 backup 2 HD" tvg-logo="https://buyone.xyz/pic/Eurosport_1.webp" group-title="[ES] Deportes",Eurosport 1 backup 2 HD
+http://d38c98a9735.gookiki.me/live/985.ts?channel_id=985&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=ee4f304e9a90569b4b39f481fd9771f48cc8529b0bf91448e39000d1f64fb700
+#EXTINF:-1 tvg-id="989" tvg-name="Eurosport 1 backup 3 HD" tvg-logo="https://buyone.xyz/pic/Eurosport_1.webp" group-title="[ES] Deportes",Eurosport 1 backup 3 HD
+http://d38c98a9735.gookiki.me/live/989.ts?channel_id=989&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=118eda6a5d4409b72703d59a7a222674dcd09fa59978a6f7c34cd2a64d14449a
+#EXTINF:-1 tvg-id="314" tvg-name="Eurosport 1 FHD" tvg-logo="https://buyone.xyz/pic/Eurosport_1.webp" group-title="[ES] Deportes",Eurosport 1 FHD
+http://d38c98a9735.gookiki.me/live/314.ts?channel_id=314&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=3705bed0519126e1eba9dffe7cfaa1282e3e6d1dfeebf83d7babe7871f577f9b
+#EXTINF:-1 tvg-id="986" tvg-name="Eurosport 1 backup 2 FHD" tvg-logo="https://buyone.xyz/pic/Eurosport_1.webp" group-title="[ES] Deportes",Eurosport 1 backup 2 FHD
+http://d38c98a9735.gookiki.me/live/986.ts?channel_id=986&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=7e210279e18554fc752ffc3d1acc99db346f8403296b7c554e396c0a5b351c50
+#EXTINF:-1 tvg-id="990" tvg-name="Eurosport 1 backup 3 FHD" tvg-logo="https://buyone.xyz/pic/Eurosport_1.webp" group-title="[ES] Deportes",Eurosport 1 backup 3 FHD
+http://d38c98a9735.gookiki.me/live/990.ts?channel_id=990&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=295e2d31746b633ff269111b4ee87defe9bdfb46dbc4c6d00dac1dff9316b960
+#EXTINF:-1 tvg-id="250" tvg-name="Eurosport 2 HD" tvg-logo="https://buyone.xyz/pic/Eurosport_2.webp" group-title="[ES] Deportes",Eurosport 2 HD
+http://d38c98a9735.gookiki.me/live/250.ts?channel_id=250&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=4eeb5705c3565d68b14c79385f03d9e14b31ea49fb4f35a0cfaea536b4677620
+#EXTINF:-1 tvg-id="987" tvg-name="Eurosport 2 backup 2 HD" tvg-logo="https://buyone.xyz/pic/Eurosport_2.webp" group-title="[ES] Deportes",Eurosport 2 backup 2 HD
+http://d38c98a9735.gookiki.me/live/987.ts?channel_id=987&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=808cea2faeba5961a3bea0c87115a02695afed91f20d81725618e470215732f8
+#EXTINF:-1 tvg-id="992" tvg-name="Eurosport 2 backup 3 HD" tvg-logo="https://buyone.xyz/pic/Eurosport_2.webp" group-title="[ES] Deportes",Eurosport 2 backup 3 HD
+http://d38c98a9735.gookiki.me/live/992.ts?channel_id=992&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=21a03b6372f3e1f894c8a777c9a6fe738a0cd07dee8840338b8aa08f579e6d9f
+#EXTINF:-1 tvg-id="315" tvg-name="Eurosport 2 FHD" tvg-logo="https://buyone.xyz/pic/Eurosport_2.webp" group-title="[ES] Deportes",Eurosport 2 FHD
+http://d38c98a9735.gookiki.me/live/315.ts?channel_id=315&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=5878edd4da37b8ff4021e25a1762023031b466e7c78aa95e8b5ae0dd5e30002e
+#EXTINF:-1 tvg-id="988" tvg-name="Eurosport 2 backup 2 FHD" tvg-logo="https://buyone.xyz/pic/Eurosport_2.webp" group-title="[ES] Deportes",Eurosport 2 backup 2 FHD
+http://d38c98a9735.gookiki.me/live/988.ts?channel_id=988&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=8c3fbc849c1c551fe5875d01f447c7e8d44895653bc2efdae12c22f75e601d0e
+#EXTINF:-1 tvg-id="993" tvg-name="Eurosport 2 backup 3 FHD" tvg-logo="https://buyone.xyz/pic/Eurosport_2.webp" group-title="[ES] Deportes",Eurosport 2 backup 3 FHD
+http://d38c98a9735.gookiki.me/live/993.ts?channel_id=993&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=21470981a73e74754905cc2a4197486fa3fe621cb302912a0d3dd5d169fcad91
+#EXTINF:-1 tvg-id="1502" tvg-name="TELEDEPORTE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="[ES] Deportes",TELEDEPORTE
+http://d38c98a9735.gookiki.me/live/1502.ts?channel_id=1502&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=1a308c1c5da74981775b805ad7fe5c37361cd3577b333e6b32b378451c433b07
+#EXTINF:-1 tvg-id="1512" tvg-name="TELEDEPORTE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="[ES] Deportes",TELEDEPORTE
+http://d38c98a9735.gookiki.me/live/1512.ts?channel_id=1512&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=da5d68f45109fa6ab8f3ebe78be251f0415b7a4999c0cd0de4c42906890777be
+#EXTINF:-1 tvg-id="433" tvg-name="GOL Play HD" tvg-logo="https://buyone.xyz/pic/GOL_Play.webp" group-title="[ES] Deportes",GOL Play HD
+http://d38c98a9735.gookiki.me/live/433.ts?channel_id=433&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=c2df123a1ebaf4cc0096aa8da5e69ec3d3e637b9703f35de0f6656cc5b52ce63
+#EXTINF:-1 tvg-id="434" tvg-name="GOL Play FHD" tvg-logo="https://buyone.xyz/pic/GOL_Play.webp" group-title="[ES] Deportes",GOL Play FHD
+http://d38c98a9735.gookiki.me/live/434.ts?channel_id=434&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=8c2fbc9780794d3233b80ff1e45842fb5ad0397f49c56b2748d859c479083a89
+#EXTINF:-1 tvg-id="1113" tvg-name="REAL MADRID HD" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/real-madrid-tv-es.png" group-title="[ES] Deportes",REAL MADRID HD
+http://d38c98a9735.gookiki.me/live/1113.ts?channel_id=1113&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=8d91a4bad1b0e9ec8c815a332871433d5373fcc20814749c6681798677b98641
+#EXTINF:-1 tvg-id="1118" tvg-name="REAL MADRID backup 2 HD" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/real-madrid-tv-es.png" group-title="[ES] Deportes",REAL MADRID backup 2 HD
+http://d38c98a9735.gookiki.me/live/1118.ts?channel_id=1118&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=8ce28d5e0142644f904498ee0d982213d2dbb66897f88395beec1f4aa5fe2dbd
+#EXTINF:-1 tvg-id="1115" tvg-name="REAL MADRID FHD" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/real-madrid-tv-es.png" group-title="[ES] Deportes",REAL MADRID FHD
+http://d38c98a9735.gookiki.me/live/1115.ts?channel_id=1115&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=2802974739ddaa949a507a878a01883544c4e241d7497d601a0adb602db26934
+#EXTINF:-1 tvg-id="1119" tvg-name="REAL MADRID backup 2 FHD" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/real-madrid-tv-es.png" group-title="[ES] Deportes",REAL MADRID backup 2 FHD
+http://d38c98a9735.gookiki.me/live/1119.ts?channel_id=1119&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=61f30464f97193e7bc7a4d7fa60b433d18edd6f1934f02d25e8890dfbf065f64
+#EXTINF:-1 tvg-id="429" tvg-name="MY PADEL HD" tvg-logo="https://buyone.xyz/pic/MY_PADEL.webp" group-title="[ES] Deportes",MY PADEL HD
+http://d38c98a9735.gookiki.me/live/429.ts?channel_id=429&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=6385f8bfa6ca095843c6079a725a3330412774c92dc03a04118eb0fdbdfe1d4d
+#EXTINF:-1 tvg-id="430" tvg-name="MY PADEL FHD" tvg-logo="https://buyone.xyz/pic/MY_PADEL.webp" group-title="[ES] Deportes",MY PADEL FHD
+http://d38c98a9735.gookiki.me/live/430.ts?channel_id=430&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=d71721aa18182af291c592abd7911722f4fd745794724460630fd9d0fcfe7117
+#EXTINF:-1 tvg-id="431" tvg-name="M. ELLAS #V HD" tvg-logo="https://buyone.xyz/pic/M_ELLAS_V.webp" group-title="[ES] Deportes",M. ELLAS #V HD
+http://d38c98a9735.gookiki.me/live/431.ts?channel_id=431&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=a0868c7d119b1dd9302c8c4eaf38043ef2550ba54b6fdf8f38e3dd43e6ed54bc
+#EXTINF:-1 tvg-id="432" tvg-name="M. ELLAS #V FHD" tvg-logo="https://buyone.xyz/pic/M_ELLAS_V.webp" group-title="[ES] Deportes",M. ELLAS #V FHD
+http://d38c98a9735.gookiki.me/live/432.ts?channel_id=432&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=a17852310f791a65d874d19e224e9883e6d7d49b7c8699f4cbc73b5aa11b2ecf
+#EXTINF:-1 tvg-id="417" tvg-name="CAZA Y PESCA HD" tvg-logo="https://buyone.xyz/pic/CAZA_Y_PESCA.webp" group-title="[ES] Deportes",CAZA Y PESCA HD
+http://d38c98a9735.gookiki.me/live/417.ts?channel_id=417&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=f1728e7a985f62eb897412e311985731670aec74f151390234d8feadca163f95
+#EXTINF:-1 tvg-id="418" tvg-name="CAZA Y PESCA FHD" tvg-logo="https://buyone.xyz/pic/CAZA_Y_PESCA.webp" group-title="[ES] Deportes",CAZA Y PESCA FHD
+http://d38c98a9735.gookiki.me/live/418.ts?channel_id=418&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=e93262a8d671ba40a77794a0449f49acd86e24c2c74a54e2ce51ef2541495570
+#EXTINF:-1 tvg-id="421" tvg-name="IBERALIA 100% CAZA HD" tvg-logo="https://buyone.xyz/pic/IBERALIA_100_CAZA.webp" group-title="[ES] Deportes",IBERALIA 100% CAZA HD
+http://d38c98a9735.gookiki.me/live/421.ts?channel_id=421&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=65cdcc34c6e4ee0642534ab7d1564f0a9805221149019c3353277c7275fd136e
+#EXTINF:-1 tvg-id="422" tvg-name="IBERALIA 100% CAZA FHD" tvg-logo="https://buyone.xyz/pic/IBERALIA_100_CAZA.webp" group-title="[ES] Deportes",IBERALIA 100% CAZA FHD
+http://d38c98a9735.gookiki.me/live/422.ts?channel_id=422&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=f3c30fe9906703e927c4b2cd63b2772d1e80bfb931381af7f93500e7f928a550
+#EXTINF:-1 tvg-id="423" tvg-name="IBERALIA 100% PESCA HD" tvg-logo="https://buyone.xyz/pic/IBERALIA_100_PESCA.webp" group-title="[ES] Deportes",IBERALIA 100% PESCA HD
+http://d38c98a9735.gookiki.me/live/423.ts?channel_id=423&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=2d23dc4d9e46f37b1d162cde87ab2489bee3095cde3d3eb2e726003ef7717a35
+#EXTINF:-1 tvg-id="424" tvg-name="IBERALIA 100% PESCA FHD" tvg-logo="https://buyone.xyz/pic/IBERALIA_100_PESCA.webp" group-title="[ES] Deportes",IBERALIA 100% PESCA FHD
+http://d38c98a9735.gookiki.me/live/424.ts?channel_id=424&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=03557f12bb64dea1ab8af12a02459d692035179a72ba709396e1fae54d17220e
+#EXTINF:-1 tvg-id="419" tvg-name="IBERALIA TV HD" tvg-logo="https://buyone.xyz/pic/IBERALIA_TV.webp" group-title="[ES] Deportes",IBERALIA TV HD
+http://d38c98a9735.gookiki.me/live/419.ts?channel_id=419&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=e1cc8682b6e32786b8cf2c9dade312c3f242db1f2972e6a24ecc203b1ccc7e06
+#EXTINF:-1 tvg-id="425" tvg-name="ONETORO HD" tvg-logo="https://buyone.xyz/pic/ONETORO.webp" group-title="[ES] Deportes",ONETORO HD
+http://d38c98a9735.gookiki.me/live/425.ts?channel_id=425&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=6a38eefa6c1e382a6b2ff63db5b5cce0b8e56f49bbd508c25d543b704b78a5fa
+#EXTINF:-1 tvg-id="426" tvg-name="ONETORO FHD" tvg-logo="https://buyone.xyz/pic/ONETORO.webp" group-title="[ES] Deportes",ONETORO FHD
+http://d38c98a9735.gookiki.me/live/426.ts?channel_id=426&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=0132ffa33fbe5fb416eee7e2919e9fe1e3555a58e92fcc36c4ae6da8ea6a6eaf
+#EXTINF:-1 tvg-id="427" tvg-name="TOROLE HD" tvg-logo="https://buyone.xyz/pic/TOROLE.webp" group-title="[ES] Deportes",TOROLE HD
+http://d38c98a9735.gookiki.me/live/427.ts?channel_id=427&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=224a48dedf96e807a1ff23c69ecc3fd2061201f5e8314e3b94da986a230292b2
+#EXTINF:-1 tvg-id="428" tvg-name="TOROLE FHD" tvg-logo="https://buyone.xyz/pic/TOROLE.webp" group-title="[ES] Deportes",TOROLE FHD
+http://d38c98a9735.gookiki.me/live/428.ts?channel_id=428&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=aae3b8f746970630436bf462479e218be24bc7fdb0fb7f302858076eddf25486
+#EXTINF:-1 tvg-id="1116" tvg-name="TELE MADRID HD" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/tele-madrid-es.png" group-title="[ES] Deportes",TELE MADRID HD
+http://d38c98a9735.gookiki.me/live/1116.ts?channel_id=1116&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=8899d3c6d53cbc0293a298ed261cbf9f787fb99c9f83aca8d67e3423feda04f9
+#EXTINF:-1 tvg-id="1120" tvg-name="TELE MADRID backup 2 HD" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/tele-madrid-es.png" group-title="[ES] Deportes",TELE MADRID backup 2 HD
+http://d38c98a9735.gookiki.me/live/1120.ts?channel_id=1120&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=e79c06211a95e7d9692a6a48221741df8d33c224e4bd356290f03c9ef223b136
+#EXTINF:-1 tvg-id="1117" tvg-name="TELE MADRID FHD" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/tele-madrid-es.png" group-title="[ES] Deportes",TELE MADRID FHD
+http://d38c98a9735.gookiki.me/live/1117.ts?channel_id=1117&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=4535babf01ffb657afe639337b6cf74b9e8c1d5a8b0bc2542ef6d019e6534eb4
+#EXTINF:-1 tvg-id="1121" tvg-name="TELE MADRID backup 2 FHD" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/tele-madrid-es.png" group-title="[ES] Deportes",TELE MADRID backup 2 FHD
+http://d38c98a9735.gookiki.me/live/1121.ts?channel_id=1121&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=e841e43e4083a15f49b40b51512deb0996baa7fa50bfb5cfc405a8aeb46bb30e
+#EXTINF:-1 tvg-id="1503" tvg-name="DBIKE" tvg-logo="https://dbikechannel.es/wp-content/uploads/2024/04/logodbike2020.png" group-title="[ES] Deportes",DBIKE
+http://d38c98a9735.gookiki.me/live/1503.ts?channel_id=1503&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=800081a3615006abfc6723b953d56f6e041fa156d2499ddfb5333c3e9a24086e
+#EXTINF:-1 tvg-id="1513" tvg-name="DBIKE" tvg-logo="https://dbikechannel.es/wp-content/uploads/2024/04/logodbike2020.png" group-title="[ES] Deportes",DBIKE
+http://d38c98a9735.gookiki.me/live/1513.ts?channel_id=1513&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=9bde7ddbf9b5d76c83a49b407c2dda22265f3ae4893449e7e9b7ce50d2d78eb5
+#EXTINF:-1 tvg-id="1504" tvg-name="SURF CHANNEL" tvg-logo="https://surfchanneltv.com/wp-content/uploads/2026/01/logo512.png" group-title="[ES] Deportes",SURF CHANNEL
+http://d38c98a9735.gookiki.me/live/1504.ts?channel_id=1504&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=a599e0804df089c0cbf406aa54f0764a66b91edc75db92b5f8466fe411f1b7a3
+#EXTINF:-1 tvg-id="1514" tvg-name="SURF CHANNEL" tvg-logo="https://surfchanneltv.com/wp-content/uploads/2026/01/logo512.png" group-title="[ES] Deportes",SURF CHANNEL
+http://d38c98a9735.gookiki.me/live/1514.ts?channel_id=1514&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=010668cea1fb226a6688e8d5ee5f7efbce1e1a4ecb7aca3b53a2fdd6fe1b6b34
+#EXTINF:-1 tvg-id="1505" tvg-name="MOTO ADV" tvg-logo="https://motoadv.es/wp-content/uploads/2022/08/MotoADV-TV-logo_organization.png" group-title="[ES] Deportes",MOTO ADV
+http://d38c98a9735.gookiki.me/live/1505.ts?channel_id=1505&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=ee6e96dbb96cc7d5b525a4bce20e1f5c5ba4a5fc8424514bc82324cd579e1f80
+#EXTINF:-1 tvg-id="1515" tvg-name="MOTO ADV" tvg-logo="https://motoadv.es/wp-content/uploads/2022/08/MotoADV-TV-logo_organization.png" group-title="[ES] Deportes",MOTO ADV
+http://d38c98a9735.gookiki.me/live/1515.ts?channel_id=1515&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=a84c9e38be8b68f9199b14efcf06814606da9831b6da8923e9192f118c6f0007
+#EXTINF:-1 tvg-id="1506" tvg-name="REKTV" tvg-logo="https://www.kindpng.com/picc/m/53-538232_transparent-utiles-escolares-animados-png-rektv-logo-png.png" group-title="[ES] Deportes",REKTV
+http://d38c98a9735.gookiki.me/live/1506.ts?channel_id=1506&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=3cffc1faf00351388c5f6956a14f7b66f560f3b2cfdf934bb283f5e73494db32
+#EXTINF:-1 tvg-id="1516" tvg-name="REKTV" tvg-logo="https://www.kindpng.com/picc/m/53-538232_transparent-utiles-escolares-animados-png-rektv-logo-png.png" group-title="[ES] Deportes",REKTV
+http://d38c98a9735.gookiki.me/live/1516.ts?channel_id=1516&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=35b0a250a3a7052074f33ac08fa1668698f8bf3660466f4d72dd9fec6fed5294
+#EXTINF:-1 tvg-id="1507" tvg-name="RED BULL TV" tvg-logo="https://i.postimg.cc/WpKvrLjZ/red-bull-tv-logo.png" group-title="[ES] Deportes",RED BULL TV
+http://d38c98a9735.gookiki.me/live/1507.ts?channel_id=1507&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=0b41de68032160f98c3e4e158d7923523201eb09eae0be85f99eb3c357210640
+#EXTINF:-1 tvg-id="1508" tvg-name="Rally TV" tvg-logo="https://static-resources.redbull.tv/images/smarttv/rallytv/logos/logo-light.svg" group-title="[ES] Deportes",Rally TV
+http://d38c98a9735.gookiki.me/live/1508.ts?channel_id=1508&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=9fc0d0457ca717e2f55cfaae600b66862f2982a07adb4625f26c8af8deaff015
+#EXTINF:-1 tvg-id="1599" tvg-name="FIGHT TIME" tvg-logo="http://legacy4k.pro:8000/images/Bs4zcrVSn48d-ML1POlO8SLyAEXackaBMLPMzJv8p0QQw_4YmGp1Urz2SCIITOnMVyhAo_zTWKHgcGQ0i-kqFqM6-2dpZxSExNe8ah5v2WV2i-5ZFF_WBPKsNmTyMzVC.png" group-title="[ES] Deportes",FIGHT TIME
+http://d38c98a9735.gookiki.me/live/1599.ts?channel_id=1599&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=a5170d7f5df61f0741061c64130c3f02f9bab5bb1e52eec6a78dd09d5055c6cb
+#EXTINF:-1 tvg-id="1600" tvg-name="Horse TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/horse-tv-es.png?raw=true" group-title="[ES] Deportes",Horse TV
+http://d38c98a9735.gookiki.me/live/1600.ts?channel_id=1600&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=dd80a4c6406c61e2f884761f9931cb645b80f5459e2d966a1b52ea9a82b88810
+#EXTINF:-1 tvg-id="1601" tvg-name="BBC Top Gear" tvg-logo="http://legacy4k.pro:8000/images/Bs4zcrVSn48d-ML1POlO8SLyAEXackaBMLPMzJv8p0QQw_4YmGp1Urz2SCIITOnMVyhAo_zTWKHgcGQ0i-kqFu6Hamb53xdkz8y3I2DSeE7pxpgik-dX5C1mMO4KYq1s.png" group-title="[ES] Deportes",BBC Top Gear
+http://d38c98a9735.gookiki.me/live/1601.ts?channel_id=1601&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=f4a761c70f116277efabd0e0f1640046d9eeb2917ed3c4d857bc3cd8036166d3
+#EXTINF:-1 tvg-id="1602" tvg-name="MMA TV" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MMATV_WHITE_176x122.png?width=3840&height=2160" group-title="[ES] Deportes",MMA TV
+http://d38c98a9735.gookiki.me/live/1602.ts?channel_id=1602&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=79e44b8f0f9edc21b15a0c002d141cb27a9c903d2a42483cf69c0c789832a5e2
+#EXTINF:-1 tvg-id="1603" tvg-name="Nautical Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/nautical-channel-es.png?raw=true" group-title="[ES] Deportes",Nautical Channel
+http://d38c98a9735.gookiki.me/live/1603.ts?channel_id=1603&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=5d4bdcb630c27995a85794ad24ce61f7514cab5ac043d4fbf3b55d35f8336b60
+#EXTINF:-1 tvg-id="1604" tvg-name="Rugby Spain" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUGBY_SPAIN_WHITE_176x122.png?width=3840&height=2160" group-title="[ES] Deportes",Rugby Spain
+http://d38c98a9735.gookiki.me/live/1604.ts?channel_id=1604&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=8fad0948a8046e5fd8fa902acbad3a3cbb23c699e8463a23ddd329819023160b
+#EXTINF:-1 tvg-id="1605" tvg-name="Tennis Channel" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/TENNIS_CHANNEL_176x122.png?width=3840&height=2160" group-title="[ES] Deportes",Tennis Channel
+http://d38c98a9735.gookiki.me/live/1605.ts?channel_id=1605&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=7ef4fb73bb1053ef496b540a636398d2d0584842adf7fe15dc6c6768670d0045
+#EXTINF:-1 tvg-id="1018" tvg-name="DAZN Baloncesto HD" tvg-logo="https://buyone.xyz/pic/Liga_ACB_Evento.webp" group-title="[ES] Dazn ACB",DAZN Baloncesto HD
+http://d38c98a9735.gookiki.me/live/1018.ts?channel_id=1018&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=0654384bf334e6bf05b525068b84a724e6de1322c1f5455f2b8d708997ed7f0c
+#EXTINF:-1 tvg-id="1019" tvg-name="DAZN Baloncesto FHD" tvg-logo="https://buyone.xyz/pic/Liga_ACB_Evento.webp" group-title="[ES] Dazn ACB",DAZN Baloncesto FHD
+http://d38c98a9735.gookiki.me/live/1019.ts?channel_id=1019&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=d2eddd982f194e47d80664f721a687bab73684d9d696d4c646b659871736d5b6
+#EXTINF:-1 tvg-id="1020" tvg-name="DAZN Baloncesto 2 HD" tvg-logo="https://buyone.xyz/pic/Liga_ACB_Evento.webp" group-title="[ES] Dazn ACB",DAZN Baloncesto 2 HD
+http://d38c98a9735.gookiki.me/live/1020.ts?channel_id=1020&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=b3c533740f450f54f7a208de0e001c1ad7aceb2cb6a195ea127f3cb4ec70041f
+#EXTINF:-1 tvg-id="1021" tvg-name="DAZN Baloncesto 2 FHD" tvg-logo="https://buyone.xyz/pic/Liga_ACB_Evento.webp" group-title="[ES] Dazn ACB",DAZN Baloncesto 2 FHD
+http://d38c98a9735.gookiki.me/live/1021.ts?channel_id=1021&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=2fc6a14cf334f7ac33c0397d449c2b11f9621162f63a3bea2d90ac78230103b7
+#EXTINF:-1 tvg-id="1022" tvg-name="DAZN Baloncesto 3 HD" tvg-logo="https://buyone.xyz/pic/Liga_ACB_Evento.webp" group-title="[ES] Dazn ACB",DAZN Baloncesto 3 HD
+http://d38c98a9735.gookiki.me/live/1022.ts?channel_id=1022&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=33eb5db7127d6df4b89806d57f9a042fa7b9cf616e561b0886cb7485fbbc4632
+#EXTINF:-1 tvg-id="1023" tvg-name="DAZN Baloncesto 3 FHD" tvg-logo="https://buyone.xyz/pic/Liga_ACB_Evento.webp" group-title="[ES] Dazn ACB",DAZN Baloncesto 3 FHD
+http://d38c98a9735.gookiki.me/live/1023.ts?channel_id=1023&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=01be5f98e35689127c56619b381282d58854ceaa287aa331a3d0247d286f47c4
+#EXTINF:-1 tvg-id="1377" tvg-name="M+ Baloncesto" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZBA.png" group-title="[ES] M+ Baloncesto",M+ Baloncesto
+http://d38c98a9735.gookiki.me/live/1377.ts?channel_id=1377&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=51945f5dd593992de03a3a9b3e90119462fc25cdd00532d51e216c093d1523b5
+#EXTINF:-1 tvg-id="1382" tvg-name="M+ Baloncesto" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZBA.png" group-title="[ES] M+ Baloncesto",M+ Baloncesto
+http://d38c98a9735.gookiki.me/live/1382.ts?channel_id=1382&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=eb7ef526e62c30d4cfc47bd8baf74f0b2a5081a4f9d92095af28a8a1d3b03212
+#EXTINF:-1 tvg-id="1379" tvg-name="M+ Baloncesto 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZB3.png" group-title="[ES] M+ Baloncesto",M+ Baloncesto 3
+http://d38c98a9735.gookiki.me/live/1379.ts?channel_id=1379&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=fd7bb01a4fa7b7fa7e0d4cbf1473b73e01253c91ee5cd92a596c43aee3b93875
+#EXTINF:-1 tvg-id="1384" tvg-name="M+ Baloncesto 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZB3.png" group-title="[ES] M+ Baloncesto",M+ Baloncesto 3
+http://d38c98a9735.gookiki.me/live/1384.ts?channel_id=1384&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=64521290a2c9a6352c3cc7d92431b968410d61c91307c61f83ae21ea127d0c9b
+#EXTINF:-1 tvg-id="1380" tvg-name="M+ Baloncesto 4" tvg-logo="https://www.movistarplus.es/recorte/m-DP/canal/MBALC4.png" group-title="[ES] M+ Baloncesto",M+ Baloncesto 4
+http://d38c98a9735.gookiki.me/live/1380.ts?channel_id=1380&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=71d843e5f7db75dec95d79e5e7209a9d41673a2cfcab64de60bdb7a7d12a086d
+#EXTINF:-1 tvg-id="1385" tvg-name="M+ Baloncesto 4" tvg-logo="https://www.movistarplus.es/recorte/m-DP/canal/MBALC4.png" group-title="[ES] M+ Baloncesto",M+ Baloncesto 4
+http://d38c98a9735.gookiki.me/live/1385.ts?channel_id=1385&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=ac43ba10531938d32a66a32379548873db286f6a4251437633a32e296302a5e9
+#EXTINF:-1 tvg-id="1381" tvg-name="M+ Baloncesto 5" tvg-logo="https://www.movistarplus.es/recorte/m-DP/canal/MBALC5.png" group-title="[ES] M+ Baloncesto",M+ Baloncesto 5
+http://d38c98a9735.gookiki.me/live/1381.ts?channel_id=1381&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=f7e2857dbf6bf7e81ba0d4c20bec3b3a5d61e6f823f765620fc4593f9600c5d1
+#EXTINF:-1 tvg-id="1386" tvg-name="M+ Baloncesto 5" tvg-logo="https://www.movistarplus.es/recorte/m-DP/canal/MBALC5.png" group-title="[ES] M+ Baloncesto",M+ Baloncesto 5
+http://d38c98a9735.gookiki.me/live/1386.ts?channel_id=1386&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=e9a3f8930fe9af641c329beb39b7bbd3c2d844165ecf31203e5d8e644ba47380
+#EXTINF:-1 tvg-id="1378" tvg-name="M+ Baloncesto 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZB2.png" group-title="[ES] M+ Baloncesto",M+ Baloncesto 2
+http://d38c98a9735.gookiki.me/live/1378.ts?channel_id=1378&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=c6ddb4a239963f1dac6d05a78a48ff9a36d513977cf41e2f97ee7d3a36951792
+#EXTINF:-1 tvg-id="1383" tvg-name="M+ Baloncesto 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZB2.png" group-title="[ES] M+ Baloncesto",M+ Baloncesto 2
+http://d38c98a9735.gookiki.me/live/1383.ts?channel_id=1383&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=6add672c16331b5c7c6cd113b785cc9d55b2089f7dc160e036a685103d6cc010
+#EXTINF:-1 tvg-id="1033" tvg-name="DAZN Moto GP HD" tvg-logo="http://cdn.eliteplaytv.tv:8000/images/snDZTEBDfdgTSAgBsKjlWb1H1LcUjjIzweHVF_URpPlV6FRroBkk13HAQK87qz4G.png" group-title="[ES] DAZN MotoGP",DAZN Moto GP HD
+http://d38c98a9735.gookiki.me/live/1033.ts?channel_id=1033&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=364f2a7af7ff8343dfa6533fb34ac44afa286e3f82d10b7306f4923d254f237f
+#EXTINF:-1 tvg-id="1055" tvg-name="DAZN Moto GP backup 2" tvg-logo="http://cdn.eliteplaytv.tv:8000/images/snDZTEBDfdgTSAgBsKjlWb1H1LcUjjIzweHVF_URpPlV6FRroBkk13HAQK87qz4G.png" group-title="[ES] DAZN MotoGP",DAZN Moto GP backup 2
+http://d38c98a9735.gookiki.me/live/1055.ts?channel_id=1055&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=891ac6089354ae84411feb6dd9779e7a46ad2fa19d5aa734537b70df24f3fb22
+#EXTINF:-1 tvg-id="1254" tvg-name="DAZN Moto GP backup 3" tvg-logo="http://cdn.eliteplaytv.tv:8000/images/snDZTEBDfdgTSAgBsKjlWb1H1LcUjjIzweHVF_URpPlV6FRroBkk13HAQK87qz4G.png" group-title="[ES] DAZN MotoGP",DAZN Moto GP backup 3
+http://d38c98a9735.gookiki.me/live/1254.ts?channel_id=1254&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=ca2515fb042dc4d52090123d7f39f746e872e21a5cb217da0c805f4dccc1b19b
+#EXTINF:-1 tvg-id="1255" tvg-name="DAZN Moto GP backup 4" tvg-logo="http://cdn.eliteplaytv.tv:8000/images/snDZTEBDfdgTSAgBsKjlWb1H1LcUjjIzweHVF_URpPlV6FRroBkk13HAQK87qz4G.png" group-title="[ES] DAZN MotoGP",DAZN Moto GP backup 4
+http://d38c98a9735.gookiki.me/live/1255.ts?channel_id=1255&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=cfaf6b490f179a344199212771f743860bf07aae2bf6c3ec98a67511a094f0eb
+#EXTINF:-1 tvg-id="1034" tvg-name="DAZN Moto GP FHD" tvg-logo="http://cdn.eliteplaytv.tv:8000/images/snDZTEBDfdgTSAgBsKjlWb1H1LcUjjIzweHVF_URpPlV6FRroBkk13HAQK87qz4G.png" group-title="[ES] DAZN MotoGP",DAZN Moto GP FHD
+http://d38c98a9735.gookiki.me/live/1034.ts?channel_id=1034&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=230d602179daa7e8ec7a8328565ed22cb2f4cc87552830a04e1821dc782d81cb
+#EXTINF:-1 tvg-id="1199" tvg-name="UFC Pass" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-states/ufc-fight-pass-us.png" group-title="[ES] UFC",UFC Pass
+http://d38c98a9735.gookiki.me/live/1199.ts?channel_id=1199&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=0b3f63722511051232d35eac06e4d38b0396efb60a75b650e7a2acc224dd73ed
+#EXTINF:-1 tvg-id="1200" tvg-name="UFC Fight Pass" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-states/ufc-fight-pass-us.png" group-title="[ES] UFC",UFC Fight Pass
+http://d38c98a9735.gookiki.me/live/1200.ts?channel_id=1200&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=fb8306be2d419784d75f9664da35cb7374d8e9ccd18e309c77b6a31489a913c8
+#EXTINF:-1 tvg-id="1264" tvg-name="FEF TV 1" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="[ES] FEF TV",FEF TV 1
+http://d38c98a9735.gookiki.me/live/1264.ts?channel_id=1264&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=5f054f9e4ee2a003c569936551f5bc89607806ead017ef100d4a5f65227c870b
+#EXTINF:-1 tvg-id="1265" tvg-name="FEF TV 2" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="[ES] FEF TV",FEF TV 2
+http://d38c98a9735.gookiki.me/live/1265.ts?channel_id=1265&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=e2ce99705507a071268175d69762baf2c1b323c48a23758ba17bb4a1ab29d6f9
+#EXTINF:-1 tvg-id="1266" tvg-name="FEF TV 3" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="[ES] FEF TV",FEF TV 3
+http://d38c98a9735.gookiki.me/live/1266.ts?channel_id=1266&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=b15d2ebee89b762bd06b0739f3df9b1e207dda9cd753aee8ab90e752b7920c99
+#EXTINF:-1 tvg-id="1267" tvg-name="FEF TV 4" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="[ES] FEF TV",FEF TV 4
+http://d38c98a9735.gookiki.me/live/1267.ts?channel_id=1267&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=e163092223f453d110d0c262a4b78b07d66841e3d414bc598d52a70afc16d4ef
+#EXTINF:-1 tvg-id="1268" tvg-name="FEF TV 5" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="[ES] FEF TV",FEF TV 5
+http://d38c98a9735.gookiki.me/live/1268.ts?channel_id=1268&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=352734364107f438d6c07e556e33c1a08f1935e97042726c81b09d8b1e6967d0
+#EXTINF:-1 tvg-id="1269" tvg-name="FEF TV 6" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="[ES] FEF TV",FEF TV 6
+http://d38c98a9735.gookiki.me/live/1269.ts?channel_id=1269&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=820f64632b44cb49e8cfdcb5008cfed4b6d54ed4708d2bc4c7e6cd3e9f86f303
+#EXTINF:-1 tvg-id="1270" tvg-name="FEF TV 7" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="[ES] FEF TV",FEF TV 7
+http://d38c98a9735.gookiki.me/live/1270.ts?channel_id=1270&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=23d29f28b6fe1dfb021b3c44da59c9314ec80672c5719851ad7a8c7d92ad6f9d
+#EXTINF:-1 tvg-id="1271" tvg-name="FEF TV 8" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="[ES] FEF TV",FEF TV 8
+http://d38c98a9735.gookiki.me/live/1271.ts?channel_id=1271&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=976dca4ef86cdc91e08cae3d83656ee578e6b1ccc3d57a93e526d84bc77d5818
+#EXTINF:-1 tvg-id="1272" tvg-name="FEF TV 9" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="[ES] FEF TV",FEF TV 9
+http://d38c98a9735.gookiki.me/live/1272.ts?channel_id=1272&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=f7066445c7e3832167984c8a228e8ae7f8fadd0986979b2ed134d2079b4db4cb
+#EXTINF:-1 tvg-id="1273" tvg-name="FEF TV 10" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="[ES] FEF TV",FEF TV 10
+http://d38c98a9735.gookiki.me/live/1273.ts?channel_id=1273&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=de02ad1a9185ac2a6ab070253dc5b65bc06c6b1af2d658d99c8ed88c7c88dbcc
+#EXTINF:-1 tvg-id="1274" tvg-name="FEF TV 11" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="[ES] FEF TV",FEF TV 11
+http://d38c98a9735.gookiki.me/live/1274.ts?channel_id=1274&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=18e362e3d5230aad9395880af6a45fdab6e83e88c970a16b380a192c191e99f6
+#EXTINF:-1 tvg-id="1275" tvg-name="FEF TV 12" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="[ES] FEF TV",FEF TV 12
+http://d38c98a9735.gookiki.me/live/1275.ts?channel_id=1275&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=923b4e86405ef0426bbe18c10a29b45fe6876e5e74aa932a74ac80ca7e50d396
+#EXTINF:-1 tvg-id="1276" tvg-name="FEF TV 13" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="[ES] FEF TV",FEF TV 13
+http://d38c98a9735.gookiki.me/live/1276.ts?channel_id=1276&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=50f6d4c346371860d3b2d38ca196de909932e485574d4610e26a632c2b4d7458
+#EXTINF:-1 tvg-id="1277" tvg-name="FEF TV 14" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="[ES] FEF TV",FEF TV 14
+http://d38c98a9735.gookiki.me/live/1277.ts?channel_id=1277&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=582ddf64db2868a055cb9836648f5980707fd357a6da1d48495a7f35490c62e3
+#EXTINF:-1 tvg-id="1278" tvg-name="FEF TV 15" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="[ES] FEF TV",FEF TV 15
+http://d38c98a9735.gookiki.me/live/1278.ts?channel_id=1278&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=d1b3a90ee6faa7a49eaa760c66f7276649f50cee031b27cd8ff828a6bef1cd60
+#EXTINF:-1 tvg-id="1279" tvg-name="FEF TV 16" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="[ES] FEF TV",FEF TV 16
+http://d38c98a9735.gookiki.me/live/1279.ts?channel_id=1279&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=2e2f2f1bf4a44d00d013adde406972d1f55ef75ed6b09e686cf9b40548e6307c
+#EXTINF:-1 tvg-id="1280" tvg-name="FEF TV 17" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="[ES] FEF TV",FEF TV 17
+http://d38c98a9735.gookiki.me/live/1280.ts?channel_id=1280&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=9004a042a3f400a4eba429cf1a4d54264691937263baab9b9d91dbfe5118135f
+#EXTINF:-1 tvg-id="1281" tvg-name="FEF TV 18" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="[ES] FEF TV",FEF TV 18
+http://d38c98a9735.gookiki.me/live/1281.ts?channel_id=1281&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=01dabd2c4028fa67e15108880c0cef073404d27a3493326bae32c0458aabbf8b
+#EXTINF:-1 tvg-id="1282" tvg-name="FEF TV 19" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="[ES] FEF TV",FEF TV 19
+http://d38c98a9735.gookiki.me/live/1282.ts?channel_id=1282&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=f76dbf551e4e3e1f9bd3a65210508a72a0abf057b3461f3f8c5d3eb0fc42fcc2
+#EXTINF:-1 tvg-id="1283" tvg-name="FEF TV 20" tvg-logo="https://immaa.xyz/FEFFFinsaaat.png" group-title="[ES] FEF TV",FEF TV 20
+http://d38c98a9735.gookiki.me/live/1283.ts?channel_id=1283&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=7f5135c32482e46688bd0f7f4c49c23dbbec737492d63db957684d087be9e81f
+#EXTINF:-1 tvg-id="1335" tvg-name="TRECE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" group-title="[ES] TDT",TRECE HD
+http://d38c98a9735.gookiki.me/live/1335.ts?channel_id=1335&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=d4fde03b5c628a2e74b50d59a0b6c0f9928ce406a5f758d7574051a528470e04
+#EXTINF:-1 tvg-id="1336" tvg-name="TRECE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" group-title="[ES] TDT",TRECE FHD
+http://d38c98a9735.gookiki.me/live/1336.ts?channel_id=1336&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=1932cf6fdfddb8ebae0a7c446244d71c99a98aa0faee9bad27b306133d499424
+#EXTINF:-1 tvg-id="491" tvg-name="La 1 HD" tvg-logo="https://buyone.xyz/pic/La_1.webp" group-title="[ES] TDT",La 1 HD
+http://d38c98a9735.gookiki.me/live/491.ts?channel_id=491&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=0362f2953dc72ec318a92844698c74457ff2ab70abfb22d6ff02fe722247f86e
+#EXTINF:-1 tvg-id="492" tvg-name="La 1 FHD" tvg-logo="https://buyone.xyz/pic/La_1.webp" group-title="[ES] TDT",La 1 FHD
+http://d38c98a9735.gookiki.me/live/492.ts?channel_id=492&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=df3c69c53f14e0ac011fafef4bf9a4a6133a459373fc8a74eb62d85bdb8802b9
+#EXTINF:-1 tvg-id="493" tvg-name="La 2 HD" tvg-logo="https://buyone.xyz/pic/La_2.webp" group-title="[ES] TDT",La 2 HD
+http://d38c98a9735.gookiki.me/live/493.ts?channel_id=493&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=fd8d82b77d1c539e03d40800276a9520e51d580837fb08cf81437472df6351d2
+#EXTINF:-1 tvg-id="494" tvg-name="La 2 FHD" tvg-logo="https://buyone.xyz/pic/La_2.webp" group-title="[ES] TDT",La 2 FHD
+http://d38c98a9735.gookiki.me/live/494.ts?channel_id=494&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=54e62ff2bf9e5d0a61d36c0ce74ed065c8f23ba475aebe9e6dcc9be4b714252f
+#EXTINF:-1 tvg-id="495" tvg-name="Antena 3 HD" tvg-logo="https://buyone.xyz/pic/Antena_3.webp" group-title="[ES] TDT",Antena 3 HD
+http://d38c98a9735.gookiki.me/live/495.ts?channel_id=495&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=0a88ec7f97e44eb778b4974507e737d57b78927e8b51f8204cdaa6f5eecc1507
+#EXTINF:-1 tvg-id="496" tvg-name="Antena 3 FHD" tvg-logo="https://buyone.xyz/pic/Antena_3.webp" group-title="[ES] TDT",Antena 3 FHD
+http://d38c98a9735.gookiki.me/live/496.ts?channel_id=496&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=a32d64f844998b9e563893953c8a8c9cd0840d434821a50a69d0788fb4052a72
+#EXTINF:-1 tvg-id="497" tvg-name="Cuatro HD" tvg-logo="https://buyone.xyz/pic/Cuatro.webp" group-title="[ES] TDT",Cuatro HD
+http://d38c98a9735.gookiki.me/live/497.ts?channel_id=497&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=80c03d681bf826e2c28fb58e3b1f0a89093a1c3179295d762b90197c56ef5d29
+#EXTINF:-1 tvg-id="498" tvg-name="Cuatro FHD" tvg-logo="https://buyone.xyz/pic/Cuatro.webp" group-title="[ES] TDT",Cuatro FHD
+http://d38c98a9735.gookiki.me/live/498.ts?channel_id=498&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=d6126344666f7bf0c9c12f7e849a406b28de05d0f289d83655dbdf758153ad64
+#EXTINF:-1 tvg-id="499" tvg-name="Telecinco HD" tvg-logo="https://buyone.xyz/pic/Telecinco.webp" group-title="[ES] TDT",Telecinco HD
+http://d38c98a9735.gookiki.me/live/499.ts?channel_id=499&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=59e45ccbedcbcd2d2c2cc98efeb2dd1dbbda3c4b96bddebbd965798ae9cf9842
+#EXTINF:-1 tvg-id="500" tvg-name="Telecinco FHD" tvg-logo="https://buyone.xyz/pic/Telecinco.webp" group-title="[ES] TDT",Telecinco FHD
+http://d38c98a9735.gookiki.me/live/500.ts?channel_id=500&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=9562a1979b06b0b01a9d0d7ee53815fd92033f80c8db4b9ec3ae484af71bc739
+#EXTINF:-1 tvg-id="501" tvg-name="La Sexta HD" tvg-logo="https://buyone.xyz/pic/La_Sexta.webp" group-title="[ES] TDT",La Sexta HD
+http://d38c98a9735.gookiki.me/live/501.ts?channel_id=501&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=388e78a32969b786700ccec7f3ccc2e0935e5bb9a6f178387d4b12d6f819f514
+#EXTINF:-1 tvg-id="502" tvg-name="La Sexta FHD" tvg-logo="https://buyone.xyz/pic/La_Sexta.webp" group-title="[ES] TDT",La Sexta FHD
+http://d38c98a9735.gookiki.me/live/502.ts?channel_id=502&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=4108b6c68ad97b5c1b18aeb1212e898b059392540392d0d5e8fd559d80f9dfb5
+#EXTINF:-1 tvg-id="505" tvg-name="NOVA HD" tvg-logo="https://buyone.xyz/pic/NOVA.webp" group-title="[ES] TDT",NOVA HD
+http://d38c98a9735.gookiki.me/live/505.ts?channel_id=505&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=807ad5b6a25cc8192e60fe11965aeca89cdc30000f3ff452a17036c6ac09fcb6
+#EXTINF:-1 tvg-id="506" tvg-name="NOVA FHD" tvg-logo="https://buyone.xyz/pic/NOVA.webp" group-title="[ES] TDT",NOVA FHD
+http://d38c98a9735.gookiki.me/live/506.ts?channel_id=506&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=93e5c756217f155ba44e4433cbb8166257245d3c3a57c36e58bcaeb064e56712
+#EXTINF:-1 tvg-id="507" tvg-name="NEOX HD" tvg-logo="https://buyone.xyz/pic/NEOX.webp" group-title="[ES] TDT",NEOX HD
+http://d38c98a9735.gookiki.me/live/507.ts?channel_id=507&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=caa524270673143e254cdf623312683157319f0dedd2edf4dda1483c6781151a
+#EXTINF:-1 tvg-id="508" tvg-name="NEOX FHD" tvg-logo="https://buyone.xyz/pic/NEOX.webp" group-title="[ES] TDT",NEOX FHD
+http://d38c98a9735.gookiki.me/live/508.ts?channel_id=508&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=e1d8abf17802a2d48f173c67880249ec4787fcc60eba260220ee2c3b52e5916a
+#EXTINF:-1 tvg-id="510" tvg-name="DMAX FHD" tvg-logo="https://buyone.xyz/pic/DMAX.webp" group-title="[ES] TDT",DMAX FHD
+http://d38c98a9735.gookiki.me/live/510.ts?channel_id=510&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=5ab04708ae0ac64c0082505fb6111ba751cb6b13c9c6a1528f1f2b0907bdb498
+#EXTINF:-1 tvg-id="511" tvg-name="Mega HD" tvg-logo="https://buyone.xyz/pic/Mega.webp" group-title="[ES] TDT",Mega HD
+http://d38c98a9735.gookiki.me/live/511.ts?channel_id=511&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=a2c6fca27ac8968d50fc5e6aa870365bdd3900ac3290d11a52aa28d0e7e0becc
+#EXTINF:-1 tvg-id="512" tvg-name="Mega FHD" tvg-logo="https://buyone.xyz/pic/Mega.webp" group-title="[ES] TDT",Mega FHD
+http://d38c98a9735.gookiki.me/live/512.ts?channel_id=512&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=9e1170d072ff0fba43371ccc544b6a1fd810ddb580ee2fd2a76fa71237ca9e0d
+#EXTINF:-1 tvg-id="513" tvg-name="24H TVE HD" tvg-logo="https://buyone.xyz/pic/24H_TVE.webp" group-title="[ES] TDT",24H TVE HD
+http://d38c98a9735.gookiki.me/live/513.ts?channel_id=513&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=fd1d1e1424b9915ec5eedee4e2e76eada4827821d36717acb185bde7bd8717c4
+#EXTINF:-1 tvg-id="514" tvg-name="24H TVE FHD" tvg-logo="https://buyone.xyz/pic/24H_TVE.webp" group-title="[ES] TDT",24H TVE FHD
+http://d38c98a9735.gookiki.me/live/514.ts?channel_id=514&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=ff675ac5ec2fddc5f388f166bca3d83e6ce7e05de0d2e171090fb701c08b1384
+#EXTINF:-1 tvg-id="515" tvg-name="Ten HD" tvg-logo="https://buyone.xyz/pic/Ten.webp" group-title="[ES] TDT",Ten HD
+http://d38c98a9735.gookiki.me/live/515.ts?channel_id=515&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=c2d2a895169e061e6c2f8c115947228bd771ce2110364b0e42ae502024124e17
+#EXTINF:-1 tvg-id="516" tvg-name="Ten FHD" tvg-logo="https://buyone.xyz/pic/Ten.webp" group-title="[ES] TDT",Ten FHD
+http://d38c98a9735.gookiki.me/live/516.ts?channel_id=516&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=71cf2f9c8d6529bef49f16dff4193bf4f2aa2fc19a6062bce4217a6912487a52
+#EXTINF:-1 tvg-id="1606" tvg-name="LA SÉPTIMA" tvg-logo="https://pbs.twimg.com/profile_images/2074450480743297024/UTvLXCSQ_200x200.jpg" group-title="[ES] TDT",LA SÉPTIMA
+http://d38c98a9735.gookiki.me/live/1606.ts?channel_id=1606&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=4d8784575c7dabda31c26da11acbada3ae3fe6271e3e85aaadf907e8819e812e
+#EXTINF:-1 tvg-id="1607" tvg-name="LA SÉPTIMA" tvg-logo="https://pbs.twimg.com/profile_images/2074450480743297024/UTvLXCSQ_200x200.jpg" group-title="[ES] TDT",LA SÉPTIMA
+http://d38c98a9735.gookiki.me/live/1607.ts?channel_id=1607&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=3b448ba6d854e167f2bbff92921de56717f9a0a20be250e272ecae1dadde2f96
+#EXTINF:-1 tvg-id="503" tvg-name="Canal Extremadura HD" tvg-logo="https://buyone.xyz/pic/Canal_Extremadura.webp" group-title="[ES] Autonómicos",Canal Extremadura HD
+http://d38c98a9735.gookiki.me/live/503.ts?channel_id=503&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=f95e9f84869c43d2440e1ee447b33fc1b8a6dfacd761050c0722814679a7191d
+#EXTINF:-1 tvg-id="568" tvg-name="A Punt FHD" tvg-logo="https://buyone.xyz/pic/A_Punt.webp" group-title="[ES] Autonómicos",A Punt FHD
+http://d38c98a9735.gookiki.me/live/568.ts?channel_id=568&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=e7ae9216485876dba04a879ef9fceb93dfec76afb8add1d589f4458a1aad8cd7
+#EXTINF:-1 tvg-id="579" tvg-name="CMM Castilla La Mancha HD" tvg-logo="https://buyone.xyz/pic/CMM_Castilla_La_Mancha.webp" group-title="[ES] Autonómicos",CMM Castilla La Mancha HD
+http://d38c98a9735.gookiki.me/live/579.ts?channel_id=579&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=07bf5ceb42117096c6b52a58d1d93d5b0efc327ea5667eb83ca555efb18fd4b0
+#EXTINF:-1 tvg-id="580" tvg-name="CMM Castilla La Mancha FHD" tvg-logo="https://buyone.xyz/pic/CMM_Castilla_La_Mancha.webp" group-title="[ES] Autonómicos",CMM Castilla La Mancha FHD
+http://d38c98a9735.gookiki.me/live/580.ts?channel_id=580&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=8fd3b17a449bccf48cbd73fa460b2cb5859d9879e9163ed9b9b3d08496fbc60c
+#EXTINF:-1 tvg-id="1555" tvg-name="VEGA FIBRA TV HORADADA" tvg-logo="https://yt3.googleusercontent.com/ntA_m7c0Zup7eeNg047zP28xDizWpS53Na3DBFyCEuEx_rWeNEsvLRkwUtrAImLmWnV0FhGKcGk=s160-c-k-c0x00ffffff-no-rj" group-title="[ES] Autonómicos",VEGA FIBRA TV HORADADA
+http://d38c98a9735.gookiki.me/live/1555.ts?channel_id=1555&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=c3b467227616ae4a090c260b8d583f9e3b3b8f1a93c861bec2cb88178f7dffe6
+#EXTINF:-1 tvg-id="1579" tvg-name="VEGA FIBRA TV HORADADA" tvg-logo="https://yt3.googleusercontent.com/ntA_m7c0Zup7eeNg047zP28xDizWpS53Na3DBFyCEuEx_rWeNEsvLRkwUtrAImLmWnV0FhGKcGk=s160-c-k-c0x00ffffff-no-rj" group-title="[ES] Autonómicos",VEGA FIBRA TV HORADADA
+http://d38c98a9735.gookiki.me/live/1579.ts?channel_id=1579&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=9cd54a4080c2303e13a08f070a8f22493fd785bab84c2ad4d8589b3ca8e63007
+#EXTINF:-1 tvg-id="1556" tvg-name="VEGAFIBRA TV BENEJUZAR" tvg-logo="https://yt3.googleusercontent.com/ntA_m7c0Zup7eeNg047zP28xDizWpS53Na3DBFyCEuEx_rWeNEsvLRkwUtrAImLmWnV0FhGKcGk=s160-c-k-c0x00ffffff-no-rj" group-title="[ES] Autonómicos",VEGAFIBRA TV BENEJUZAR
+http://d38c98a9735.gookiki.me/live/1556.ts?channel_id=1556&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=610d4592122059324fb139317f48ec58738fc6bf5a15ef42afcd5c780ec3010d
+#EXTINF:-1 tvg-id="1580" tvg-name="VEGAFIBRA TV BENEJUZAR" tvg-logo="https://yt3.googleusercontent.com/ntA_m7c0Zup7eeNg047zP28xDizWpS53Na3DBFyCEuEx_rWeNEsvLRkwUtrAImLmWnV0FhGKcGk=s160-c-k-c0x00ffffff-no-rj" group-title="[ES] Autonómicos",VEGAFIBRA TV BENEJUZAR
+http://d38c98a9735.gookiki.me/live/1580.ts?channel_id=1580&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=a24bfa55884aafa2682079d4e60d88964c950af3a6b3f564d191d212c251fed2
+#EXTINF:-1 tvg-id="1557" tvg-name="VEGAFIBRA TV COMARCAL" tvg-logo="https://yt3.googleusercontent.com/ntA_m7c0Zup7eeNg047zP28xDizWpS53Na3DBFyCEuEx_rWeNEsvLRkwUtrAImLmWnV0FhGKcGk=s160-c-k-c0x00ffffff-no-rj" group-title="[ES] Autonómicos",VEGAFIBRA TV COMARCAL
+http://d38c98a9735.gookiki.me/live/1557.ts?channel_id=1557&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=7a425865e4233d3b423112ba37404ecc118b0908a53e10a99f60c0289afb3604
+#EXTINF:-1 tvg-id="1581" tvg-name="VEGAFIBRA TV COMARCAL" tvg-logo="https://yt3.googleusercontent.com/ntA_m7c0Zup7eeNg047zP28xDizWpS53Na3DBFyCEuEx_rWeNEsvLRkwUtrAImLmWnV0FhGKcGk=s160-c-k-c0x00ffffff-no-rj" group-title="[ES] Autonómicos",VEGAFIBRA TV COMARCAL
+http://d38c98a9735.gookiki.me/live/1581.ts?channel_id=1581&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=4fa3ffbd394dadb23b51b2f80a1d7263f5af3aca05e42ec5fe3feb2e9d5dac7d
+#EXTINF:-1 tvg-id="1558" tvg-name="VEGAFIBRA TV COMERCAL 2" tvg-logo="https://yt3.googleusercontent.com/ntA_m7c0Zup7eeNg047zP28xDizWpS53Na3DBFyCEuEx_rWeNEsvLRkwUtrAImLmWnV0FhGKcGk=s160-c-k-c0x00ffffff-no-rj" group-title="[ES] Autonómicos",VEGAFIBRA TV COMERCAL 2
+http://d38c98a9735.gookiki.me/live/1558.ts?channel_id=1558&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=bf2377814d478acba8954cee956f9f29dd5e1ab78544e26a615d0dc2781eb850
+#EXTINF:-1 tvg-id="1582" tvg-name="VEGAFIBRA TV COMERCAL 2" tvg-logo="https://yt3.googleusercontent.com/ntA_m7c0Zup7eeNg047zP28xDizWpS53Na3DBFyCEuEx_rWeNEsvLRkwUtrAImLmWnV0FhGKcGk=s160-c-k-c0x00ffffff-no-rj" group-title="[ES] Autonómicos",VEGAFIBRA TV COMERCAL 2
+http://d38c98a9735.gookiki.me/live/1582.ts?channel_id=1582&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=84a077050e66371bc1368740c78fec57633eba0c2337e6bac2cbde70a3ca7147
+#EXTINF:-1 tvg-id="1559" tvg-name="VEGAFIBRA TV GARMERS" tvg-logo="https://yt3.googleusercontent.com/ntA_m7c0Zup7eeNg047zP28xDizWpS53Na3DBFyCEuEx_rWeNEsvLRkwUtrAImLmWnV0FhGKcGk=s160-c-k-c0x00ffffff-no-rj" group-title="[ES] Autonómicos",VEGAFIBRA TV GARMERS
+http://d38c98a9735.gookiki.me/live/1559.ts?channel_id=1559&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=22271a67be313a95eb1b068aac812837997165662262d2b2f8c0cfaca0c2ca0d
+#EXTINF:-1 tvg-id="1583" tvg-name="VEGAFIBRA TV GARMERS" tvg-logo="https://yt3.googleusercontent.com/ntA_m7c0Zup7eeNg047zP28xDizWpS53Na3DBFyCEuEx_rWeNEsvLRkwUtrAImLmWnV0FhGKcGk=s160-c-k-c0x00ffffff-no-rj" group-title="[ES] Autonómicos",VEGAFIBRA TV GARMERS
+http://d38c98a9735.gookiki.me/live/1583.ts?channel_id=1583&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=9172189b4359cd039f8f7cd87b37acc2fd9217349c18780f864bf5d09e45064d
+#EXTINF:-1 tvg-id="1560" tvg-name="VEGAFIBRA TV LOS DOLORES" tvg-logo="https://yt3.googleusercontent.com/ntA_m7c0Zup7eeNg047zP28xDizWpS53Na3DBFyCEuEx_rWeNEsvLRkwUtrAImLmWnV0FhGKcGk=s160-c-k-c0x00ffffff-no-rj" group-title="[ES] Autonómicos",VEGAFIBRA TV LOS DOLORES
+http://d38c98a9735.gookiki.me/live/1560.ts?channel_id=1560&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=46e9f8c5592c23f2873331726365a5a0354a9a365165536e91845db1360300e2
+#EXTINF:-1 tvg-id="1584" tvg-name="VEGAFIBRA TV LOS DOLORES" tvg-logo="https://yt3.googleusercontent.com/ntA_m7c0Zup7eeNg047zP28xDizWpS53Na3DBFyCEuEx_rWeNEsvLRkwUtrAImLmWnV0FhGKcGk=s160-c-k-c0x00ffffff-no-rj" group-title="[ES] Autonómicos",VEGAFIBRA TV LOS DOLORES
+http://d38c98a9735.gookiki.me/live/1584.ts?channel_id=1584&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=da5303c9b1755d892a5965886cb1fe669efaeeb81bcdd49bf4d24f4cd4ca365b
+#EXTINF:-1 tvg-id="1561" tvg-name="VEGAFIBRA TV SAN MIGUEL" tvg-logo="https://yt3.googleusercontent.com/ntA_m7c0Zup7eeNg047zP28xDizWpS53Na3DBFyCEuEx_rWeNEsvLRkwUtrAImLmWnV0FhGKcGk=s160-c-k-c0x00ffffff-no-rj" group-title="[ES] Autonómicos",VEGAFIBRA TV SAN MIGUEL
+http://d38c98a9735.gookiki.me/live/1561.ts?channel_id=1561&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=0b136e790cbc206b95ed7b1c42e9da3f0316ef0b05e72dd75ef2e0da90cf8828
+#EXTINF:-1 tvg-id="1585" tvg-name="VEGAFIBRA TV SAN MIGUEL" tvg-logo="https://yt3.googleusercontent.com/ntA_m7c0Zup7eeNg047zP28xDizWpS53Na3DBFyCEuEx_rWeNEsvLRkwUtrAImLmWnV0FhGKcGk=s160-c-k-c0x00ffffff-no-rj" group-title="[ES] Autonómicos",VEGAFIBRA TV SAN MIGUEL
+http://d38c98a9735.gookiki.me/live/1585.ts?channel_id=1585&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=9a9fb1480567ba4fe7d4218cd4d0ea4e1be3fe16518c04e3a2587e226f4a43d2
+#EXTINF:-1 tvg-id="1562" tvg-name="VEGAFIBRA TV TELECOLOR" tvg-logo="https://yt3.googleusercontent.com/ntA_m7c0Zup7eeNg047zP28xDizWpS53Na3DBFyCEuEx_rWeNEsvLRkwUtrAImLmWnV0FhGKcGk=s160-c-k-c0x00ffffff-no-rj" group-title="[ES] Autonómicos",VEGAFIBRA TV TELECOLOR
+http://d38c98a9735.gookiki.me/live/1562.ts?channel_id=1562&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=234c12d8188292697b757c0c29a599848daf7d7632682520c58ac8ec71429d46
+#EXTINF:-1 tvg-id="1586" tvg-name="VEGAFIBRA TV TELECOLOR" tvg-logo="https://yt3.googleusercontent.com/ntA_m7c0Zup7eeNg047zP28xDizWpS53Na3DBFyCEuEx_rWeNEsvLRkwUtrAImLmWnV0FhGKcGk=s160-c-k-c0x00ffffff-no-rj" group-title="[ES] Autonómicos",VEGAFIBRA TV TELECOLOR
+http://d38c98a9735.gookiki.me/live/1586.ts?channel_id=1586&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=388ace59b06bdc4315ad98f6ea6d6a2ab421d57dc2faaa0fd082db29181092e3
+#EXTINF:-1 tvg-id="1563" tvg-name="VELEVISA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArBw_YigdpSMyAK0rwNTLF6fHJRVX8SgTvw&s" group-title="[ES] Autonómicos",VELEVISA
+http://d38c98a9735.gookiki.me/live/1563.ts?channel_id=1563&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=a99306c35e76a31fb0e219f5cd522ad17e926960a217b55f789b04c27a351f5c
+#EXTINF:-1 tvg-id="1587" tvg-name="VELEVISA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArBw_YigdpSMyAK0rwNTLF6fHJRVX8SgTvw&s" group-title="[ES] Autonómicos",VELEVISA
+http://d38c98a9735.gookiki.me/live/1587.ts?channel_id=1587&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=536c746f9f87554eb5aeb4fea97540dfd6fd33a45d3d796e7825b1d644da2372
+#EXTINF:-1 tvg-id="1564" tvg-name="Ptv Cordoba" tvg-logo="http://legacy4k.pro:8000/images/Bs4zcrVSn48d-ML1POlO8SLyAEXackaBMLPMzJv8p0QQw_4YmGp1Urz2SCIITOnMVyhAo_zTWKHgcGQ0i-kqFnjAp-K3rcgpQNC8D6V-VShrddpHbYKWkbEZBzqrhzFi.png" group-title="[ES] Autonómicos",Ptv Cordoba
+http://d38c98a9735.gookiki.me/live/1564.ts?channel_id=1564&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=742f1f2369be18da52b438649572524bae574d024c521885070896c841a744c7
+#EXTINF:-1 tvg-id="1588" tvg-name="Ptv Cordoba" tvg-logo="http://legacy4k.pro:8000/images/Bs4zcrVSn48d-ML1POlO8SLyAEXackaBMLPMzJv8p0QQw_4YmGp1Urz2SCIITOnMVyhAo_zTWKHgcGQ0i-kqFnjAp-K3rcgpQNC8D6V-VShrddpHbYKWkbEZBzqrhzFi.png" group-title="[ES] Autonómicos",Ptv Cordoba
+http://d38c98a9735.gookiki.me/live/1588.ts?channel_id=1588&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=2181143d9ba827e874750f953743d2140decfa07047153a2b1f60698d115b70d
+#EXTINF:-1 tvg-id="1565" tvg-name="Ptv Granada" tvg-logo="http://legacy4k.pro:8000/images/Bs4zcrVSn48d-ML1POlO8SLyAEXackaBMLPMzJv8p0QQw_4YmGp1Urz2SCIITOnMVyhAo_zTWKHgcGQ0i-kqFsCJBMkiknFlBLNl1csKlJwyP1lz2BHfRIynTJvxQEU1.png" group-title="[ES] Autonómicos",Ptv Granada
+http://d38c98a9735.gookiki.me/live/1565.ts?channel_id=1565&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=0d9e32c697916f7a9c11434bfe3824c6e650b13373ff965d1a9fa97bda761d0d
+#EXTINF:-1 tvg-id="1589" tvg-name="Ptv Granada" tvg-logo="http://legacy4k.pro:8000/images/Bs4zcrVSn48d-ML1POlO8SLyAEXackaBMLPMzJv8p0QQw_4YmGp1Urz2SCIITOnMVyhAo_zTWKHgcGQ0i-kqFsCJBMkiknFlBLNl1csKlJwyP1lz2BHfRIynTJvxQEU1.png" group-title="[ES] Autonómicos",Ptv Granada
+http://d38c98a9735.gookiki.me/live/1589.ts?channel_id=1589&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=dfe0e8b62f5b31e7277e32d61d817fa552656c1e0083549291e4a60a44f8c78e
+#EXTINF:-1 tvg-id="1566" tvg-name="Ptv Malaga" tvg-logo="http://legacy4k.pro:8000/images/Bs4zcrVSn48d-ML1POlO8SLyAEXackaBMLPMzJv8p0QQw_4YmGp1Urz2SCIITOnMVyhAo_zTWKHgcGQ0i-kqFtdmILko41939tWQDVFNHA-PJWI8avtKLGQF6ItfpTC_.png" group-title="[ES] Autonómicos",Ptv Malaga
+http://d38c98a9735.gookiki.me/live/1566.ts?channel_id=1566&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=d076fc898ff9b6f5a89abe86fdf3f454c1020ac945fd4546e3b957ae3704ad82
+#EXTINF:-1 tvg-id="1590" tvg-name="Ptv Malaga" tvg-logo="http://legacy4k.pro:8000/images/Bs4zcrVSn48d-ML1POlO8SLyAEXackaBMLPMzJv8p0QQw_4YmGp1Urz2SCIITOnMVyhAo_zTWKHgcGQ0i-kqFtdmILko41939tWQDVFNHA-PJWI8avtKLGQF6ItfpTC_.png" group-title="[ES] Autonómicos",Ptv Malaga
+http://d38c98a9735.gookiki.me/live/1590.ts?channel_id=1590&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=859d2b4fc47eff626eb5ccd6f62fe7ed2b86287b198d6a11ad5b42234f7b2b44
+#EXTINF:-1 tvg-id="1567" tvg-name="Ptv Sevilla" tvg-logo="http://legacy4k.pro:8000/images/Bs4zcrVSn48d-ML1POlO8SLyAEXackaBMLPMzJv8p0QQw_4YmGp1Urz2SCIITOnMVyhAo_zTWKHgcGQ0i-kqFg7lf4itjEy6ESqR9dycP0oAiTSl46ZpP9TK8cmEEP3_.png" group-title="[ES] Autonómicos",Ptv Sevilla
+http://d38c98a9735.gookiki.me/live/1567.ts?channel_id=1567&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=bef3056eb2ca5f04e109c859c021af0db3108e37654b166e15e7b22ec8e810ee
+#EXTINF:-1 tvg-id="1591" tvg-name="Ptv Sevilla" tvg-logo="http://legacy4k.pro:8000/images/Bs4zcrVSn48d-ML1POlO8SLyAEXackaBMLPMzJv8p0QQw_4YmGp1Urz2SCIITOnMVyhAo_zTWKHgcGQ0i-kqFg7lf4itjEy6ESqR9dycP0oAiTSl46ZpP9TK8cmEEP3_.png" group-title="[ES] Autonómicos",Ptv Sevilla
+http://d38c98a9735.gookiki.me/live/1591.ts?channel_id=1591&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=1c70bba655a1983fb3d0d8530b27591ccc9c3f551cd271afcbd559dfe80ef205
+#EXTINF:-1 tvg-id="1568" tvg-name="TVG" tvg-logo="http://legacy4k.pro:8000/images/Bs4zcrVSn48d-ML1POlO8SLyAEXackaBMLPMzJv8p0QQw_4YmGp1Urz2SCIITOnMVyhAo_zTWKHgcGQ0i-kqFvy1nyCrJkGd9NqN3yGtq3g.png" group-title="[ES] Autonómicos",TVG
+http://d38c98a9735.gookiki.me/live/1568.ts?channel_id=1568&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=0fe70a6fe6d602d6e20ec176bcf2d6e082dd5cca3c941d66e06122816bf659fb
+#EXTINF:-1 tvg-id="1592" tvg-name="TVG" tvg-logo="http://legacy4k.pro:8000/images/Bs4zcrVSn48d-ML1POlO8SLyAEXackaBMLPMzJv8p0QQw_4YmGp1Urz2SCIITOnMVyhAo_zTWKHgcGQ0i-kqFvy1nyCrJkGd9NqN3yGtq3g.png" group-title="[ES] Autonómicos",TVG
+http://d38c98a9735.gookiki.me/live/1592.ts?channel_id=1592&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=6aa5749d5b71d8c0015251a843b68f5998d4ecc89ce71b7a54c095995d5bbdbe
+#EXTINF:-1 tvg-id="1569" tvg-name="TVG 2" tvg-logo="http://legacy4k.pro:8000/images/Bs4zcrVSn48d-ML1POlO8SLyAEXackaBMLPMzJv8p0QQw_4YmGp1Urz2SCIITOnMVyhAo_zTWKHgcGQ0i-kqFkboMLPh3BvTWzVQf42TfcY.png" group-title="[ES] Autonómicos",TVG 2
+http://d38c98a9735.gookiki.me/live/1569.ts?channel_id=1569&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=03a46618495c6ec608bec52c51002baabbde03aaf9aab7ef72472731b0b5c445
+#EXTINF:-1 tvg-id="1593" tvg-name="TVG 2" tvg-logo="http://legacy4k.pro:8000/images/Bs4zcrVSn48d-ML1POlO8SLyAEXackaBMLPMzJv8p0QQw_4YmGp1Urz2SCIITOnMVyhAo_zTWKHgcGQ0i-kqFkboMLPh3BvTWzVQf42TfcY.png" group-title="[ES] Autonómicos",TVG 2
+http://d38c98a9735.gookiki.me/live/1593.ts?channel_id=1593&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=0cdb87e526b119df8e6e891b01def5f9ff7d0fa58359efc731169fca735cf732
+#EXTINF:-1 tvg-id="1570" tvg-name="CYL 7" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/la7-es.png" group-title="[ES] Autonómicos",CYL 7
+http://d38c98a9735.gookiki.me/live/1570.ts?channel_id=1570&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=528eb0524646379aef255390c91fd6e0a0ec63acdf0701812a79b3011616d377
+#EXTINF:-1 tvg-id="1594" tvg-name="CYL 7" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/la7-es.png" group-title="[ES] Autonómicos",CYL 7
+http://d38c98a9735.gookiki.me/live/1594.ts?channel_id=1594&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=218298e1be673db6f0d9bedf2c98e15fc0821d911a2453bf1efa9b97766f975a
+#EXTINF:-1 tvg-id="1571" tvg-name="CYL 8" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/la8-es.png" group-title="[ES] Autonómicos",CYL 8
+http://d38c98a9735.gookiki.me/live/1571.ts?channel_id=1571&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=4eb19b12117b231d2dac3f284dd3fbd2de04b610366762d02cf8da4319711d8d
+#EXTINF:-1 tvg-id="1595" tvg-name="CYL 8" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/la8-es.png" group-title="[ES] Autonómicos",CYL 8
+http://d38c98a9735.gookiki.me/live/1595.ts?channel_id=1595&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=e3abcf4f2c12d6a899612e13cfb3e3e34bc662bd5e5ee11d5fc9442ab8cd9c92
+#EXTINF:-1 tvg-id="1572" tvg-name="ETB 1" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/etb1-es.png" group-title="[ES] Autonómicos",ETB 1
+http://d38c98a9735.gookiki.me/live/1572.ts?channel_id=1572&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=b833777a3ed21c5a3fdde2c119c0d1f4a736d9d82d141378b2407e918d06a179
+#EXTINF:-1 tvg-id="1596" tvg-name="ETB 1" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/etb1-es.png" group-title="[ES] Autonómicos",ETB 1
+http://d38c98a9735.gookiki.me/live/1596.ts?channel_id=1596&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=93d9b5ded6e02773211894d7470b2a3d984c00c7bbbfadf9742e8ac69cc713ae
+#EXTINF:-1 tvg-id="1573" tvg-name="ETB 2" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/etb2-es.png" group-title="[ES] Autonómicos",ETB 2
+http://d38c98a9735.gookiki.me/live/1573.ts?channel_id=1573&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=719c7033840175e6a07d989cbe3252128c34a78b30e51d040969598e34d84aef
+#EXTINF:-1 tvg-id="1597" tvg-name="ETB 2" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/etb2-es.png" group-title="[ES] Autonómicos",ETB 2
+http://d38c98a9735.gookiki.me/live/1597.ts?channel_id=1597&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=b6850df203e6c0207891bf056d11f8bc078a956253125b9e164ba70f0399ecd6
+#EXTINF:-1 tvg-id="1574" tvg-name="ETB 3" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/etb3-es.png" group-title="[ES] Autonómicos",ETB 3
+http://d38c98a9735.gookiki.me/live/1574.ts?channel_id=1574&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=dc5830d53e95fde3526a525758da6e03e03e87366ee530a0e89183efa1259891
+#EXTINF:-1 tvg-id="1598" tvg-name="ETB 3" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/etb3-es.png" group-title="[ES] Autonómicos",ETB 3
+http://d38c98a9735.gookiki.me/live/1598.ts?channel_id=1598&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=30c4559e19232b4d7cdb5ab69f8d513f15947842ae4fc91c07a51cb7fe46baff
+#EXTINF:-1 tvg-id="1575" tvg-name="ETB 4" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/etb4-es.png" group-title="[ES] Autonómicos",ETB 4
+http://d38c98a9735.gookiki.me/live/1575.ts?channel_id=1575&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=1a00aabe26f687140608f3ac07274fe5a08663d8da7b2c2717aa9318c77cc783
+#EXTINF:-1 tvg-id="1576" tvg-name="VELEVISA RECUERDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArBw_YigdpSMyAK0rwNTLF6fHJRVX8SgTvw&s" group-title="[ES] Autonómicos",VELEVISA RECUERDO
+http://d38c98a9735.gookiki.me/live/1576.ts?channel_id=1576&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=5cf825e287bc6b662b2f6a558df285f10359dca0f209357216966e61f3a3f9f0
+#EXTINF:-1 tvg-id="1577" tvg-name="VegaFibra TV Albatera" tvg-logo="http://legacy4k.pro:8000/images/2DLfFXL8AsmTY3TvS9cZAp342TBTzIytR7W8ne1VL9oUgOv6QPbYIhmDz0dV2PF2xIVRJz69EdcK2mG2U81B4ydgRYGahP9iIwKPbWTUr0s.png" group-title="[ES] Autonómicos",VegaFibra TV Albatera
+http://d38c98a9735.gookiki.me/live/1577.ts?channel_id=1577&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=0c563ae1e148bae12441f492d8324b9491a8716e6c68082d010c1c113b3b558d
+#EXTINF:-1 tvg-id="1578" tvg-name="LA OTRA" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/laotra-es.png" group-title="[ES] Autonómicos",LA OTRA
+http://d38c98a9735.gookiki.me/live/1578.ts?channel_id=1578&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=36bfd863dd0054bcb6c7cabe9c1fb5e16110f851e972681b2ee22539c253d2ab
+#EXTINF:-1 tvg-id="367" tvg-name="M. Accion HD" tvg-logo="https://buyone.xyz/pic/M_Accion.webp" group-title="[ES] Cine & Series",M. Accion HD
+http://d38c98a9735.gookiki.me/live/367.ts?channel_id=367&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=181919685e4ad281541463283ade48b59ea94d4806c326fe410d3774cc9a9918
+#EXTINF:-1 tvg-id="389" tvg-name="M. Accion FHD" tvg-logo="https://buyone.xyz/pic/M_Accion.webp" group-title="[ES] Cine & Series",M. Accion FHD
+http://d38c98a9735.gookiki.me/live/389.ts?channel_id=389&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=cb3645f7a1b447782f508b3dcbce8cfa63c77e81e29fb975d81b4e40a0de6855
+#EXTINF:-1 tvg-id="368" tvg-name="M. Estrenos HD" tvg-logo="https://buyone.xyz/pic/M_Estrenos.webp" group-title="[ES] Cine & Series",M. Estrenos HD
+http://d38c98a9735.gookiki.me/live/368.ts?channel_id=368&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=fdcee8ed12408477562ff3111c5a7d71f2a10bcb158ee00f21cb7c392fac2397
+#EXTINF:-1 tvg-id="390" tvg-name="M. Estrenos FHD" tvg-logo="https://buyone.xyz/pic/M_Estrenos.webp" group-title="[ES] Cine & Series",M. Estrenos FHD
+http://d38c98a9735.gookiki.me/live/390.ts?channel_id=390&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=16a7a2c4b468cd003bf6cd8bdcbe220677d298d150e378fe481dd854c6fd1cdf
+#EXTINF:-1 tvg-id="369" tvg-name="M. CINE ESPAÑOL HD" tvg-logo="https://buyone.xyz/pic/M_CINE_ESPANOL.webp" group-title="[ES] Cine & Series",M. CINE ESPAÑOL HD
+http://d38c98a9735.gookiki.me/live/369.ts?channel_id=369&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=8326891cfea809fc4cfee6f1eea4e7482ab86d7bb4a76744f59e768e17b0e4aa
+#EXTINF:-1 tvg-id="391" tvg-name="M. CINE ESPAÑOL FHD" tvg-logo="https://buyone.xyz/pic/M_CINE_ESPANOL.webp" group-title="[ES] Cine & Series",M. CINE ESPAÑOL FHD
+http://d38c98a9735.gookiki.me/live/391.ts?channel_id=391&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=6294d9ce405221c82bca3409480dd1a046ca44675cd46e0e78fd05726d8ffdb1
+#EXTINF:-1 tvg-id="370" tvg-name="M. Clasicos HD" tvg-logo="https://buyone.xyz/pic/M_Clasicos.webp" group-title="[ES] Cine & Series",M. Clasicos HD
+http://d38c98a9735.gookiki.me/live/370.ts?channel_id=370&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=d898ea6ff19244ba431076c07b372fb65ba8599ce62f48b82d81458a2bf60b1d
+#EXTINF:-1 tvg-id="392" tvg-name="M. Clasicos FHD" tvg-logo="https://buyone.xyz/pic/M_Clasicos.webp" group-title="[ES] Cine & Series",M. Clasicos FHD
+http://d38c98a9735.gookiki.me/live/392.ts?channel_id=392&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=5c59dab075a294dfde516c8cfa3209bbd1a9f81c29d2235eaf66bed23ba1dfed
+#EXTINF:-1 tvg-id="371" tvg-name="M. Comedia HD" tvg-logo="https://buyone.xyz/pic/M_Comedia.webp" group-title="[ES] Cine & Series",M. Comedia HD
+http://d38c98a9735.gookiki.me/live/371.ts?channel_id=371&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=505abf590d5dfa5bfdfaf22c7e676fe702a62e4ee9d24f0ae2838644fae60161
+#EXTINF:-1 tvg-id="393" tvg-name="M. Comedia FHD" tvg-logo="https://buyone.xyz/pic/M_Comedia.webp" group-title="[ES] Cine & Series",M. Comedia FHD
+http://d38c98a9735.gookiki.me/live/393.ts?channel_id=393&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=ba367476719603a3fd8dc8faaa041e66ddbc8d209c7dd4e3b877936efc3496e9
+#EXTINF:-1 tvg-id="372" tvg-name="M. Drama HD" tvg-logo="https://buyone.xyz/pic/M_Drama.webp" group-title="[ES] Cine & Series",M. Drama HD
+http://d38c98a9735.gookiki.me/live/372.ts?channel_id=372&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=2d775307553d64f7532eb13906eddbf13d60c40c62384d15cba4afcd749666d2
+#EXTINF:-1 tvg-id="394" tvg-name="M. Drama FHD" tvg-logo="https://buyone.xyz/pic/M_Drama.webp" group-title="[ES] Cine & Series",M. Drama FHD
+http://d38c98a9735.gookiki.me/live/394.ts?channel_id=394&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=2f6a46e460dd5913a4e35ed799b84ea8f45eec206cc73f9563d50d067d0d69d3
+#EXTINF:-1 tvg-id="373" tvg-name="M. Indie HD" tvg-logo="https://buyone.xyz/pic/M_Indie.webp" group-title="[ES] Cine & Series",M. Indie HD
+http://d38c98a9735.gookiki.me/live/373.ts?channel_id=373&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=434a385928bdc213ca60e962b3413badbb5c921e5f93d28218839e24e6d7e305
+#EXTINF:-1 tvg-id="395" tvg-name="M. Indie FHD" tvg-logo="https://buyone.xyz/pic/M_Indie.webp" group-title="[ES] Cine & Series",M. Indie FHD
+http://d38c98a9735.gookiki.me/live/395.ts?channel_id=395&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=30466f1f9ebaea05c0a6e8fed81ea192f9732c3acc1a5b52187f535cb6a01c98
+#EXTINF:-1 tvg-id="374" tvg-name="M. Originales HD" tvg-logo="https://buyone.xyz/pic/M_Originales.webp" group-title="[ES] Cine & Series",M. Originales HD
+http://d38c98a9735.gookiki.me/live/374.ts?channel_id=374&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=6866a4163f55eb003f711b6867c5b5d47529a15f53ecd4ab4c679387ed247802
+#EXTINF:-1 tvg-id="396" tvg-name="M. Originales FHD" tvg-logo="https://buyone.xyz/pic/M_Originales.webp" group-title="[ES] Cine & Series",M. Originales FHD
+http://d38c98a9735.gookiki.me/live/396.ts?channel_id=396&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=a058d87a2261a8ec755661e250326c6211de96e06e675d41325862bf52a4e162
+#EXTINF:-1 tvg-id="375" tvg-name="M. Series(HITS) HD" tvg-logo="https://buyone.xyz/pic/M_SeriesHITS.webp" group-title="[ES] Cine & Series",M. Series(HITS) HD
+http://d38c98a9735.gookiki.me/live/375.ts?channel_id=375&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=5669ac84d27410efc596f655d9780dea95e40b27a397370db3f39c40aab2006b
+#EXTINF:-1 tvg-id="397" tvg-name="M. Series(HITS) FHD" tvg-logo="https://buyone.xyz/pic/M_SeriesHITS.webp" group-title="[ES] Cine & Series",M. Series(HITS) FHD
+http://d38c98a9735.gookiki.me/live/397.ts?channel_id=397&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=550dc75bf236acc55282605ae0080124b23e72e42435e9160ba742804b6d5c45
+#EXTINF:-1 tvg-id="376" tvg-name="Hollywood HD" tvg-logo="https://buyone.xyz/pic/Hollywood.webp" group-title="[ES] Cine & Series",Hollywood HD
+http://d38c98a9735.gookiki.me/live/376.ts?channel_id=376&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=a9b3639a20d5b5b682d4ce117ab8d027ebb6908fa2e6154eab60ba0818ff260b
+#EXTINF:-1 tvg-id="398" tvg-name="Hollywood FHD" tvg-logo="https://buyone.xyz/pic/Hollywood.webp" group-title="[ES] Cine & Series",Hollywood FHD
+http://d38c98a9735.gookiki.me/live/398.ts?channel_id=398&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=95bdbbbaad2932c7221156f75cd6c0895dd6b10efc10114cdce6875203ab9755
+#EXTINF:-1 tvg-id="377" tvg-name="AMC HD" tvg-logo="https://buyone.xyz/pic/AMC.webp" group-title="[ES] Cine & Series",AMC HD
+http://d38c98a9735.gookiki.me/live/377.ts?channel_id=377&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=6d0dbc28dbc22913f563e39c4b3ff0900a8971430609c2d5724597330f10c822
+#EXTINF:-1 tvg-id="399" tvg-name="AMC FHD" tvg-logo="https://buyone.xyz/pic/AMC.webp" group-title="[ES] Cine & Series",AMC FHD
+http://d38c98a9735.gookiki.me/live/399.ts?channel_id=399&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=2b9486863f7814cb14ee5d1c62aad64d8db2c1fb3c4ee27b50c9693fa04e6aed
+#EXTINF:-1 tvg-id="378" tvg-name="AXN HD" tvg-logo="https://buyone.xyz/pic/AXN.webp" group-title="[ES] Cine & Series",AXN HD
+http://d38c98a9735.gookiki.me/live/378.ts?channel_id=378&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=4b3d4fd03a47902094f5f0d19879324c1b6e1d5d9f74d57aa1bbd208396af2ec
+#EXTINF:-1 tvg-id="400" tvg-name="AXN FHD" tvg-logo="https://buyone.xyz/pic/AXN.webp" group-title="[ES] Cine & Series",AXN FHD
+http://d38c98a9735.gookiki.me/live/400.ts?channel_id=400&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=4a9df29ab8dfb62a44a5a3fab4bf5af318b5956d06b9d847ce35aa0960681e99
+#EXTINF:-1 tvg-id="379" tvg-name="AXN Movies HD" tvg-logo="https://buyone.xyz/pic/AXN_Movies.webp" group-title="[ES] Cine & Series",AXN Movies HD
+http://d38c98a9735.gookiki.me/live/379.ts?channel_id=379&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=c0e744551fab44853017f8a04c77c59eb7e2bd0e42afb3f2103d2761b4e62f85
+#EXTINF:-1 tvg-id="401" tvg-name="AXN Movies FHD" tvg-logo="https://buyone.xyz/pic/AXN_Movies.webp" group-title="[ES] Cine & Series",AXN Movies FHD
+http://d38c98a9735.gookiki.me/live/401.ts?channel_id=401&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=00a73307eee97d47f92102102bf5fe7c3ccbc405b34a695f074e85b1d6734849
+#EXTINF:-1 tvg-id="380" tvg-name="A3Cine HD" tvg-logo="https://buyone.xyz/pic/A3Cine.webp" group-title="[ES] Cine & Series",A3Cine HD
+http://d38c98a9735.gookiki.me/live/380.ts?channel_id=380&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=7358d7756625eab52ca81cadcb0f4193e3b0d68eaa8d6d3f8a0bb521439d3f65
+#EXTINF:-1 tvg-id="402" tvg-name="A3Cine FHD" tvg-logo="https://buyone.xyz/pic/A3Cine.webp" group-title="[ES] Cine & Series",A3Cine FHD
+http://d38c98a9735.gookiki.me/live/402.ts?channel_id=402&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=6410eda7e0b18e6f966333761306f252233980e617dea70ec9ab74cc01028ea2
+#EXTINF:-1 tvg-id="381" tvg-name="A3Series HD" tvg-logo="https://buyone.xyz/pic/A3Series.webp" group-title="[ES] Cine & Series",A3Series HD
+http://d38c98a9735.gookiki.me/live/381.ts?channel_id=381&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=aee7d7c4e3a898e12e7104b3aeb6d2549c2327a3d829365f9005e5cf2b73023a
+#EXTINF:-1 tvg-id="403" tvg-name="A3Series FHD" tvg-logo="https://buyone.xyz/pic/A3Series.webp" group-title="[ES] Cine & Series",A3Series FHD
+http://d38c98a9735.gookiki.me/live/403.ts?channel_id=403&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=6f6f0c576e11c59433cd3b47ab3fb8223674e5ba54c674151525ceab14383958
+#EXTINF:-1 tvg-id="404" tvg-name="SOMOS FHD" tvg-logo="https://buyone.xyz/pic/SOMOS.webp" group-title="[ES] Cine & Series",SOMOS FHD
+http://d38c98a9735.gookiki.me/live/404.ts?channel_id=404&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=356075aaa3c571106976bb764d78a67ba525618499d517e2ff3e61506fcb04a6
+#EXTINF:-1 tvg-id="383" tvg-name="STAR CHANNEL HD" tvg-logo="https://buyone.xyz/pic/STAR_CHANNEL.webp" group-title="[ES] Cine & Series",STAR CHANNEL HD
+http://d38c98a9735.gookiki.me/live/383.ts?channel_id=383&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=769a01151ad7e47b8a70c16ef08e6135a9b161c617fa5bf4030301a15efaeb1f
+#EXTINF:-1 tvg-id="405" tvg-name="STAR CHANNEL FHD" tvg-logo="https://buyone.xyz/pic/STAR_CHANNEL.webp" group-title="[ES] Cine & Series",STAR CHANNEL FHD
+http://d38c98a9735.gookiki.me/live/405.ts?channel_id=405&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=80e38cdfb23600005b302cc65a840ba76d7f1bc5766ffc961ff2ab1cab163955
+#EXTINF:-1 tvg-id="385" tvg-name="SyFy HD" tvg-logo="https://buyone.xyz/pic/SyFy.webp" group-title="[ES] Cine & Series",SyFy HD
+http://d38c98a9735.gookiki.me/live/385.ts?channel_id=385&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=d72e5b3b495012b9ca5587e9836f0426ce0b3fd770b7f519c89e3707a5a70781
+#EXTINF:-1 tvg-id="407" tvg-name="SyFy FHD" tvg-logo="https://buyone.xyz/pic/SyFy.webp" group-title="[ES] Cine & Series",SyFy FHD
+http://d38c98a9735.gookiki.me/live/407.ts?channel_id=407&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=e891b3577b4c57981ceda97353e0e22df77491d434197e810709a77cd73c9172
+#EXTINF:-1 tvg-id="386" tvg-name="TCM HD" tvg-logo="https://buyone.xyz/pic/TCM.webp" group-title="[ES] Cine & Series",TCM HD
+http://d38c98a9735.gookiki.me/live/386.ts?channel_id=386&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=108ef6b7f5780d2db8b571b70d34c0cffe390fa876bb9fc11f3164626d3d6780
+#EXTINF:-1 tvg-id="408" tvg-name="TCM FHD" tvg-logo="https://buyone.xyz/pic/TCM.webp" group-title="[ES] Cine & Series",TCM FHD
+http://d38c98a9735.gookiki.me/live/408.ts?channel_id=408&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=98683554d01944b3a0f77d318a183942f67f166dc5a0a104d1003535eb56dccb
+#EXTINF:-1 tvg-id="387" tvg-name="Warner HD" tvg-logo="https://buyone.xyz/pic/Warner.webp" group-title="[ES] Cine & Series",Warner HD
+http://d38c98a9735.gookiki.me/live/387.ts?channel_id=387&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=f1205d5ca517ccfb3346d853b9f3455059f760cc6b9f7c3fefd2fdb556779d01
+#EXTINF:-1 tvg-id="409" tvg-name="Warner FHD" tvg-logo="https://buyone.xyz/pic/Warner.webp" group-title="[ES] Cine & Series",Warner FHD
+http://d38c98a9735.gookiki.me/live/409.ts?channel_id=409&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=8cc45993ab2c1a1c58c4095032243a26f588d965bea204e893136f3af6d34ced
+#EXTINF:-1 tvg-id="410" tvg-name="XTRM FHD" tvg-logo="https://buyone.xyz/pic/XTRM.webp" group-title="[ES] Cine & Series",XTRM FHD
+http://d38c98a9735.gookiki.me/live/410.ts?channel_id=410&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=17848618fc3a0d69eaf5bc618fa0627185d0ab35711b84858e6d8451c0543d3e
+#EXTINF:-1 tvg-id="1468" tvg-name="MOVISTAR TERROR" tvg-logo="https://www.movistarplus.es/recorte/m-DP/canal/TERROR.png" group-title="[ES] Cine & Series",MOVISTAR TERROR
+http://d38c98a9735.gookiki.me/live/1468.ts?channel_id=1468&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=e1b74ba1e8e84d14f0066e00d317b54b8664e91576a2ec38519e3282ca921cc8
+#EXTINF:-1 tvg-id="1484" tvg-name="MOVISTAR TERROR" tvg-logo="https://www.movistarplus.es/recorte/m-DP/canal/TERROR.png" group-title="[ES] Cine & Series",MOVISTAR TERROR
+http://d38c98a9735.gookiki.me/live/1484.ts?channel_id=1484&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=99103d4a74a3503e5ab02a8c34ffe27629d5c01e119f5d8a43748a665aec8ee3
+#EXTINF:-1 tvg-id="1469" tvg-name="MOVISTAR ROMANCE" tvg-logo="https://www.movistarplus.es/recorte/m-DP/canal/MROMA.png" group-title="[ES] Cine & Series",MOVISTAR ROMANCE
+http://d38c98a9735.gookiki.me/live/1469.ts?channel_id=1469&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=9c7bb25dbd5fe3988edd237572a8d4a9f87de691db577e54141563c369ee94bc
+#EXTINF:-1 tvg-id="1485" tvg-name="MOVISTAR ROMANCE" tvg-logo="https://www.movistarplus.es/recorte/m-DP/canal/MROMA.png" group-title="[ES] Cine & Series",MOVISTAR ROMANCE
+http://d38c98a9735.gookiki.me/live/1485.ts?channel_id=1485&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=1c166c17ad8d79b9e45dfdba5c219fd1e718b98867b0a5662b1356cc44024941
+#EXTINF:-1 tvg-id="1470" tvg-name="DARK" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="[ES] Cine & Series",DARK
+http://d38c98a9735.gookiki.me/live/1470.ts?channel_id=1470&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=dde5658ab01e9d681b762d3ff92694b1648825b1ae805132da842d439b0adbfa
+#EXTINF:-1 tvg-id="1486" tvg-name="DARK" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="[ES] Cine & Series",DARK
+http://d38c98a9735.gookiki.me/live/1486.ts?channel_id=1486&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=b85e9994ac5fdc4e9d010eb407169f549a17991c98866aa7aea8fa590fd30043
+#EXTINF:-1 tvg-id="1471" tvg-name="SUNDANCE TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="[ES] Cine & Series",SUNDANCE TV
+http://d38c98a9735.gookiki.me/live/1471.ts?channel_id=1471&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=d544ac23d742df4a709563f441d892aba6da275a8c6129f60eb96d7649edddbc
+#EXTINF:-1 tvg-id="1487" tvg-name="SUNDANCE TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="[ES] Cine & Series",SUNDANCE TV
+http://d38c98a9735.gookiki.me/live/1487.ts?channel_id=1487&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=42c15e991173d371bb11a32ac451f44b39f4c890a8b9a4206d1268362ab3bca2
+#EXTINF:-1 tvg-id="1472" tvg-name="BOM CINE" tvg-logo="https://images2.imgbox.com/c0/d7/yqKiGVai_o.png" group-title="[ES] Cine & Series",BOM CINE
+http://d38c98a9735.gookiki.me/live/1472.ts?channel_id=1472&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=7466c38d79e8701ac36d6575b4ec15ac77beb5042aec1f599f43fd6c84e8524d
+#EXTINF:-1 tvg-id="1488" tvg-name="BOM CINE" tvg-logo="https://images2.imgbox.com/c0/d7/yqKiGVai_o.png" group-title="[ES] Cine & Series",BOM CINE
+http://d38c98a9735.gookiki.me/live/1488.ts?channel_id=1488&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=ca8bfe4f6867045a960bdd89e003f7c3537bfa81c83dde4860cd2675ec72437c
+#EXTINF:-1 tvg-id="1473" tvg-name="SQUIRREL" tvg-logo="https://i.postimg.cc/mZJw0d7s/Squirrel.png" group-title="[ES] Cine & Series",SQUIRREL
+http://d38c98a9735.gookiki.me/live/1473.ts?channel_id=1473&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=2c88714a4af60ed589f14cc449c8f21cfe4c85b5e668d75936d54cdf4a5cd5e7
+#EXTINF:-1 tvg-id="1489" tvg-name="SQUIRREL" tvg-logo="https://i.postimg.cc/mZJw0d7s/Squirrel.png" group-title="[ES] Cine & Series",SQUIRREL
+http://d38c98a9735.gookiki.me/live/1489.ts?channel_id=1489&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=5afc9c2848b4cda6eb3402e5050d8aaa8d28ac4ebf40e747052d76e7165dfa68
+#EXTINF:-1 tvg-id="1474" tvg-name="SQUIRREL DOS" tvg-logo="https://i.postimg.cc/7hNQMXmz/Squirrel-Dos.png" group-title="[ES] Cine & Series",SQUIRREL DOS
+http://d38c98a9735.gookiki.me/live/1474.ts?channel_id=1474&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=98f824ff255e7f18d239995123408828b384a605dbbc803df63da20c9b83edf3
+#EXTINF:-1 tvg-id="1490" tvg-name="SQUIRREL DOS" tvg-logo="https://i.postimg.cc/7hNQMXmz/Squirrel-Dos.png" group-title="[ES] Cine & Series",SQUIRREL DOS
+http://d38c98a9735.gookiki.me/live/1490.ts?channel_id=1490&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=d782670877a55c162a5422bd0c890150be8b7bc3596049e54d6cc4f77c89e615
+#EXTINF:-1 tvg-id="1475" tvg-name="CANAL FLIXOLé 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX1" group-title="[ES] Cine & Series",CANAL FLIXOLé 1
+http://d38c98a9735.gookiki.me/live/1475.ts?channel_id=1475&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=cdbdf55e1fc29ba6cb180e11841144a918262fc30b1849db4643675777c248c5
+#EXTINF:-1 tvg-id="1491" tvg-name="CANAL FLIXOLé 1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX1" group-title="[ES] Cine & Series",CANAL FLIXOLé 1
+http://d38c98a9735.gookiki.me/live/1491.ts?channel_id=1491&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=467a85ef5aa95e1b4881ea46d1615afc14b80dc51459b1a8e26062fd536ba17d
+#EXTINF:-1 tvg-id="1476" tvg-name="CANAL FLIXOLé 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/FLIX2" group-title="[ES] Cine & Series",CANAL FLIXOLé 2
+http://d38c98a9735.gookiki.me/live/1476.ts?channel_id=1476&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=0e4987fa0e52311d42fa1c06e103cb5da47dec9469dbbe89baf39bfc2bd6dee5
+#EXTINF:-1 tvg-id="1477" tvg-name="AMC WESTERN" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/fa/AMC_Western_%282026-.n.v.%29.png" group-title="[ES] Cine & Series",AMC WESTERN
+http://d38c98a9735.gookiki.me/live/1477.ts?channel_id=1477&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=e6fb53171ddaf4a9411be165b457eb634a4802a6527d016c2a00d607baf96227
+#EXTINF:-1 tvg-id="1493" tvg-name="AMC WESTERN" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/fa/AMC_Western_%282026-.n.v.%29.png" group-title="[ES] Cine & Series",AMC WESTERN
+http://d38c98a9735.gookiki.me/live/1493.ts?channel_id=1493&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=f60da36cb472081502b0a13e136545b168354ea78952606e3302bbdbfbc99ce6
+#EXTINF:-1 tvg-id="1478" tvg-name="VEO7" tvg-logo="https://pbs.twimg.com/profile_images/2067908827161198592/mqYsR_tf_200x200.png" group-title="[ES] Cine & Series",VEO7
+http://d38c98a9735.gookiki.me/live/1478.ts?channel_id=1478&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=9357ebad35309023427318f8004f2263c69f32b456cabc0c6f4c69b927bcd9ba
+#EXTINF:-1 tvg-id="1494" tvg-name="VEO7" tvg-logo="https://pbs.twimg.com/profile_images/2067908827161198592/mqYsR_tf_200x200.png" group-title="[ES] Cine & Series",VEO7
+http://d38c98a9735.gookiki.me/live/1494.ts?channel_id=1494&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=75e8565cee988545cd775ffc31eac47852855c639f7369167ba229c43da9bf58
+#EXTINF:-1 tvg-id="1479" tvg-name="BBC SERIES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBDRA.png" group-title="[ES] Cine & Series",BBC SERIES
+http://d38c98a9735.gookiki.me/live/1479.ts?channel_id=1479&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=a4fd2398b932b1d7f7a6293cf3a51c8ade133cbbc2cf9c781bae48b4fd134a28
+#EXTINF:-1 tvg-id="1495" tvg-name="BBC SERIES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBDRA.png" group-title="[ES] Cine & Series",BBC SERIES
+http://d38c98a9735.gookiki.me/live/1495.ts?channel_id=1495&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=f551aa15fec90d62e448ac2f251fff2b1815efb6544a47ddfe9d5e652bcec985
+#EXTINF:-1 tvg-id="1480" tvg-name="CALLE 13" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="[ES] Cine & Series",CALLE 13
+http://d38c98a9735.gookiki.me/live/1480.ts?channel_id=1480&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=00ef9b99c2af5451e068ea483559efb67513733e39387217b32a8b5dc2001acb
+#EXTINF:-1 tvg-id="1496" tvg-name="CALLE 13" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="[ES] Cine & Series",CALLE 13
+http://d38c98a9735.gookiki.me/live/1496.ts?channel_id=1496&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=d3c37449bd91b52981314147f21f8802ddd561f135f58c486ddee7a73249b970
+#EXTINF:-1 tvg-id="1481" tvg-name="NEOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" group-title="[ES] Cine & Series",NEOX
+http://d38c98a9735.gookiki.me/live/1481.ts?channel_id=1481&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=a3bb73975192aac1c3d54f305cd7e3ff1818d5c2a77d46907c331d442e45376a
+#EXTINF:-1 tvg-id="1497" tvg-name="NEOX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" group-title="[ES] Cine & Series",NEOX
+http://d38c98a9735.gookiki.me/live/1497.ts?channel_id=1497&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=66bf13099bb0fce252e32db168ae5858ca25010f0c2d2535b7a2822f16d042b0
+#EXTINF:-1 tvg-id="1482" tvg-name="SKY SHOWTIME" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SKYSHO.png" group-title="[ES] Cine & Series",SKY SHOWTIME
+http://d38c98a9735.gookiki.me/live/1482.ts?channel_id=1482&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=0f3934590a6f21f0442c12b8b8783b81ebadd37b15cc45d638e9421ff11b9c6f
+#EXTINF:-1 tvg-id="1498" tvg-name="SKY SHOWTIME" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SKYSHO.png" group-title="[ES] Cine & Series",SKY SHOWTIME
+http://d38c98a9735.gookiki.me/live/1498.ts?channel_id=1498&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=8fdb62bca6431b20b949acf11bc4ee1c98dbb73d31325c185c127939d7af90b8
+#EXTINF:-1 tvg-id="1483" tvg-name="TELENOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Novelas_logo.jpg" group-title="[ES] Cine & Series",TELENOVELAS
+http://d38c98a9735.gookiki.me/live/1483.ts?channel_id=1483&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=39ae98b193d86373f5a53fabc1375fdcbdf0559b87178cced8ec4266d035748b
+#EXTINF:-1 tvg-id="1499" tvg-name="TELENOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Novelas_logo.jpg" group-title="[ES] Cine & Series",TELENOVELAS
+http://d38c98a9735.gookiki.me/live/1499.ts?channel_id=1499&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=47fa6454a98ff88c701e3a2bb4ae7257e4ec3aff560e776f9cd01967b3c39205
+#EXTINF:-1 tvg-id="299" tvg-name="Movistar+ HD" tvg-logo="https://buyone.xyz/pic/Movistar.webp" group-title="[ES] Entretenimiento",Movistar+ HD
+http://d38c98a9735.gookiki.me/live/299.ts?channel_id=299&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=3c24b214165ae6efdbbec80bbc2f2ba2bbd71a4cd396553709660f044231cde1
+#EXTINF:-1 tvg-id="994" tvg-name="Movistar+ backup 2 HD" tvg-logo="https://buyone.xyz/pic/Movistar.webp" group-title="[ES] Entretenimiento",Movistar+ backup 2 HD
+http://d38c98a9735.gookiki.me/live/994.ts?channel_id=994&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3002&sig=066d77a9b5665039d5b777bb891c6b8f7f088176ab34b908d94184833f57a533
+#EXTINF:-1 tvg-id="996" tvg-name="Movistar+ backup 3 HD" tvg-logo="https://buyone.xyz/pic/Movistar.webp" group-title="[ES] Entretenimiento",Movistar+ backup 3 HD
+http://d38c98a9735.gookiki.me/live/996.ts?channel_id=996&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=1114974e98ed9965aee15cedd4c7ec3634eb3676f8179e10a1c7df8bb0ca4172
+#EXTINF:-1 tvg-id="364" tvg-name="Movistar+ FHD" tvg-logo="https://buyone.xyz/pic/Movistar.webp" group-title="[ES] Entretenimiento",Movistar+ FHD
+http://d38c98a9735.gookiki.me/live/364.ts?channel_id=364&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=e6d10dd7ce574098517d83a2342cc2757364d6de01acb2bcbd96a0534bb39e6c
+#EXTINF:-1 tvg-id="997" tvg-name="Movistar+ backup 3 FHD" tvg-logo="https://buyone.xyz/pic/Movistar.webp" group-title="[ES] Entretenimiento",Movistar+ backup 3 FHD
+http://d38c98a9735.gookiki.me/live/997.ts?channel_id=997&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=05aca7d64977fa0e753ab917d479a83c4cb002fecee5cfc822b7535ec57af040
+#EXTINF:-1 tvg-id="384" tvg-name="Sundance HD" tvg-logo="https://buyone.xyz/pic/Sundance.webp" group-title="[ES] Entretenimiento",Sundance HD
+http://d38c98a9735.gookiki.me/live/384.ts?channel_id=384&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=b7e5b97b087630bb1f1526c2e8fd5530ca60d3b12f16a1f454c5352c1d37d6b2
+#EXTINF:-1 tvg-id="406" tvg-name="Sundance FHD" tvg-logo="https://buyone.xyz/pic/Sundance.webp" group-title="[ES] Entretenimiento",Sundance FHD
+http://d38c98a9735.gookiki.me/live/406.ts?channel_id=406&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=90a6fc24c5e56605552976e91dba935ba8fc4a82fed9f3982a2956178c9e1d72
+#EXTINF:-1 tvg-id="437" tvg-name="COMEDYCENTRAL HD" tvg-logo="https://buyone.xyz/pic/COMEDYCENTRAL.webp" group-title="[ES] Entretenimiento",COMEDYCENTRAL HD
+http://d38c98a9735.gookiki.me/live/437.ts?channel_id=437&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=cd4280010c4997606d8c5a83c83985c42b009fe2f808d62946234d3d16731306
+#EXTINF:-1 tvg-id="438" tvg-name="COMEDYCENTRAL FHD" tvg-logo="https://buyone.xyz/pic/COMEDYCENTRAL.webp" group-title="[ES] Entretenimiento",COMEDYCENTRAL FHD
+http://d38c98a9735.gookiki.me/live/438.ts?channel_id=438&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=bad9e1b07df4b39263618a939fec783da049bfac9e07712227cd879b37f5d9e9
+#EXTINF:-1 tvg-id="439" tvg-name="COSMO HD" tvg-logo="https://buyone.xyz/pic/COSMO.webp" group-title="[ES] Entretenimiento",COSMO HD
+http://d38c98a9735.gookiki.me/live/439.ts?channel_id=439&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=009e70d67856a297dafc8d791c74b87c9585f169ca2d69833f7ec7b332237d47
+#EXTINF:-1 tvg-id="440" tvg-name="COSMO FHD" tvg-logo="https://buyone.xyz/pic/COSMO.webp" group-title="[ES] Entretenimiento",COSMO FHD
+http://d38c98a9735.gookiki.me/live/440.ts?channel_id=440&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=681b9656b48e377f4e9245a4c7949aa98ef857f8a280ddb2dd342334aae0c263
+#EXTINF:-1 tvg-id="441" tvg-name="BE MAD HD" tvg-logo="https://buyone.xyz/pic/BE_MAD.webp" group-title="[ES] Entretenimiento",BE MAD HD
+http://d38c98a9735.gookiki.me/live/441.ts?channel_id=441&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=aaeb52c75a20dd02d7a6ddbaa75011906bd0c218175505cbbdf59cb791b80cb7
+#EXTINF:-1 tvg-id="442" tvg-name="BE MAD FHD" tvg-logo="https://buyone.xyz/pic/BE_MAD.webp" group-title="[ES] Entretenimiento",BE MAD FHD
+http://d38c98a9735.gookiki.me/live/442.ts?channel_id=442&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=a9f4304b76a334109f53977dd0ef7d16e6f57d6d99a97a7494a883af5f10d2ed
+#EXTINF:-1 tvg-id="443" tvg-name="FDF HD" tvg-logo="https://buyone.xyz/pic/FDF.webp" group-title="[ES] Entretenimiento",FDF HD
+http://d38c98a9735.gookiki.me/live/443.ts?channel_id=443&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=36b3fc88e7a41b0292cda72ca48451d304fef3d80221c5e00615e44a406f7ed2
+#EXTINF:-1 tvg-id="473" tvg-name="FDF FHD" tvg-logo="https://buyone.xyz/pic/FDF.webp" group-title="[ES] Entretenimiento",FDF FHD
+http://d38c98a9735.gookiki.me/live/473.ts?channel_id=473&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=c045a2ec5285f0f2bbc3ebb56477e8be0c928871847f3755687e370bb9808262
+#EXTINF:-1 tvg-id="445" tvg-name="Canal Cocina HD" tvg-logo="https://buyone.xyz/pic/Canal_Cocina.webp" group-title="[ES] Entretenimiento",Canal Cocina HD
+http://d38c98a9735.gookiki.me/live/445.ts?channel_id=445&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=a3c54dc97873b6a52395e7b9f03b05aa27f8f2f815581c2743ed6c9b4894df95
+#EXTINF:-1 tvg-id="446" tvg-name="Canal Cocina FHD" tvg-logo="https://buyone.xyz/pic/Canal_Cocina.webp" group-title="[ES] Entretenimiento",Canal Cocina FHD
+http://d38c98a9735.gookiki.me/live/446.ts?channel_id=446&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=2e984ff18e9d077debaad504443b512b33ef1336ebdb040bfbfc799f9f8c0678
+#EXTINF:-1 tvg-id="447" tvg-name="Divinity HD" tvg-logo="https://buyone.xyz/pic/Divinity.webp" group-title="[ES] Entretenimiento",Divinity HD
+http://d38c98a9735.gookiki.me/live/447.ts?channel_id=447&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=98e86e7f5651716a5a0906c24e17bfcfeddb56e1fed1fe96fb0cbae4fa71ccd2
+#EXTINF:-1 tvg-id="448" tvg-name="Divinity FHD" tvg-logo="https://buyone.xyz/pic/Divinity.webp" group-title="[ES] Entretenimiento",Divinity FHD
+http://d38c98a9735.gookiki.me/live/448.ts?channel_id=448&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1944&sig=66e20cec046bbeeb4b043bde6a702a2b8b842039ceffc5ccd7255d0ff8f232e8
+#EXTINF:-1 tvg-id="449" tvg-name="Energy HD" tvg-logo="https://buyone.xyz/pic/Energy.webp" group-title="[ES] Entretenimiento",Energy HD
+http://d38c98a9735.gookiki.me/live/449.ts?channel_id=449&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=87542c0f7eeaddaec82ee7b3f0d2f4c19d6ca362055c402cf291b4f183a8d179
+#EXTINF:-1 tvg-id="450" tvg-name="Energy FHD" tvg-logo="https://buyone.xyz/pic/Energy.webp" group-title="[ES] Entretenimiento",Energy FHD
+http://d38c98a9735.gookiki.me/live/450.ts?channel_id=450&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=65c5f3238abc9c0471e76dd9670a2fe29d85c679f8fd6ed6079f1abd7306dec3
+#EXTINF:-1 tvg-id="1533" tvg-name="Amc Break" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/amc-break-es.png" group-title="[ES] Entretenimiento",Amc Break
+http://d38c98a9735.gookiki.me/live/1533.ts?channel_id=1533&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=67cd6c6410022e50c3c9b6da2ecd54377116c70159c794c60e05b3da453b9b61
+#EXTINF:-1 tvg-id="1537" tvg-name="Amc Break" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/amc-break-es.png" group-title="[ES] Entretenimiento",Amc Break
+http://d38c98a9735.gookiki.me/live/1537.ts?channel_id=1537&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=5601f5beaed158888227fcb43170b50e519d9418f46f5d78cb4a99e4339fdc2b
+#EXTINF:-1 tvg-id="1534" tvg-name="Amc Crime" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/amc-crime-es.png" group-title="[ES] Entretenimiento",Amc Crime
+http://d38c98a9735.gookiki.me/live/1534.ts?channel_id=1534&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=932014e3c51131f73d7649ed2a5ee362e01cd043673add3de2d44cc3f8144ecb
+#EXTINF:-1 tvg-id="1538" tvg-name="Amc Crime" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/spain/amc-crime-es.png" group-title="[ES] Entretenimiento",Amc Crime
+http://d38c98a9735.gookiki.me/live/1538.ts?channel_id=1538&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=4043bb16e6b0f933e5eeedd07fe8ece1d92d45d3e9bf840ac79097c1581ce222
+#EXTINF:-1 tvg-id="1535" tvg-name="Dkiss" tvg-logo="http://cdn.eliteplaytv.tv:8000/images/Bs4zcrVSn48d-ML1POlO8SLyAEXackaBMLPMzJv8p0QQw_4YmGp1Urz2SCIITOnMVyhAo_zTWKHgcGQ0i-kqFsdxnDKPPFa3Nf-Au9QXzog.png" group-title="[ES] Entretenimiento",Dkiss
+http://d38c98a9735.gookiki.me/live/1535.ts?channel_id=1535&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=054a4c8181532a35f7d558bd178b4397016e6ff024ccb5c1aea6cf99e7d2d820
+#EXTINF:-1 tvg-id="1539" tvg-name="Dkiss" tvg-logo="http://cdn.eliteplaytv.tv:8000/images/Bs4zcrVSn48d-ML1POlO8SLyAEXackaBMLPMzJv8p0QQw_4YmGp1Urz2SCIITOnMVyhAo_zTWKHgcGQ0i-kqFsdxnDKPPFa3Nf-Au9QXzog.png" group-title="[ES] Entretenimiento",Dkiss
+http://d38c98a9735.gookiki.me/live/1539.ts?channel_id=1539&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=cec4086a47350c2ad093f613b4bf39dbbf3f683f5fae5d740030fb5cde2d6e83
+#EXTINF:-1 tvg-id="1536" tvg-name="Vin TV" tvg-logo="https://195.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/195/entry_id/9049543fe794470090bc8a0e4ec2888e/version/6/width/120/height/75/quality/100" group-title="[ES] Entretenimiento",Vin TV
+http://d38c98a9735.gookiki.me/live/1536.ts?channel_id=1536&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=c0872b621cbeac9b6cfe75ea293e483c1c37797f0efbd10903a70f544e3fe53d
+#EXTINF:-1 tvg-id="475" tvg-name="Disney Junior HD" tvg-logo="https://buyone.xyz/pic/Disney_Junior.webp" group-title="[ES] Infantil",Disney Junior HD
+http://d38c98a9735.gookiki.me/live/475.ts?channel_id=475&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=2e0ab0665dd1c71b38379cec4b23d98619499f57e8c71a16357a8b1fffffa417
+#EXTINF:-1 tvg-id="476" tvg-name="Disney Junior FHD" tvg-logo="https://buyone.xyz/pic/Disney_Junior.webp" group-title="[ES] Infantil",Disney Junior FHD
+http://d38c98a9735.gookiki.me/live/476.ts?channel_id=476&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=673cb03ac59f26d3f9337ba1cec9a985c4e93b82ada18abb13ea25e89ec1ecf5
+#EXTINF:-1 tvg-id="477" tvg-name="Clan TVE HD" tvg-logo="https://buyone.xyz/pic/Clan_TVE.webp" group-title="[ES] Infantil",Clan TVE HD
+http://d38c98a9735.gookiki.me/live/477.ts?channel_id=477&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=e526f249172326e69c83b19038471dffe31ba080b6184f5a35bf613f7979e6ce
+#EXTINF:-1 tvg-id="478" tvg-name="Clan TVE FHD" tvg-logo="https://buyone.xyz/pic/Clan_TVE.webp" group-title="[ES] Infantil",Clan TVE FHD
+http://d38c98a9735.gookiki.me/live/478.ts?channel_id=478&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=1a049764ffaa54fefd93f58bb0af1b71316694c5307b80de597f76b90d1eeaca
+#EXTINF:-1 tvg-id="479" tvg-name="Boing HD" tvg-logo="https://buyone.xyz/pic/Boing.webp" group-title="[ES] Infantil",Boing HD
+http://d38c98a9735.gookiki.me/live/479.ts?channel_id=479&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=a2a8565d46d6077aa5b7840e755c83d9aabb1c42a742035a7d6a275008c7a51e
+#EXTINF:-1 tvg-id="480" tvg-name="Boing FHD" tvg-logo="https://buyone.xyz/pic/Boing.webp" group-title="[ES] Infantil",Boing FHD
+http://d38c98a9735.gookiki.me/live/480.ts?channel_id=480&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=cd6c3fc14f9832cc9b9caa69228c1fba4ef641a5a561164d8c1a60ac3d7f17df
+#EXTINF:-1 tvg-id="481" tvg-name="Nick Jr HD" tvg-logo="https://buyone.xyz/pic/Nick_Jr.webp" group-title="[ES] Infantil",Nick Jr HD
+http://d38c98a9735.gookiki.me/live/481.ts?channel_id=481&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=4dd4474e879cde513336a633d8f9c602ea3ff748754f2b0159aad7a2ab0a2587
+#EXTINF:-1 tvg-id="482" tvg-name="Nick Jr FHD" tvg-logo="https://buyone.xyz/pic/Nick_Jr.webp" group-title="[ES] Infantil",Nick Jr FHD
+http://d38c98a9735.gookiki.me/live/482.ts?channel_id=482&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=1e72e4bc098f734b473d8dc8582a4835d590ea8b3197253fdba7e9745ea90af9
+#EXTINF:-1 tvg-id="483" tvg-name="Nickelodeon HD" tvg-logo="https://buyone.xyz/pic/Nickelodeon.webp" group-title="[ES] Infantil",Nickelodeon HD
+http://d38c98a9735.gookiki.me/live/483.ts?channel_id=483&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=b4cf057ead5e711c1ba1a8215977d2433d4ae2fdfaa7c0ffea4fed3dc473c76b
+#EXTINF:-1 tvg-id="484" tvg-name="Nickelodeon FHD" tvg-logo="https://buyone.xyz/pic/Nickelodeon.webp" group-title="[ES] Infantil",Nickelodeon FHD
+http://d38c98a9735.gookiki.me/live/484.ts?channel_id=484&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=e361e03fc76f4f86a0a4d8f2e528f445824374541634bf01f341644583761d8f
+#EXTINF:-1 tvg-id="485" tvg-name="ENFAMILIA HD" tvg-logo="https://buyone.xyz/pic/ENFAMILIA.webp" group-title="[ES] Infantil",ENFAMILIA HD
+http://d38c98a9735.gookiki.me/live/485.ts?channel_id=485&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=ff0521e8c160dfa7143b448d6404f8d4ad903a808c2788f315b5e65820a9006c
+#EXTINF:-1 tvg-id="486" tvg-name="ENFAMILIA FHD" tvg-logo="https://buyone.xyz/pic/ENFAMILIA.webp" group-title="[ES] Infantil",ENFAMILIA FHD
+http://d38c98a9735.gookiki.me/live/486.ts?channel_id=486&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=a147d2f0be9614d03f5738e58db444978bb7861cedbc1252a980ac7f9d79acbf
+#EXTINF:-1 tvg-id="487" tvg-name="Baby TV HD" tvg-logo="https://buyone.xyz/pic/Baby_TV.webp" group-title="[ES] Infantil",Baby TV HD
+http://d38c98a9735.gookiki.me/live/487.ts?channel_id=487&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=7bb0ccfae1884962f38984087eb3608f4e447d9c21fe0f08dd64dda21e4467ab
+#EXTINF:-1 tvg-id="488" tvg-name="Baby TV FHD" tvg-logo="https://buyone.xyz/pic/Baby_TV.webp" group-title="[ES] Infantil",Baby TV FHD
+http://d38c98a9735.gookiki.me/live/488.ts?channel_id=488&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=8c11d5832b396ecf3d0d136694d4a91d15901fb7a0ab7f2d82dc7705b38bdb7d
+#EXTINF:-1 tvg-id="489" tvg-name="DREAMWORKS HD" tvg-logo="https://buyone.xyz/pic/DREAMWORKS.webp" group-title="[ES] Infantil",DREAMWORKS HD
+http://d38c98a9735.gookiki.me/live/489.ts?channel_id=489&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=7343be96f83787145dc149f199441d4d47fa5be66faafdaeeb10caa20f5c3b5d
+#EXTINF:-1 tvg-id="490" tvg-name="DREAMWORKS FHD" tvg-logo="https://buyone.xyz/pic/DREAMWORKS.webp" group-title="[ES] Infantil",DREAMWORKS FHD
+http://d38c98a9735.gookiki.me/live/490.ts?channel_id=490&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1945&sig=45da6d95c1ba9b8c15cc17accf393ae30053fb994180e202279a1286b18c4d53
+#EXTINF:-1 tvg-id="451" tvg-name="Documentales HD" tvg-logo="https://buyone.xyz/pic/Documentales.webp" group-title="[ES] Cultura",Documentales HD
+http://d38c98a9735.gookiki.me/live/451.ts?channel_id=451&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=452de21118d7ba49f1cc6973002bdb47cf378e1a30ccf994edbf954651df7f95
+#EXTINF:-1 tvg-id="452" tvg-name="Documentales FHD" tvg-logo="https://buyone.xyz/pic/Documentales.webp" group-title="[ES] Cultura",Documentales FHD
+http://d38c98a9735.gookiki.me/live/452.ts?channel_id=452&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3004&sig=e9abb2c0a27ed27e81c6c8e973121d569347219e81f4b49f711c13e170d3e8bd
+#EXTINF:-1 tvg-id="453" tvg-name="Odisea HD" tvg-logo="https://buyone.xyz/pic/Odisea.webp" group-title="[ES] Cultura",Odisea HD
+http://d38c98a9735.gookiki.me/live/453.ts?channel_id=453&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=9163aaec3073155e8db1967f3d7b2b428e632c5cb58ffabd94a8247917c9ba7a
+#EXTINF:-1 tvg-id="454" tvg-name="Odisea FHD" tvg-logo="https://buyone.xyz/pic/Odisea.webp" group-title="[ES] Cultura",Odisea FHD
+http://d38c98a9735.gookiki.me/live/454.ts?channel_id=454&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1954&sig=f426ed0ab24426899a060ee32677068a0b4b39a0d62ed4519f9a21510725a3bb
+#EXTINF:-1 tvg-id="455" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://buyone.xyz/pic/NATIONAL_GEOGRAPHIC.webp" group-title="[ES] Cultura",NATIONAL GEOGRAPHIC HD
+http://d38c98a9735.gookiki.me/live/455.ts?channel_id=455&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=5b7f4c19b4680fbd41bd74efa0f769455e3fde96e2cf98a9aec646939d579c18
+#EXTINF:-1 tvg-id="456" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://buyone.xyz/pic/NATIONAL_GEOGRAPHIC.webp" group-title="[ES] Cultura",NATIONAL GEOGRAPHIC FHD
+http://d38c98a9735.gookiki.me/live/456.ts?channel_id=456&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=d8cb8997bbec808bfc3308108c95750084470de78cc12dcd7c44a85ef0286d36
+#EXTINF:-1 tvg-id="465" tvg-name="NAT GEO WILD HD" tvg-logo="https://buyone.xyz/pic/NAT_GEO_WILD.webp" group-title="[ES] Cultura",NAT GEO WILD HD
+http://d38c98a9735.gookiki.me/live/465.ts?channel_id=465&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=c0da07af957f540b9043dfea6df961124acbba8aea79508e9080320d5af01862
+#EXTINF:-1 tvg-id="466" tvg-name="NAT GEO WILD FHD" tvg-logo="https://buyone.xyz/pic/NAT_GEO_WILD.webp" group-title="[ES] Cultura",NAT GEO WILD FHD
+http://d38c98a9735.gookiki.me/live/466.ts?channel_id=466&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3000&sig=8ffa9071bb983420acfb0bf6476eb534ab7fe05060ba3b6ee7c6e0eff938403b
+#EXTINF:-1 tvg-id="457" tvg-name="DISCOVERY HD" tvg-logo="https://buyone.xyz/pic/DISCOVERY.webp" group-title="[ES] Cultura",DISCOVERY HD
+http://d38c98a9735.gookiki.me/live/457.ts?channel_id=457&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=39443f8955cebc997fc83128d654327524b2b8a5bd243f2b45a99f4df14def25
+#EXTINF:-1 tvg-id="458" tvg-name="DISCOVERY FHD" tvg-logo="https://buyone.xyz/pic/DISCOVERY.webp" group-title="[ES] Cultura",DISCOVERY FHD
+http://d38c98a9735.gookiki.me/live/458.ts?channel_id=458&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3001&sig=13e63587d99d9c781cd5e71e2aff7db1d2dc117d52fb92b1e90e91a65242b6c1
+#EXTINF:-1 tvg-id="459" tvg-name="HISTORIA HD" tvg-logo="https://buyone.xyz/pic/HISTORIA.webp" group-title="[ES] Cultura",HISTORIA HD
+http://d38c98a9735.gookiki.me/live/459.ts?channel_id=459&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=269e2eab1bc28414e114bdb275f3028be957d0669e4f3b96f0f4872d9abd50a2
+#EXTINF:-1 tvg-id="460" tvg-name="HISTORIA FHD" tvg-logo="https://buyone.xyz/pic/HISTORIA.webp" group-title="[ES] Cultura",HISTORIA FHD
+http://d38c98a9735.gookiki.me/live/460.ts?channel_id=460&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=e7cdafd2d0adfbc799fca825d071ee380a200283e72d577d2c6523528a342ad1
+#EXTINF:-1 tvg-id="461" tvg-name="DECASA HD" tvg-logo="https://buyone.xyz/pic/DECASA.webp" group-title="[ES] Cultura",DECASA HD
+http://d38c98a9735.gookiki.me/live/461.ts?channel_id=461&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=cf7e5e1cff844d6260b87f0e9bbbb13d20a4487a7d7948765385204a6ee8ae18
+#EXTINF:-1 tvg-id="462" tvg-name="DECASA FHD" tvg-logo="https://buyone.xyz/pic/DECASA.webp" group-title="[ES] Cultura",DECASA FHD
+http://d38c98a9735.gookiki.me/live/462.ts?channel_id=462&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=9c8970e8683c99e6b978018e45e87001ed0906d2e0fb5483370a53d36e55e73b
+#EXTINF:-1 tvg-id="463" tvg-name="CAZAVISION HD" tvg-logo="https://buyone.xyz/pic/CAZAVISION.webp" group-title="[ES] Cultura",CAZAVISION HD
+http://d38c98a9735.gookiki.me/live/463.ts?channel_id=463&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=3003&sig=0cd51cc5d613b6de8e6118aae670dc0cffaa8339d32db71ff496c2c15745c1ea
+#EXTINF:-1 tvg-id="1519" tvg-name="RakutenTV Pelis Top" tvg-logo="http://cdn.eliteplaytv.tv:8000/images/-0z86JGa_Vvno0DDEHsmpI-iweYSF_QEPUTVlzrZ5PIrqNT9P6uyi9MIQpb2fFffIj-TTtUBHiLK4pHGTAa2VH82CiW-3Dv7E4TIYovvHKU.png" group-title="[ES] Rakuten",RakutenTV Pelis Top
+http://d38c98a9735.gookiki.me/live/1519.ts?channel_id=1519&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=ad031bf1811f703c312a92f8b0388932bac7b32aabe160e16cd66a898b1fe838
+#EXTINF:-1 tvg-id="1520" tvg-name="RakutenTV Acción" tvg-logo="http://cdn.eliteplaytv.tv:8000/images/-0z86JGa_Vvno0DDEHsmpI-iweYSF_QEPUTVlzrZ5PIrqNT9P6uyi9MIQpb2fFffIj-TTtUBHiLK4pHGTAa2VH82CiW-3Dv7E4TIYovvHKU.png" group-title="[ES] Rakuten",RakutenTV Acción
+http://d38c98a9735.gookiki.me/live/1520.ts?channel_id=1520&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=4871e799319a9568a59a66f4d0c523094408378719bcfef7aa02135f9c541fd6
+#EXTINF:-1 tvg-id="1521" tvg-name="RakutenTV Comedia" tvg-logo="http://cdn.eliteplaytv.tv:8000/images/-0z86JGa_Vvno0DDEHsmpI-iweYSF_QEPUTVlzrZ5PIrqNT9P6uyi9MIQpb2fFffIj-TTtUBHiLK4pHGTAa2VH82CiW-3Dv7E4TIYovvHKU.png" group-title="[ES] Rakuten",RakutenTV Comedia
+http://d38c98a9735.gookiki.me/live/1521.ts?channel_id=1521&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=326485ffa7bacf67fde95d2ef71434c96a2088fb3178fb714ec008eb2caf3b6d
+#EXTINF:-1 tvg-id="1522" tvg-name="RakutenTV Drama" tvg-logo="http://cdn.eliteplaytv.tv:8000/images/-0z86JGa_Vvno0DDEHsmpI-iweYSF_QEPUTVlzrZ5PIrqNT9P6uyi9MIQpb2fFffIj-TTtUBHiLK4pHGTAa2VH82CiW-3Dv7E4TIYovvHKU.png" group-title="[ES] Rakuten",RakutenTV Drama
+http://d38c98a9735.gookiki.me/live/1522.ts?channel_id=1522&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=ab90800e3bd14bf3bfd10b7c1f6d48d4448ffc140ad1a686e6e5b336bc6fe57f
+#EXTINF:-1 tvg-id="1523" tvg-name="RakutenTV Películas Románticas" tvg-logo="http://cdn.eliteplaytv.tv:8000/images/-0z86JGa_Vvno0DDEHsmpI-iweYSF_QEPUTVlzrZ5PIrqNT9P6uyi9MIQpb2fFffIj-TTtUBHiLK4pHGTAa2VH82CiW-3Dv7E4TIYovvHKU.png" group-title="[ES] Rakuten",RakutenTV Películas Románticas
+http://d38c98a9735.gookiki.me/live/1523.ts?channel_id=1523&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=c15ece84df7d29002716b7ea4e332eca21282978531db58eb42f187fe05b34bf
+#EXTINF:-1 tvg-id="1524" tvg-name="RakutenTV Cine Español" tvg-logo="http://cdn.eliteplaytv.tv:8000/images/-0z86JGa_Vvno0DDEHsmpI-iweYSF_QEPUTVlzrZ5PIrqNT9P6uyi9MIQpb2fFffIj-TTtUBHiLK4pHGTAa2VH82CiW-3Dv7E4TIYovvHKU.png" group-title="[ES] Rakuten",RakutenTV Cine Español
+http://d38c98a9735.gookiki.me/live/1524.ts?channel_id=1524&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=6f73719ed2f3e498f8b379bbde567b22556651a3a67c4344adb80fe4a9809880
+#EXTINF:-1 tvg-id="1525" tvg-name="RakutenTV Thrillers" tvg-logo="http://cdn.eliteplaytv.tv:8000/images/-0z86JGa_Vvno0DDEHsmpI-iweYSF_QEPUTVlzrZ5PIrqNT9P6uyi9MIQpb2fFffIj-TTtUBHiLK4pHGTAa2VH82CiW-3Dv7E4TIYovvHKU.png" group-title="[ES] Rakuten",RakutenTV Thrillers
+http://d38c98a9735.gookiki.me/live/1525.ts?channel_id=1525&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=224d2b86ee2a0f258f0df8d912a91b920bd6967d7a02c400db4e3a1b813904eb
+#EXTINF:-1 tvg-id="1526" tvg-name="RakutenTV Cine Friki" tvg-logo="http://cdn.eliteplaytv.tv:8000/images/-0z86JGa_Vvno0DDEHsmpI-iweYSF_QEPUTVlzrZ5PIrqNT9P6uyi9MIQpb2fFffIj-TTtUBHiLK4pHGTAa2VH82CiW-3Dv7E4TIYovvHKU.png" group-title="[ES] Rakuten",RakutenTV Cine Friki
+http://d38c98a9735.gookiki.me/live/1526.ts?channel_id=1526&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=7a414e531bbcd2b6f2b2b278314e97899e7e89779bc30e3d4fe55c5d3baa0725
+#EXTINF:-1 tvg-id="1527" tvg-name="RakutenTV Dark Matter" tvg-logo="http://cdn.eliteplaytv.tv:8000/images/-0z86JGa_Vvno0DDEHsmpI-iweYSF_QEPUTVlzrZ5PIrqNT9P6uyi9MIQpb2fFffIj-TTtUBHiLK4pHGTAa2VH82CiW-3Dv7E4TIYovvHKU.png" group-title="[ES] Rakuten",RakutenTV Dark Matter
+http://d38c98a9735.gookiki.me/live/1527.ts?channel_id=1527&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=575a93c99c41cb3069096353627c43c5e332386d8efedfa6af7ce98223e8f0b2
+#EXTINF:-1 tvg-id="1528" tvg-name="RakutenTV Grjngo" tvg-logo="http://cdn.eliteplaytv.tv:8000/images/-0z86JGa_Vvno0DDEHsmpI-iweYSF_QEPUTVlzrZ5PIrqNT9P6uyi9MIQpb2fFffIj-TTtUBHiLK4pHGTAa2VH82CiW-3Dv7E4TIYovvHKU.png" group-title="[ES] Rakuten",RakutenTV Grjngo
+http://d38c98a9735.gookiki.me/live/1528.ts?channel_id=1528&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=c411f5141d05e94042e8eace6282af2d6f86a0bb3bbee842200ed119fcc28b25
+#EXTINF:-1 tvg-id="1529" tvg-name="RakutenTV Crimen" tvg-logo="http://cdn.eliteplaytv.tv:8000/images/-0z86JGa_Vvno0DDEHsmpI-iweYSF_QEPUTVlzrZ5PIrqNT9P6uyi9MIQpb2fFffIj-TTtUBHiLK4pHGTAa2VH82CiW-3Dv7E4TIYovvHKU.png" group-title="[ES] Rakuten",RakutenTV Crimen
+http://d38c98a9735.gookiki.me/live/1529.ts?channel_id=1529&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1953&sig=3f98cfb4ee99e2c241e0a5629934fd43615e3812321289aa08af42dec92c22a3
+#EXTINF:-1 tvg-id="1530" tvg-name="RakutenTV FilmRise Sci-Fi" tvg-logo="http://cdn.eliteplaytv.tv:8000/images/-0z86JGa_Vvno0DDEHsmpI-iweYSF_QEPUTVlzrZ5PIrqNT9P6uyi9MIQpb2fFffIj-TTtUBHiLK4pHGTAa2VH82CiW-3Dv7E4TIYovvHKU.png" group-title="[ES] Rakuten",RakutenTV FilmRise Sci-Fi
+http://d38c98a9735.gookiki.me/live/1530.ts?channel_id=1530&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=fcaa068735e524693818bdc6758890fccc2346bf50011a458dae31025b2da845
+#EXTINF:-1 tvg-id="1531" tvg-name="MOTOGP REPLAY" tvg-logo="http://cdn.eliteplaytv.tv:8000/images/MIMi-gTqQoap5ecl-mmXBaygMIeceydxXxQXdpO2IqmdBiFlG7IqG6_wKu1Se0u1tOx58_YBffA-BpIl3X0lKQ.png" group-title="[ES] Motor replay",MOTOGP REPLAY
+http://d38c98a9735.gookiki.me/live/1531.ts?channel_id=1531&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=f68e9dfb5ee1616dc822e5bf0e0330c0198bbf36059ccb4186157d93b34d1039
+#EXTINF:-1 tvg-id="1532" tvg-name="F1 REPLAY" tvg-logo="http://cdn.eliteplaytv.tv:8000/images/MIMi-gTqQoap5ecl-mmXBaygMIeceydxXxQXdpO2IqlREy5u3VrEhVcCcpl_Rv264-CZ44SsEqqcFLZSQDdQ0A.png" group-title="[ES] Motor replay",F1 REPLAY
+http://d38c98a9735.gookiki.me/live/1532.ts?channel_id=1532&d=74f24e619bd4ef04&exp=4102444800&line_id=1168&p=1943&sig=c6c9987b53321066f64711ea443bcce25a51e52f64063d3943c249217d0b1774
